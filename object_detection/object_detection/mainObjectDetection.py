@@ -56,7 +56,7 @@ class ObjectDetection:
         
         #TODO: 
         #self.camera_name = rs.camera_info.name
-        self.camera_name = "small"
+        self.camera_name = "big"
 
         config.enable_stream(rs.stream.depth, 640, 480, rs.format.z16, 30)
         config.enable_stream(rs.stream.color, 640, 480, rs.format.bgr8, 30)
@@ -73,8 +73,8 @@ class ObjectDetection:
         fourcc = cv2.VideoWriter_fourcc(*'mp4v')
 
         # Define the video resolution based on the first image
-        self.clean_video_path = logs_dir + "ObjectDetection_" + formatted_time + "_clean.mp4"
-        self.data_video_path = logs_dir + "ObjectDetection_" + formatted_time + "_withData.mp4"
+        self.clean_video_path = logs_dir + "ObjectDetection_" + formatted_time + "_clean_drive_ with_big.mp4"
+        self.data_video_path = logs_dir + "ObjectDetection_" + formatted_time + "_withData_drive_with_big.mp4"
                
         
         self.clean_video = cv2.VideoWriter(self.clean_video_path, fourcc, 10, (640, 480))
