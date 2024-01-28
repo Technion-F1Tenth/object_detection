@@ -30,12 +30,7 @@ while True:
     depth_colormap_dim = depth_colormap.shape
     color_colormap_dim = color_image.shape
 
-    # If depth and color resolutions are different, resize color image to match depth image for display
-    if depth_colormap_dim != color_colormap_dim:
-        resized_color_image = cv2.resize(color_image, dsize=(depth_colormap_dim[1], depth_colormap_dim[0]), interpolation=cv2.INTER_AREA)
-        images = np.hstack((resized_color_image, depth_colormap))
-    else:
-        images = np.hstack((color_image, depth_colormap))
+    images = np.hstack((color_image, depth_colormap))
 
     # Show images
     cv2.namedWindow('RealSense', cv2.WINDOW_AUTOSIZE)
