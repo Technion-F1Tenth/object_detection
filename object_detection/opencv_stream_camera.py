@@ -1,3 +1,6 @@
+
+import sys
+
 import pyrealsense2 as rs
 import numpy as np
 import cv2
@@ -6,9 +9,9 @@ from YOLO_car_detector import yolo_car_detector
 from utils import plot_bounding_box_on_im
 import matplotlib.pyplot as plt
 
-buffer = 5 #TODO: costomaize config 
+# buffer = 5 #TODO: costomaize config 
 
-def main():
+def main(buffer = 1):
     # Configure depth and color streams
     pipeline = rs.pipeline()
     config = rs.config()
@@ -61,5 +64,7 @@ def main():
 
 
 
+
 if __name__ == '__main__':
-    main()
+    main(sys.argv[1])
+
