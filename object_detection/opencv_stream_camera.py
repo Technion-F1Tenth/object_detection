@@ -39,22 +39,27 @@ def main():
         images = np.hstack((color_image, depth_colormap))
 
         # # Show images
-        # cv2.namedWindow('RealSense', cv2.WINDOW_AUTOSIZE)
-        # cv2.imshow('RealSense', images)
-        # cv2.waitKey(1)
+        cv2.namedWindow('RealSense', cv2.WINDOW_AUTOSIZE)
+        cv2.imshow('RealSense', images)
+        cv2.waitKey(1)
 
         #detect
-        images_list.appand(images)
-        i+=1
-        if(i==buffer):
-            i=0
+        # images_list.appand(images)
+        # i+=1
+        # if(i==buffer):
+        #     i=0
 
-            bounding_boxes, output_images = detector.detect(images_list, return_images=True)
-
-            for output_im, boxes in zip(output_images, bounding_boxes):
-                cv2.namedWindow('detect', cv2.WINDOW_AUTOSIZE)
-                cv2.imshow('detect', output_im)
-                cv2.waitKey(1)
+        #     bounding_boxes, output_images = detector.detect(images_list, return_images=True)
+        #     for output_im, boxes in zip(output_images, bounding_boxes):
+        #         cv2.namedWindow('detect', cv2.WINDOW_AUTOSIZE)
+        #         cv2.imshow('detect', output_im)
+        #         cv2.waitKey(1)
+        #     images_list = []
 
 
     pipeline.stop() #TODO: never get here
+
+
+
+if __name__ == '__main__':
+    main()
