@@ -6,7 +6,7 @@ from YOLO_car_detector import yolo_car_detector
 from utils import plot_bounding_box_on_im
 import matplotlib.pyplot as plt
 
-buffer = 2 #TODO: costomaize config 
+buffer = 5 #TODO: costomaize config 
 
 def main():
     # Configure depth and color streams
@@ -19,7 +19,7 @@ def main():
     pipeline.start(config)
 
     detector = yolo_car_detector()
-    images_list = []
+    # images_list = []
     i=0
     while True:
         # Wait for a coherent pair of frames: depth and color
@@ -39,22 +39,22 @@ def main():
         images = np.hstack((color_image, depth_colormap))
 
         # # Show images
-        cv2.namedWindow('RealSense', cv2.WINDOW_AUTOSIZE)
-        cv2.imshow('RealSense', images)
-        cv2.waitKey(1)
+        # cv2.namedWindow('RealSense', cv2.WINDOW_AUTOSIZE)
+        # cv2.imshow('RealSense', images)
+        # cv2.waitKey(1)
 
         #detect
         # images_list.appand(images)
-        # i+=1
-        # if(i==buffer):
-        #     i=0
+        i+=1
+        if(i==buffer):
+            i=0
 
-        #     bounding_boxes, output_images = detector.detect(images_list, return_images=True)
-        #     for output_im, boxes in zip(output_images, bounding_boxes):
-        #         cv2.namedWindow('detect', cv2.WINDOW_AUTOSIZE)
-        #         cv2.imshow('detect', output_im)
-        #         cv2.waitKey(1)
-        #     images_list = []
+            bounding_boxes, output_images = detector.detect(images, return_images=True)
+            for output_im, boxes in zip(output_images, bounding_boxes):
+                cv2.namedWindow('detect', cv2.WINDOW_AUTOSIZE)
+                cv2.imshow('detect', output_im)
+                cv2.waitKey(1)
+            # images_list = []
 
 
     pipeline.stop() #TODO: never get here
