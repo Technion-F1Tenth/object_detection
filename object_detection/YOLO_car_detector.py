@@ -49,7 +49,7 @@ class yolo_car_detector:
         if not return_images:
             return bounding_boxes
 
-        #for debug
+        # for debug
         detection_ims = []
         for res in results:
             im_array = res.plot()
