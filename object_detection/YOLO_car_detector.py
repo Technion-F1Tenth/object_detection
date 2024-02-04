@@ -10,7 +10,9 @@ class yolo_car_detector:
             them as the same object.
         :param agnostic_nms: If True, the non-maximum suppression will be performed between all classes
         """
-        self.conf_threshold = conf_threshold
+        
+        #TODO: check the best config
+        self.conf_threshold = conf_threshold 
         self.iou_threshold_nms = iou_threshold_nms
         self.agnostic_nms = agnostic_nms
 
@@ -47,6 +49,7 @@ class yolo_car_detector:
         if not return_images:
             return bounding_boxes
 
+        #for debug
         detection_ims = []
         for res in results:
             im_array = res.plot()
