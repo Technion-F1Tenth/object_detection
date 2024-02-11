@@ -2,6 +2,8 @@ from ultralytics import YOLO
 import torch
 
 
+
+
 class yolo_car_detector:
     def __init__(self, conf_threshold=0.05, iou_threshold_nms=0.3, agnostic_nms=True):
         """
@@ -15,8 +17,8 @@ class yolo_car_detector:
         self.conf_threshold = conf_threshold 
         self.iou_threshold_nms = iou_threshold_nms
         self.agnostic_nms = agnostic_nms
-
-        self.model = YOLO('yolov8n.pt')
+        torch.cuda.set_device(0)
+        self.model = YOLO('yolov8n.pt', device='gpu')
 
         # we only want output for these classes, which our car can be classified as:
         classes_to_detect = ['car', 'motorcycle', 'bus', 'truck', 'bicycle', 'skateboard']
