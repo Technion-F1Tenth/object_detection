@@ -17,8 +17,7 @@ class yolo_car_detector:
         self.conf_threshold = conf_threshold 
         self.iou_threshold_nms = iou_threshold_nms
         self.agnostic_nms = agnostic_nms
-        torch.cuda.set_device(0)
-        self.model = YOLO('yolov8n.pt', device='gpu')
+        self.model = YOLO('yolov8n.pt')
 
         # we only want output for these classes, which our car can be classified as:
         classes_to_detect = ['car', 'motorcycle', 'bus', 'truck', 'bicycle', 'skateboard']
