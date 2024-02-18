@@ -39,7 +39,8 @@ def main(buffer = 1):
         # Apply colormap on depth image (image must be converted to 8-bit per pixel first)
         depth_colormap = cv2.applyColorMap(cv2.convertScaleAbs(depth_image, alpha=0.03), cv2.COLORMAP_JET)
 
-        images = np.hstack((color_image, depth_colormap))
+        # images = np.hstack((color_image, depth_colormap))
+        images = color_image
 
         # # Show images
         # cv2.namedWindow('RealSense', cv2.WINDOW_AUTOSIZE)
@@ -56,6 +57,21 @@ def main(buffer = 1):
             for output_im, boxes in zip(output_images, bounding_boxes):
                 cv2.namedWindow('detect', cv2.WINDOW_AUTOSIZE)
                 cv2.imshow('detect', output_im)
+                if boxes is not None:
+                    # print('type:', type(boxes))
+                    print('boxes:', boxes)
+                    # print('shape', boxes.shape)
+                    point = (boxes[0], boxes[1])
+                    c = point[0]
+                    r = point[1]
+                    depth_intrin = depth_frame.profile.as_video_stream_profile().intrinsics
+                    depth = depth_frame.get_distance(c, r)
+                    depth_point_in_meters_camera_coords = rs.rs2_deproject_pixel_to_point(depth_intrin, [c, r], depth)
+                    xyz = [depth_point_in_meters_camera_coords[2], -depth_point_in_meters_camera_coords[0], -depth_point_in_meters_camera_coords[1]]
+                    print('depth_point_in_meters_camera_coords is:' ,depth_point_in_meters_camera_coords)
+                    print('x:', xyz[0], 'y:', xyz[1], "z:", xyz[2])
+                else:
+                    print ('boxes is None! no detections')
                 cv2.waitKey(1)
             # images_list = []
 
