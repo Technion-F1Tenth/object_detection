@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import os
 import sys
 import time
@@ -11,10 +13,6 @@ import cv2
 from YOLO_car_detector import yolo_car_detector
 from utils import plot_bounding_box_on_im
 import matplotlib.pyplot as plt
-
-
-
-
 
 class ObjectDetection:
     def __init__(self):
@@ -47,7 +45,7 @@ class ObjectDetection:
             filemode='w'  # Set the file mode ('w' for write, 'a' for append)
         )
     
-    def detect(detector, images, depth_frame):
+    def detect(self, detector, images, depth_frame):
         bounding_boxes, output_images = detector.detect(images, return_images=True)
         for output_im, boxes in zip(output_images, bounding_boxes):
             cv2.namedWindow('detect', cv2.WINDOW_AUTOSIZE)
