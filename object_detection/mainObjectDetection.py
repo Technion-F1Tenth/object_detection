@@ -52,7 +52,7 @@ class ObjectDetection:
             cv2.imshow('detect', output_im)
             if boxes is not None:
                 # logging.info('type:', type(boxes))
-                logging.info('boxes: %s', str(boxes))
+                logging.info('boxes: '+ str(boxes))
                 # logging.info('shape', boxes.shape)
                 point = (boxes[0], boxes[1])
                 c = point[0]
@@ -61,7 +61,7 @@ class ObjectDetection:
                 depth = depth_frame.get_distance(c, r)
                 depth_point_in_meters_camera_coords = rs.rs2_deproject_pixel_to_point(depth_intrin, [c, r], depth)
 
-                logging.info('depth_point_in_meters_camera_coords is: %s' + str(depth_point_in_meters_camera_coords))
+                logging.info('depth_point_in_meters_camera_coords is:' + str(depth_point_in_meters_camera_coords))
 
             else:
                 logging.info('boxes is None! no detections')
