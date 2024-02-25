@@ -11,6 +11,7 @@ import matplotlib.pyplot as plt
 
 # buffer = 5 #TODO: costomaize config 
 
+
 def main(buffer = 1):
     # Configure depth and color streams
     pipeline = rs.pipeline()
@@ -86,4 +87,5 @@ if __name__ == '__main__':
     if not args_num: main()
     elif args_num == 1: main(sys.argv[1])
     else: print("Too many arguments!")
+
 
