@@ -1,5 +1,5 @@
-from object_detection.YOLO_car_detector import yolo_car_detector
-from object_detection.utils import plot_bounding_box_on_im
+from ..object_detection.YOLO_car_detector import yolo_car_detector
+from ..object_detection.utils import plot_bounding_box_on_im
 import cv2
 import matplotlib.pyplot as plt
 import glob
