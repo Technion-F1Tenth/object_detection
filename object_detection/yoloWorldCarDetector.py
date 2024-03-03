@@ -41,9 +41,9 @@ class yoloWorldCarDetector:
         print(f"Time for inference: {time.time() - t:.4f} seconds")
 
         labels = [
-            f"{self.classes[class_id]}: {confidence:0.3f}, tracker_id {tracker_id}"
-            for class_id, confidence, tracker_id
-            in zip(detections.class_id, detections.confidence, detections.tracker_id)
+            f"{self.classes[class_id]}: {confidence:0.3f}"
+            for class_id, confidence
+            in zip(detections.class_id, detections.confidence)
         ]
 
         annotated_image = image.copy()
