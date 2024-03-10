@@ -43,7 +43,7 @@ class ObjectDetection:
         )
 
 
-        # init
+        # init realsense camera pipeline
         self.pipeline = rs.pipeline()
         config = rs.config()
 
@@ -52,13 +52,23 @@ class ObjectDetection:
 
         self.pipeline.start(config)
 
-        self.detector = yolo_car_detector()
-
-        # initialize
+        # initialize camera consts
         frame = self.pipeline.wait_for_frames()
         depth_frame = frame.get_depth_frame()
         self.depth_intrin = depth_frame.profile.as_video_stream_profile().intrinsics
 
+        self.detector = yolo_car_detector()
+
+    def get_opponent_xy_point(box):
+        if box is not None:
+            top_left_point = (box[0], box[1])
+            bottom_right_point = (box[2], box[3])
+
+            # center of the car
+            c = int((top_left_point[0] + bottom_right_point[0]) / 2)
+            r = int((top_left_point[1] + bottom_right_point[1]) / 2)
+
+            return (c, r)
     def runObjectDetection(self, buffer = 1):
         while True:
             # Wait for a coherent pair of frames: depth and color
@@ -80,14 +90,12 @@ class ObjectDetection:
             
             for boxes in bounding_boxes:
                 if boxes is not None:
-                    top_left_point = (boxes[0], boxes[1])
-                    bottom_right_point = (boxes[2], boxes[3])
-                    # center of the car
-                    c = int((top_left_point[0] + bottom_right_point[0]) / 2)
-                    r = int((top_left_point[1] + bottom_right_point[1]) / 2)
+                    
+                    c, r = self.get_opponent_xy_point(boxes)
                     
                     depth = depth_frame.get_distance(c, r)
                     depth_point_in_meters_camera_coords = rs.rs2_deproject_pixel_to_point(self.depth_intrin, [c, r], depth)
+
                     print('depth_point_in_meters_camera_coords is:' ,depth_point_in_meters_camera_coords)
                 else:
                     print ('boxes is None! no detections')
