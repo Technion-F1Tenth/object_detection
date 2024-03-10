@@ -59,7 +59,7 @@ class ObjectDetection:
 
         self.detector = yolo_car_detector()
 
-    def get_opponent_xy_point(box):
+    def get_opponent_xy_point(self, box):
         if box is not None:
             top_left_point = (box[0], box[1])
             bottom_right_point = (box[2], box[3])
