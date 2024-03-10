@@ -81,24 +81,22 @@ class ObjectDetection:
             # Convert images to numpy arrays
             color_image = np.asanyarray(color_frame.get_data())
 
-            bounding_boxes, output_images = self.detector.detect(color_image, return_images=True)
+            bounding_box, output_images = self.detector.detect(color_image, return_images=True)
             cv2.namedWindow('detect', cv2.WINDOW_AUTOSIZE)
             cv2.imshow('detect', output_images)
             cv2.waitKey(1)
             if self.debug_mode:
-                print(bounding_boxes)
-            
-            for boxes in bounding_boxes:
-                if boxes is not None:
-                    
-                    c, r = self.get_opponent_xy_point(boxes)
-                    
-                    depth = depth_frame.get_distance(c, r)
-                    depth_point_in_meters_camera_coords = rs.rs2_deproject_pixel_to_point(self.depth_intrin, [c, r], depth)
+                print(bounding_box)
 
-                    print('depth_point_in_meters_camera_coords is:' ,depth_point_in_meters_camera_coords)
-                else:
-                    print ('boxes is None! no detections')
+            if bounding_box is not None:
+                c, r = self.get_opponent_xy_point(bounding_box)
+
+                depth = depth_frame.get_distance(c, r)
+                depth_point_in_meters_camera_coords = rs.rs2_deproject_pixel_to_point(self.depth_intrin, [c, r], depth)
+
+                print('depth_point_in_meters_camera_coords is:' ,depth_point_in_meters_camera_coords)
+            else:
+                print ('boxes is None! no detections')
 
 
 def printColor(text, color_code="\033[0m"):
