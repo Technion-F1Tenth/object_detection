@@ -6,6 +6,7 @@ from rclpy.node import Node
 
 # from sensor_msgs.msg import LaserScan
 from geometry_msgs.msg import Pose
+from sensor_msgs.msg import Image
 
 from .object_detection import mainObjectDetection
 
@@ -18,19 +19,22 @@ class VisionNode(Node):
         super().__init__('vision_node')
         # Topics & Subs, Pubs
 
-        vision_topic = '/vision'
+        object_detection_pose_topic = '/object_detection_pose'
+        object_detection_image_topic = '/object_detection_image'
         ### add more topics if needed
 
         self.declare_parameters(
             namespace='',
             parameters=[
-                ('vision_topic', '/vision'),
+                ('object_detection_pose_topic', '/object_detection_pose'),
+                ('object_detection_image_topic', '/object_detection_image'),
             ]
         )
 
-        self.detector = mainObjectDetection.ObjectDetection(debug = False)
+        self.detector = mainObjectDetection.ObjectDetection(debug = True)
         # TODO: consider using PoseStamped instead of Pose - contains some metadata like time and sequence.
-        self.vision_pub = self.create_publisher(Pose, self.get_parameter('vision_topic').value, 10)
+        self.object_detection_pose_pub = self.create_publisher(Pose, self.get_parameter('object_detection_pose_topic').value, 10)
+        self.object_detection_image_pub = self.create_publisher(Image, self.get_parameter('object_detection_image_topic').value, 10)
         ### publish or subscribe more topics if needed        
 
     def generate_pose(self, xyz, orientation = None):
@@ -54,13 +58,15 @@ class VisionNode(Node):
         return pose
 
     def vision_main(self):
-        ### TODO: stop on some event?
+        ### TODO: stop on some event? maybe sleep until an anomaly is detected on track?
         while True:
-            xyz = self.detector.runObjectDetection(ros = True)
+            xyz, im = self.detector.runObjectDetection(ros = True)
             if xyz is None:
-            	xyz = [-1,-1,-1]
+                xyz = [-1,-1,-1]
             pose = self.generate_pose(xyz = xyz)
-            self.vision_pub.publish(pose)
+            self.object_detection_pose_pub.publish(pose)
+            self.object_detection_image_pub.publish(im)
+
 
 
 def main(args=None):
