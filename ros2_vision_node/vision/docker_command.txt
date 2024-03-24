@@ -1,0 +1,14 @@
+# run first:
+xhost +
+
+# then:
+sudo docker run --runtime nvidia -it --rm -v ~/f1tenth_ws:/home/doof-wagon/f1tenth_ws -v ~/Vision_2024:/Vision_2024 --network=host -e DISPLAY=$DISPLAY --privileged --device=/dev f1tenth_object_detection
+
+
+# If you want to install something in the docker edit docker/Dockerfile and run:
+sudo docker build -t f1tenth_object_detection .
+
+
+____
+
+sudo docker run --runtime nvidia -it --rm -v ~/Vision_2024:/Vision_2024 -v ~/_Vision_2024:/_Vision_2024 --network=host -e DISPLAY=$DISPLAY --privileged --device=/dev f1tenth_object_detection_py39

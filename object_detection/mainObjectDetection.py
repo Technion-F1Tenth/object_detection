@@ -69,6 +69,7 @@ class ObjectDetection:
             r = int((top_left_point[1] + bottom_right_point[1]) / 2)
 
             return (c, r)
+        
     def runObjectDetection(self, buffer = 1):
         while True:
             # Wait for a coherent pair of frames: depth and color
