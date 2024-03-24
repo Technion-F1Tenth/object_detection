@@ -12,17 +12,23 @@ import cv2
 from .yoloWorldCarDetector import yoloWorldCarDetector as yolo_car_detector
 
 class ObjectDetection:
-    def __init__(self, debug = False):
+    def __init__(self, debug = False, depth_radius = 5, offset_x=0, offset_y=0):
         parser = argparse.ArgumentParser(description='A simple script with command-line arguments.')
 
         # Define command-line arguments
         parser.add_argument('--debug', action='store_true', help='Enable debug mode')
+        parser.add_argument('--dr', required=False , help='change the default radius for measure depth')
+        parser.add_argument('--ox', required=False , help='change the default offset_x for measure depth')
+        parser.add_argument('--oy', required=False , help='change the default offset_y for measure depth')
 
         # Parse the command-line arguments
         args = parser.parse_args()
 
         # Access the parsed arguments
         self.debug_mode = args.debug or debug
+        self.depth_radius = args.dr if args.dr else depth_radius 
+        self.offset_x = args.ox if args.ox else offset_x 
+        self.offset_y = args.oy if args.oy else offset_y 
 
         # Configure logging
         logs_dir = os.getcwd() + "/logs/"
@@ -42,7 +48,6 @@ class ObjectDetection:
             filemode='w'  # Set the file mode ('w' for write, 'a' for append)
         )
 
-
         # init realsense camera pipeline
         self.pipeline = rs.pipeline()
         config = rs.config()
@@ -59,16 +64,47 @@ class ObjectDetection:
 
         self.detector = yolo_car_detector()
 
-    def get_opponent_xy_point(self, box):
+
+    # def get_opponent_xy_point_by_center(self, box):
+    #     if box is not None:
+    #         top_left_point = (box[0], box[1])
+    #         bottom_right_point = (box[2], box[3])
+
+    #         # center of the car
+    #         c = int((top_left_point[0] + bottom_right_point[0]) / 2)
+    #         r = int((top_left_point[1] + bottom_right_point[1]) / 2)
+
+    #         return (c, r)
+        
+    #     return None
+        
+    def getOpponentXYPoint(self, box, offset_x, offset_y):
         if box is not None:
             top_left_point = (box[0], box[1])
             bottom_right_point = (box[2], box[3])
+            logging.debug("BBOX:" + top_left_point + ", " + bottom_right_point ) 
 
             # center of the car
-            c = int((top_left_point[0] + bottom_right_point[0]) / 2)
-            r = int((top_left_point[1] + bottom_right_point[1]) / 2)
+            c = int((top_left_point[0] + bottom_right_point[0]) / 2) + offset_x
+            r = int((top_left_point[1] + bottom_right_point[1]) / 2) + offset_y
 
+            logging.debug("center point:" + c + ", " + r) 
             return (c, r)
+        
+        return None
+    
+    def getDepth(self, depth_frame, bbox):
+        depth_list = []
+        c,r  = self.getOpponentXYPoint(self, bbox, self.offset_x, self.offset_y)
+        for row in range(r - self.depth_radius, r + self.depth_radius):
+            for col in range(c - self.depth_radius, c + self.depth_radius):
+                if row > bbox[1] and row < bbox[3] and col > bbox[0] and col < bbox[2]: 
+                    depth = depth_frame.get_distance(col, row)
+                    depth_list.append(rs.rs2_deproject_pixel_to_point(self.depth_intrin, [col, row], depth))
+        if not depth_list:
+            logging.error("depth list is empty")
+            return None
+        return np.mean(depth_list)
         
     def runObjectDetection(self, buffer = 1, ros = False):
         while True:
@@ -83,24 +119,27 @@ class ObjectDetection:
             color_image = np.asanyarray(color_frame.get_data())
 
             bounding_box, output_images = self.detector.detect(color_image, return_images=True)
-            # cv2.namedWindow('detect', cv2.WINDOW_AUTOSIZE)
-            # cv2.imshow('detect', output_images)
-            # cv2.waitKey(1)
+            
+            if not ros:
+                cv2.namedWindow('detect', cv2.WINDOW_AUTOSIZE)
+                cv2.imshow('detect', output_images)
+                cv2.waitKey(1)
+
             if self.debug_mode:
                 print(bounding_box)
 
             if bounding_box is not None:
-                c, r = self.get_opponent_xy_point(bounding_box)
+                # c, r = self.get_opponent_xy_point(bounding_box)
 
-                depth = depth_frame.get_distance(c, r)
-                depth_point_in_meters_camera_coords = rs.rs2_deproject_pixel_to_point(self.depth_intrin, [c, r], depth)
-
-                print('depth_point_in_meters_camera_coords is:' ,depth_point_in_meters_camera_coords)
+                # depth = depth_frame.get_distance(c, r)
+                # depth_point_in_meters_camera_coords = rs.rs2_deproject_pixel_to_point(self.depth_intrin, [c, r], depth)
+                depth_point_in_meters_camera_coords = self.getDepth(depth_frame, bounding_box)
+                logging.info('depth_point_in_meters_camera_coords is:', depth_point_in_meters_camera_coords)
                 
                 if ros:
-                    return depth_point_in_meters_camera_coords
+                    return depth_point_in_meters_camera_coords, output_images
             else:
-                print ('boxes is None! no detections')
+                logging.info('boxes is None! no detections')
                 if ros:
                     return None
 
