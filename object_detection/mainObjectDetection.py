@@ -59,6 +59,14 @@ class ObjectDetection:
 
         self.detector = yolo_car_detector()
 
+        
+        fourcc = cv2.VideoWriter_fourcc(*'mp4v')
+
+        # Define the video resolution based on the first image
+        video_name = "logVideo_" + formatted_time + ".mp4"
+        self.video = cv2.VideoWriter(video_name, fourcc, 1, (640, 480))
+        
+
     def get_opponent_xy_point(self, box):
         if box is not None:
             top_left_point = (box[0], box[1])
@@ -86,6 +94,11 @@ class ObjectDetection:
             cv2.namedWindow('detect', cv2.WINDOW_AUTOSIZE)
             cv2.imshow('detect', output_images)
             cv2.waitKey(1)
+
+            # Write images to the video
+            self.video.write(cv2.imread(output_images))
+        
+         
             if self.debug_mode:
                 print(bounding_box)
 
@@ -98,6 +111,9 @@ class ObjectDetection:
                 print('depth_point_in_meters_camera_coords is:' ,depth_point_in_meters_camera_coords)
             else:
                 print ('boxes is None! no detections')
+       # Release the video writer
+        self.video.release()
+            
 
 
 def printColor(text, color_code="\033[0m"):
