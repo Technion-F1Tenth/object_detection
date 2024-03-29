@@ -4,15 +4,12 @@ import sys
 import pyrealsense2 as rs
 import numpy as np
 import cv2
-import supervision as sv
-
 
 # from YOLO_car_detector import yolo_car_detector
-from yoloWorldCarDetector import yoloWorldCarDetector as yolo_car_detector
-from utils import plot_bounding_box_on_im
-import matplotlib.pyplot as plt
+from object_detection.yoloWorldCarDetector import yoloWorldCarDetector as yolo_car_detector
 
-# buffer = 5 #TODO: costomaize config 
+
+# buffer = 5 #TODO: costomaize config
 
 
 def main(buffer = 1, debug = True):

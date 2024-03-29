@@ -5,6 +5,8 @@ import cv2
 import glob
 import time
 import torch
+import logging
+import sys
 import numpy as np
 
 
@@ -39,7 +41,9 @@ class yoloWorldCarDetector:
         """
         t = time.time()
         results = self.model.predict(image, conf=0.1, iou=self.iou_threshold, agnostic_nms=False) #TODO shuold we use iou threshold? we later take the one with highest conf anyway...
-        print(f"Time for inference: {time.time() - t:.4f} seconds")
+
+
+        logging.debug(f"Time for inference: {time.time() - t:.4f} seconds")
         result = results[0]  # we only support one image at a time
 
         confidences = result.boxes.conf

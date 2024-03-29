@@ -9,7 +9,7 @@ import pyrealsense2 as rs
 import numpy as np
 import cv2
 
-from yoloWorldCarDetector import yoloWorldCarDetector as yolo_car_detector
+from object_detection.yoloWorldCarDetector import yoloWorldCarDetector as yolo_car_detector
 
 class ObjectDetection:
     def __init__(self):
@@ -33,7 +33,7 @@ class ObjectDetection:
         formatted_time = time.strftime("%d-%m-%Y_%H-%M-%S", time.localtime(timestamp))
         log_name = "ObjectDetection_"+ formatted_time +".log"
         log_file = logs_dir + log_name
-        printColor("the log file is: " + log_file, "\033[91m")
+        printColor("the log file is: " + log_file, "\033[95m")
         
         logging.basicConfig(
             level=logging.DEBUG if self.debug_mode else logging.INFO,  # Set the logging level
@@ -41,6 +41,7 @@ class ObjectDetection:
             filename=log_file,  # Specify the log file
             filemode='w'  # Set the file mode ('w' for write, 'a' for append)
         )
+        logging.info("!!!!!!!START!!!!!!!")
 
 
         # init realsense camera pipeline
@@ -59,13 +60,14 @@ class ObjectDetection:
 
         self.detector = yolo_car_detector()
 
-        
         fourcc = cv2.VideoWriter_fourcc(*'mp4v')
 
         # Define the video resolution based on the first image
-        video_name = "logVideo_" + formatted_time + ".mp4"
-        self.video = cv2.VideoWriter(video_name, fourcc, 1, (640, 480))
-        
+        clean_video = logs_dir + "ObjectDetection_" + formatted_time + "_clean.mp4"
+        data_video = logs_dir + "ObjectDetection_" + formatted_time + "_withData.mp4"
+        self.clean_video = cv2.VideoWriter(clean_video, fourcc, 10, (640, 480))
+        self.data_video = cv2.VideoWriter(data_video, fourcc, 10, (640, 480))
+
 
     def get_opponent_xy_point(self, box):
         if box is not None:
@@ -96,11 +98,11 @@ class ObjectDetection:
             cv2.waitKey(1)
 
             # Write images to the video
-            self.video.write(cv2.imread(output_images))
+            self.clean_video.write(color_image)
+
         
-         
-            if self.debug_mode:
-                print(bounding_box)
+
+            logging.debug(bounding_box)
 
             if bounding_box is not None:
                 c, r = self.get_opponent_xy_point(bounding_box)
@@ -108,11 +110,15 @@ class ObjectDetection:
                 depth = depth_frame.get_distance(c, r)
                 depth_point_in_meters_camera_coords = rs.rs2_deproject_pixel_to_point(self.depth_intrin, [c, r], depth)
 
-                print('depth_point_in_meters_camera_coords is:' ,depth_point_in_meters_camera_coords)
+                cv2.rectangle(output_images, (x1, y1), (x2, y2), (255, 0, 0), 2)  # Blue color bbox with 2px thickness
+                self.data_video.write(output_images)
+
+                logging.info('depth_point_in_meters_camera_coords is: ' + str(depth_point_in_meters_camera_coords))
             else:
-                print ('boxes is None! no detections')
-       # Release the video writer
-        self.video.release()
+                logging.info('boxes is None! no detections')
+        # Release the video writer
+        self.clean_video.release()
+        self.data_video.release()
             
 
 

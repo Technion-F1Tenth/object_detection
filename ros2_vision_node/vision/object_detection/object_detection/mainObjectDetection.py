@@ -9,7 +9,7 @@ import pyrealsense2 as rs
 import numpy as np
 import cv2
 
-from .yoloWorldCarDetector import yoloWorldCarDetector as yolo_car_detector
+from yoloWorldCarDetector import yoloWorldCarDetector as yolo_car_detector
 
 class ObjectDetection:
     def __init__(self, debug = False, depth_radius = 5, offset_x=0, offset_y=0):
@@ -39,7 +39,7 @@ class ObjectDetection:
         formatted_time = time.strftime("%d-%m-%Y_%H-%M-%S", time.localtime(timestamp))
         log_name = "ObjectDetection_"+ formatted_time +".log"
         log_file = logs_dir + log_name
-        printColor("the log file is: " + log_file, "\033[91m")
+        printColor("the log file is: " + log_file, "\033[95m")
         
         logging.basicConfig(
             level=logging.DEBUG if self.debug_mode else logging.INFO,  # Set the logging level
@@ -47,6 +47,8 @@ class ObjectDetection:
             filename=log_file,  # Specify the log file
             filemode='w'  # Set the file mode ('w' for write, 'a' for append)
         )
+        logging.info("!!!!!!!START!!!!!!!")
+
 
         # init realsense camera pipeline
         self.pipeline = rs.pipeline()
@@ -64,38 +66,32 @@ class ObjectDetection:
 
         self.detector = yolo_car_detector()
 
+        fourcc = cv2.VideoWriter_fourcc(*'mp4v')
 
-    # def get_opponent_xy_point_by_center(self, box):
-    #     if box is not None:
-    #         top_left_point = (box[0], box[1])
-    #         bottom_right_point = (box[2], box[3])
+        # Define the video resolution based on the first image
+        clean_video = logs_dir + "ObjectDetection_" + formatted_time + "_clean.mp4"
+        data_video = logs_dir + "ObjectDetection_" + formatted_time + "_withData.mp4"
+        self.clean_video = cv2.VideoWriter(clean_video, fourcc, 10, (640, 480))
+        self.data_video = cv2.VideoWriter(data_video, fourcc, 10, (640, 480))
 
-    #         # center of the car
-    #         c = int((top_left_point[0] + bottom_right_point[0]) / 2)
-    #         r = int((top_left_point[1] + bottom_right_point[1]) / 2)
-
-    #         return (c, r)
-        
-    #     return None
-        
     def getOpponentXYPoint(self, box, offset_x, offset_y):
         if box is not None:
             top_left_point = (box[0], box[1])
             bottom_right_point = (box[2], box[3])
-            logging.debug("BBOX:" + top_left_point + ", " + bottom_right_point ) 
+            logging.debug("BBOX: " + str(top_left_point) + ", " + str(bottom_right_point))
 
             # center of the car
             c = int((top_left_point[0] + bottom_right_point[0]) / 2) + offset_x
             r = int((top_left_point[1] + bottom_right_point[1]) / 2) + offset_y
 
-            logging.debug("center point:" + c + ", " + r) 
-            return (c, r)
+            logging.debug("center point:" + str(c) + ", " + str(r))
+            return c, r
         
         return None
     
     def getDepth(self, depth_frame, bbox):
         depth_list = []
-        c,r  = self.getOpponentXYPoint(self, bbox, self.offset_x, self.offset_y)
+        c,r = self.getOpponentXYPoint(bbox, self.offset_x, self.offset_y)
         for row in range(r - self.depth_radius, r + self.depth_radius):
             for col in range(c - self.depth_radius, c + self.depth_radius):
                 if row > bbox[1] and row < bbox[3] and col > bbox[0] and col < bbox[2]: 
@@ -103,8 +99,8 @@ class ObjectDetection:
                     depth_list.append(rs.rs2_deproject_pixel_to_point(self.depth_intrin, [col, row], depth))
         if not depth_list:
             logging.error("depth list is empty")
-            return None
-        return np.mean(depth_list)
+            return None, None, None
+        return np.mean(depth_list), c, r
         
     def runObjectDetection(self, buffer = 1, ros = False):
         while True:
@@ -125,17 +121,24 @@ class ObjectDetection:
                 cv2.imshow('detect', output_images)
                 cv2.waitKey(1)
 
-            if self.debug_mode:
-                print(bounding_box)
+            # Write images to the video
+            self.clean_video.write(color_image)
+
+
+
+            logging.debug(bounding_box)
 
             if bounding_box is not None:
                 # c, r = self.get_opponent_xy_point(bounding_box)
 
                 # depth = depth_frame.get_distance(c, r)
                 # depth_point_in_meters_camera_coords = rs.rs2_deproject_pixel_to_point(self.depth_intrin, [c, r], depth)
-                depth_point_in_meters_camera_coords = self.getDepth(depth_frame, bounding_box)
-                logging.info('depth_point_in_meters_camera_coords is:', depth_point_in_meters_camera_coords)
-                
+                depth_point_in_meters_camera_coords, c, r = self.getDepth(depth_frame, bounding_box)
+                logging.info('depth_point_in_meters_camera_coords is:' + str(depth_point_in_meters_camera_coords))
+
+                cv2.rectangle(output_images, (c-self.depth_radius, r-self.depth_radius), (c+self.depth_radius, r+self.depth_radius), (255, 0, 0), 2)  # Blue color bbox with 2px thickness
+                self.data_video.write(output_images)
+
                 if ros:
                     return depth_point_in_meters_camera_coords, output_images
             else:
