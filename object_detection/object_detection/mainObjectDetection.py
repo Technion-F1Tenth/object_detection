@@ -53,6 +53,7 @@ class ObjectDetection:
         # init realsense camera pipeline
         self.pipeline = rs.pipeline()
         config = rs.config()
+        self.camera_name = rs.camera_info.name
 
         config.enable_stream(rs.stream.depth, 640, 480, rs.format.z16, 30)
         config.enable_stream(rs.stream.color, 640, 480, rs.format.bgr8, 30)
@@ -140,7 +141,8 @@ class ObjectDetection:
                     logging.info('depth_point_in_meters_camera_coords is:' + str(depth_point_in_meters_camera_coords))
 
                     cv2.rectangle(output_images, (c-self.depth_radius, r-self.depth_radius), (c+self.depth_radius, r+self.depth_radius), (255, 0, 0), 2)  # Blue color bbox with 2px thickness
-                    cv2.putText(output_images, "distance" + str(depth_point_in_meters_camera_coords),(20, 20), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255,0,0), 1) 
+                    cv2.putText(output_images, "distance" + str(depth_point_in_meters_camera_coords),(20, 20), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255,0,0), 1)
+                    cv2.putText(output_images, "camera:" + str(rs.camera_info.name),(20, 50), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255,255,0), 1) 
                     print("Write images to the data video")
                     self.data_video.write(output_images)
                     
