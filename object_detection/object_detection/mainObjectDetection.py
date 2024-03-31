@@ -136,6 +136,7 @@ class ObjectDetection:
                     # depth = depth_frame.get_distance(c, r)
                     # depth_point_in_meters_camera_coords = rs.rs2_deproject_pixel_to_point(self.depth_intrin, [c, r], depth)
                     depth_point_in_meters_camera_coords, c, r = self.getDepth(depth_frame, bounding_box)
+                    depth_point_in_meters_camera_coords *= 3 #TODO: factor
                     logging.info('depth_point_in_meters_camera_coords is:' + str(depth_point_in_meters_camera_coords))
 
                     cv2.rectangle(output_images, (c-self.depth_radius, r-self.depth_radius), (c+self.depth_radius, r+self.depth_radius), (255, 0, 0), 2)  # Blue color bbox with 2px thickness
