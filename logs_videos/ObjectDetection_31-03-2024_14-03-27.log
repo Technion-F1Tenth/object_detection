@@ -1,0 +1,509 @@
+2024-03-31 14:03:27,106 - INFO - !!!!!!!START!!!!!!!
+2024-03-31 14:04:08,821 - DEBUG - tensor([329.8538, 161.7427, 394.1892, 187.1859], device='cuda:0')
+2024-03-31 14:04:08,866 - DEBUG - BBOX: (tensor(329.8538, device='cuda:0'), tensor(161.7427, device='cuda:0')), (tensor(394.1892, device='cuda:0'), tensor(187.1859, device='cuda:0'))
+2024-03-31 14:04:08,867 - DEBUG - center point:362, 174
+2024-03-31 14:04:08,953 - INFO - depth_point_in_meters_camera_coords is:1.7908220841487248
+2024-03-31 14:04:09,190 - DEBUG - tensor([329.7707, 162.2177, 394.3073, 187.2695], device='cuda:0')
+2024-03-31 14:04:09,216 - DEBUG - BBOX: (tensor(329.7707, device='cuda:0'), tensor(162.2177, device='cuda:0')), (tensor(394.3073, device='cuda:0'), tensor(187.2695, device='cuda:0'))
+2024-03-31 14:04:09,217 - DEBUG - center point:362, 174
+2024-03-31 14:04:09,297 - INFO - depth_point_in_meters_camera_coords is:1.8486094523469607
+2024-03-31 14:04:09,453 - DEBUG - tensor([329.9174, 161.7764, 394.3044, 187.2792], device='cuda:0')
+2024-03-31 14:04:09,474 - DEBUG - BBOX: (tensor(329.9174, device='cuda:0'), tensor(161.7764, device='cuda:0')), (tensor(394.3044, device='cuda:0'), tensor(187.2792, device='cuda:0'))
+2024-03-31 14:04:09,475 - DEBUG - center point:362, 174
+2024-03-31 14:04:09,549 - INFO - depth_point_in_meters_camera_coords is:1.6905638922254245
+2024-03-31 14:04:09,680 - DEBUG - tensor([330.2283, 162.0392, 394.3735, 187.2644], device='cuda:0')
+2024-03-31 14:04:09,704 - DEBUG - BBOX: (tensor(330.2283, device='cuda:0'), tensor(162.0392, device='cuda:0')), (tensor(394.3735, device='cuda:0'), tensor(187.2644, device='cuda:0'))
+2024-03-31 14:04:09,706 - DEBUG - center point:362, 174
+2024-03-31 14:04:09,784 - INFO - depth_point_in_meters_camera_coords is:1.8437807687123617
+2024-03-31 14:04:09,918 - DEBUG - tensor([329.9010, 162.0337, 393.6391, 187.3895], device='cuda:0')
+2024-03-31 14:04:09,933 - DEBUG - BBOX: (tensor(329.9010, device='cuda:0'), tensor(162.0337, device='cuda:0')), (tensor(393.6391, device='cuda:0'), tensor(187.3895, device='cuda:0'))
+2024-03-31 14:04:09,934 - DEBUG - center point:361, 174
+2024-03-31 14:04:10,016 - INFO - depth_point_in_meters_camera_coords is:1.8483171339829763
+2024-03-31 14:04:10,142 - DEBUG - tensor([329.7533, 161.8793, 394.1251, 187.1582], device='cuda:0')
+2024-03-31 14:04:10,161 - DEBUG - BBOX: (tensor(329.7533, device='cuda:0'), tensor(161.8793, device='cuda:0')), (tensor(394.1251, device='cuda:0'), tensor(187.1582, device='cuda:0'))
+2024-03-31 14:04:10,162 - DEBUG - center point:361, 174
+2024-03-31 14:04:10,234 - INFO - depth_point_in_meters_camera_coords is:1.8880245238542557
+2024-03-31 14:04:10,365 - DEBUG - tensor([330.0676, 161.7042, 394.0445, 187.2213], device='cuda:0')
+2024-03-31 14:04:10,389 - DEBUG - BBOX: (tensor(330.0676, device='cuda:0'), tensor(161.7042, device='cuda:0')), (tensor(394.0445, device='cuda:0'), tensor(187.2213, device='cuda:0'))
+2024-03-31 14:04:10,390 - DEBUG - center point:362, 174
+2024-03-31 14:04:10,468 - INFO - depth_point_in_meters_camera_coords is:1.8686301775773366
+2024-03-31 14:04:10,596 - DEBUG - tensor([329.7559, 161.9718, 394.0783, 187.1533], device='cuda:0')
+2024-03-31 14:04:10,617 - DEBUG - BBOX: (tensor(329.7559, device='cuda:0'), tensor(161.9718, device='cuda:0')), (tensor(394.0783, device='cuda:0'), tensor(187.1533, device='cuda:0'))
+2024-03-31 14:04:10,618 - DEBUG - center point:361, 174
+2024-03-31 14:04:10,689 - INFO - depth_point_in_meters_camera_coords is:1.8031964579224586
+2024-03-31 14:04:10,818 - DEBUG - tensor([329.6660, 162.0635, 394.2251, 187.1994], device='cuda:0')
+2024-03-31 14:04:10,837 - DEBUG - BBOX: (tensor(329.6660, device='cuda:0'), tensor(162.0635, device='cuda:0')), (tensor(394.2251, device='cuda:0'), tensor(187.1994, device='cuda:0'))
+2024-03-31 14:04:10,838 - DEBUG - center point:361, 174
+2024-03-31 14:04:10,918 - INFO - depth_point_in_meters_camera_coords is:1.7431777081886928
+2024-03-31 14:04:11,046 - DEBUG - tensor([329.8109, 161.7997, 394.4898, 187.3802], device='cuda:0')
+2024-03-31 14:04:11,066 - DEBUG - BBOX: (tensor(329.8109, device='cuda:0'), tensor(161.7997, device='cuda:0')), (tensor(394.4898, device='cuda:0'), tensor(187.3802, device='cuda:0'))
+2024-03-31 14:04:11,067 - DEBUG - center point:362, 174
+2024-03-31 14:04:11,139 - INFO - depth_point_in_meters_camera_coords is:1.7550223065416017
+2024-03-31 14:04:11,265 - DEBUG - tensor([329.7908, 161.5934, 394.2124, 187.2178], device='cuda:0')
+2024-03-31 14:04:11,284 - DEBUG - BBOX: (tensor(329.7908, device='cuda:0'), tensor(161.5934, device='cuda:0')), (tensor(394.2124, device='cuda:0'), tensor(187.2178, device='cuda:0'))
+2024-03-31 14:04:11,285 - DEBUG - center point:362, 174
+2024-03-31 14:04:11,359 - INFO - depth_point_in_meters_camera_coords is:1.8303904195626577
+2024-03-31 14:04:11,494 - DEBUG - tensor([329.8655, 162.2365, 394.2990, 187.2468], device='cuda:0')
+2024-03-31 14:04:11,515 - DEBUG - BBOX: (tensor(329.8655, device='cuda:0'), tensor(162.2365, device='cuda:0')), (tensor(394.2990, device='cuda:0'), tensor(187.2468, device='cuda:0'))
+2024-03-31 14:04:11,517 - DEBUG - center point:362, 174
+2024-03-31 14:04:11,594 - INFO - depth_point_in_meters_camera_coords is:1.7851092409094174
+2024-03-31 14:04:11,730 - DEBUG - tensor([329.8480, 161.7419, 394.5838, 187.2082], device='cuda:0')
+2024-03-31 14:04:11,751 - DEBUG - BBOX: (tensor(329.8480, device='cuda:0'), tensor(161.7419, device='cuda:0')), (tensor(394.5838, device='cuda:0'), tensor(187.2082, device='cuda:0'))
+2024-03-31 14:04:11,753 - DEBUG - center point:362, 174
+2024-03-31 14:04:11,824 - INFO - depth_point_in_meters_camera_coords is:1.8517673868934315
+2024-03-31 14:04:11,960 - DEBUG - tensor([329.6251, 162.0979, 394.5561, 187.1711], device='cuda:0')
+2024-03-31 14:04:11,980 - DEBUG - BBOX: (tensor(329.6251, device='cuda:0'), tensor(162.0979, device='cuda:0')), (tensor(394.5561, device='cuda:0'), tensor(187.1711, device='cuda:0'))
+2024-03-31 14:04:11,981 - DEBUG - center point:362, 174
+2024-03-31 14:04:12,053 - INFO - depth_point_in_meters_camera_coords is:1.8074147631724675
+2024-03-31 14:04:12,177 - DEBUG - tensor([330.1450, 162.3491, 393.8839, 187.0887], device='cuda:0')
+2024-03-31 14:04:12,197 - DEBUG - BBOX: (tensor(330.1450, device='cuda:0'), tensor(162.3491, device='cuda:0')), (tensor(393.8839, device='cuda:0'), tensor(187.0887, device='cuda:0'))
+2024-03-31 14:04:12,198 - DEBUG - center point:362, 174
+2024-03-31 14:04:12,275 - INFO - depth_point_in_meters_camera_coords is:1.8442645919322969
+2024-03-31 14:04:12,405 - DEBUG - tensor([330.1420, 162.2561, 394.1943, 187.2902], device='cuda:0')
+2024-03-31 14:04:12,421 - DEBUG - BBOX: (tensor(330.1420, device='cuda:0'), tensor(162.2561, device='cuda:0')), (tensor(394.1943, device='cuda:0'), tensor(187.2902, device='cuda:0'))
+2024-03-31 14:04:12,422 - DEBUG - center point:362, 174
+2024-03-31 14:04:12,503 - INFO - depth_point_in_meters_camera_coords is:1.8246403805414835
+2024-03-31 14:04:12,624 - DEBUG - tensor([330.0327, 162.4189, 394.1201, 187.4330], device='cuda:0')
+2024-03-31 14:04:12,641 - DEBUG - BBOX: (tensor(330.0327, device='cuda:0'), tensor(162.4189, device='cuda:0')), (tensor(394.1201, device='cuda:0'), tensor(187.4330, device='cuda:0'))
+2024-03-31 14:04:12,642 - DEBUG - center point:362, 174
+2024-03-31 14:04:12,715 - INFO - depth_point_in_meters_camera_coords is:1.846939156651497
+2024-03-31 14:04:12,851 - DEBUG - tensor([328.9843, 161.8250, 394.1183, 187.2271], device='cuda:0')
+2024-03-31 14:04:12,876 - DEBUG - BBOX: (tensor(328.9843, device='cuda:0'), tensor(161.8250, device='cuda:0')), (tensor(394.1183, device='cuda:0'), tensor(187.2271, device='cuda:0'))
+2024-03-31 14:04:12,879 - DEBUG - center point:361, 174
+2024-03-31 14:04:12,967 - INFO - depth_point_in_meters_camera_coords is:1.744393257498741
+2024-03-31 14:04:13,114 - DEBUG - tensor([329.6810, 161.8236, 394.1785, 187.3869], device='cuda:0')
+2024-03-31 14:04:13,142 - DEBUG - BBOX: (tensor(329.6810, device='cuda:0'), tensor(161.8236, device='cuda:0')), (tensor(394.1785, device='cuda:0'), tensor(187.3869, device='cuda:0'))
+2024-03-31 14:04:13,144 - DEBUG - center point:361, 174
+2024-03-31 14:04:13,228 - INFO - depth_point_in_meters_camera_coords is:1.7778375362356504
+2024-03-31 14:04:13,371 - DEBUG - tensor([329.6919, 161.9457, 394.2120, 187.2870], device='cuda:0')
+2024-03-31 14:04:13,390 - DEBUG - BBOX: (tensor(329.6919, device='cuda:0'), tensor(161.9457, device='cuda:0')), (tensor(394.2120, device='cuda:0'), tensor(187.2870, device='cuda:0'))
+2024-03-31 14:04:13,391 - DEBUG - center point:361, 174
+2024-03-31 14:04:13,468 - INFO - depth_point_in_meters_camera_coords is:1.7937690459688505
+2024-03-31 14:04:13,586 - DEBUG - tensor([329.7504, 162.2762, 394.0097, 187.3741], device='cuda:0')
+2024-03-31 14:04:13,607 - DEBUG - BBOX: (tensor(329.7504, device='cuda:0'), tensor(162.2762, device='cuda:0')), (tensor(394.0097, device='cuda:0'), tensor(187.3741, device='cuda:0'))
+2024-03-31 14:04:13,608 - DEBUG - center point:361, 174
+2024-03-31 14:04:13,678 - INFO - depth_point_in_meters_camera_coords is:1.8240203143159548
+2024-03-31 14:04:13,799 - DEBUG - tensor([329.6042, 161.8720, 393.9551, 187.2989], device='cuda:0')
+2024-03-31 14:04:13,821 - DEBUG - BBOX: (tensor(329.6042, device='cuda:0'), tensor(161.8720, device='cuda:0')), (tensor(393.9551, device='cuda:0'), tensor(187.2989, device='cuda:0'))
+2024-03-31 14:04:13,822 - DEBUG - center point:361, 174
+2024-03-31 14:04:13,902 - INFO - depth_point_in_meters_camera_coords is:1.793162294725577
+2024-03-31 14:04:14,021 - DEBUG - tensor([329.9943, 161.7537, 393.8491, 187.2616], device='cuda:0')
+2024-03-31 14:04:14,042 - DEBUG - BBOX: (tensor(329.9943, device='cuda:0'), tensor(161.7537, device='cuda:0')), (tensor(393.8491, device='cuda:0'), tensor(187.2616, device='cuda:0'))
+2024-03-31 14:04:14,043 - DEBUG - center point:361, 174
+2024-03-31 14:04:14,113 - INFO - depth_point_in_meters_camera_coords is:1.820776183505853
+2024-03-31 14:04:14,231 - DEBUG - tensor([329.7410, 161.9381, 394.2850, 187.2459], device='cuda:0')
+2024-03-31 14:04:14,253 - DEBUG - BBOX: (tensor(329.7410, device='cuda:0'), tensor(161.9381, device='cuda:0')), (tensor(394.2850, device='cuda:0'), tensor(187.2459, device='cuda:0'))
+2024-03-31 14:04:14,254 - DEBUG - center point:362, 174
+2024-03-31 14:04:14,323 - INFO - depth_point_in_meters_camera_coords is:1.9363326579332352
+2024-03-31 14:04:14,450 - DEBUG - tensor([329.6559, 161.8455, 393.9316, 187.1984], device='cuda:0')
+2024-03-31 14:04:14,468 - DEBUG - BBOX: (tensor(329.6559, device='cuda:0'), tensor(161.8455, device='cuda:0')), (tensor(393.9316, device='cuda:0'), tensor(187.1984, device='cuda:0'))
+2024-03-31 14:04:14,469 - DEBUG - center point:361, 174
+2024-03-31 14:04:14,538 - INFO - depth_point_in_meters_camera_coords is:1.7993220005432764
+2024-03-31 14:04:14,665 - DEBUG - tensor([329.6263, 161.9999, 394.5989, 187.2480], device='cuda:0')
+2024-03-31 14:04:14,686 - DEBUG - BBOX: (tensor(329.6263, device='cuda:0'), tensor(161.9999, device='cuda:0')), (tensor(394.5989, device='cuda:0'), tensor(187.2480, device='cuda:0'))
+2024-03-31 14:04:14,688 - DEBUG - center point:362, 174
+2024-03-31 14:04:14,759 - INFO - depth_point_in_meters_camera_coords is:1.815632311999798
+2024-03-31 14:04:14,882 - DEBUG - tensor([329.8062, 161.9507, 393.9834, 187.1201], device='cuda:0')
+2024-03-31 14:04:14,900 - DEBUG - BBOX: (tensor(329.8062, device='cuda:0'), tensor(161.9507, device='cuda:0')), (tensor(393.9834, device='cuda:0'), tensor(187.1201, device='cuda:0'))
+2024-03-31 14:04:14,901 - DEBUG - center point:361, 174
+2024-03-31 14:04:14,971 - INFO - depth_point_in_meters_camera_coords is:1.8259674853086472
+2024-03-31 14:04:15,090 - DEBUG - tensor([329.7745, 161.7958, 394.0350, 187.3275], device='cuda:0')
+2024-03-31 14:04:15,106 - DEBUG - BBOX: (tensor(329.7745, device='cuda:0'), tensor(161.7958, device='cuda:0')), (tensor(394.0350, device='cuda:0'), tensor(187.3275, device='cuda:0'))
+2024-03-31 14:04:15,107 - DEBUG - center point:361, 174
+2024-03-31 14:04:15,181 - INFO - depth_point_in_meters_camera_coords is:1.749871401488781
+2024-03-31 14:04:15,304 - DEBUG - tensor([329.7645, 162.1629, 393.8905, 187.2900], device='cuda:0')
+2024-03-31 14:04:15,332 - DEBUG - BBOX: (tensor(329.7645, device='cuda:0'), tensor(162.1629, device='cuda:0')), (tensor(393.8905, device='cuda:0'), tensor(187.2900, device='cuda:0'))
+2024-03-31 14:04:15,333 - DEBUG - center point:361, 174
+2024-03-31 14:04:15,423 - INFO - depth_point_in_meters_camera_coords is:1.7196413215994835
+2024-03-31 14:04:15,557 - DEBUG - tensor([329.8169, 162.3438, 394.2845, 187.3100], device='cuda:0')
+2024-03-31 14:04:15,577 - DEBUG - BBOX: (tensor(329.8169, device='cuda:0'), tensor(162.3438, device='cuda:0')), (tensor(394.2845, device='cuda:0'), tensor(187.3100, device='cuda:0'))
+2024-03-31 14:04:15,578 - DEBUG - center point:362, 174
+2024-03-31 14:04:15,646 - INFO - depth_point_in_meters_camera_coords is:1.7439547453324
+2024-03-31 14:04:15,768 - DEBUG - tensor([329.7806, 161.5492, 394.5064, 187.3504], device='cuda:0')
+2024-03-31 14:04:15,788 - DEBUG - BBOX: (tensor(329.7806, device='cuda:0'), tensor(161.5492, device='cuda:0')), (tensor(394.5064, device='cuda:0'), tensor(187.3504, device='cuda:0'))
+2024-03-31 14:04:15,789 - DEBUG - center point:362, 174
+2024-03-31 14:04:15,863 - INFO - depth_point_in_meters_camera_coords is:1.8080305335919062
+2024-03-31 14:04:15,982 - DEBUG - tensor([329.7318, 161.6475, 394.1061, 187.1402], device='cuda:0')
+2024-03-31 14:04:16,003 - DEBUG - BBOX: (tensor(329.7318, device='cuda:0'), tensor(161.6475, device='cuda:0')), (tensor(394.1061, device='cuda:0'), tensor(187.1402, device='cuda:0'))
+2024-03-31 14:04:16,004 - DEBUG - center point:361, 174
+2024-03-31 14:04:16,075 - INFO - depth_point_in_meters_camera_coords is:1.798683689534664
+2024-03-31 14:04:16,201 - DEBUG - tensor([329.9719, 161.8617, 394.2426, 187.2801], device='cuda:0')
+2024-03-31 14:04:16,221 - DEBUG - BBOX: (tensor(329.9719, device='cuda:0'), tensor(161.8617, device='cuda:0')), (tensor(394.2426, device='cuda:0'), tensor(187.2801, device='cuda:0'))
+2024-03-31 14:04:16,222 - DEBUG - center point:362, 174
+2024-03-31 14:04:16,294 - INFO - depth_point_in_meters_camera_coords is:1.9009148208300273
+2024-03-31 14:04:16,425 - DEBUG - tensor([329.9415, 162.1344, 394.4293, 187.3434], device='cuda:0')
+2024-03-31 14:04:16,446 - DEBUG - BBOX: (tensor(329.9415, device='cuda:0'), tensor(162.1344, device='cuda:0')), (tensor(394.4293, device='cuda:0'), tensor(187.3434, device='cuda:0'))
+2024-03-31 14:04:16,447 - DEBUG - center point:362, 174
+2024-03-31 14:04:16,521 - INFO - depth_point_in_meters_camera_coords is:1.7908657656113307
+2024-03-31 14:04:16,644 - DEBUG - tensor([330.1729, 161.9688, 394.2585, 187.2560], device='cuda:0')
+2024-03-31 14:04:16,667 - DEBUG - BBOX: (tensor(330.1729, device='cuda:0'), tensor(161.9688, device='cuda:0')), (tensor(394.2585, device='cuda:0'), tensor(187.2560, device='cuda:0'))
+2024-03-31 14:04:16,669 - DEBUG - center point:362, 174
+2024-03-31 14:04:16,741 - INFO - depth_point_in_meters_camera_coords is:1.7425706778963408
+2024-03-31 14:04:16,860 - DEBUG - tensor([329.5441, 161.9097, 394.2688, 187.2488], device='cuda:0')
+2024-03-31 14:04:16,880 - DEBUG - BBOX: (tensor(329.5441, device='cuda:0'), tensor(161.9097, device='cuda:0')), (tensor(394.2688, device='cuda:0'), tensor(187.2488, device='cuda:0'))
+2024-03-31 14:04:16,881 - DEBUG - center point:361, 174
+2024-03-31 14:04:16,953 - INFO - depth_point_in_meters_camera_coords is:1.8322586225469908
+2024-03-31 14:04:17,077 - DEBUG - tensor([329.6999, 161.8990, 394.2441, 187.2936], device='cuda:0')
+2024-03-31 14:04:17,092 - DEBUG - BBOX: (tensor(329.6999, device='cuda:0'), tensor(161.8990, device='cuda:0')), (tensor(394.2441, device='cuda:0'), tensor(187.2936, device='cuda:0'))
+2024-03-31 14:04:17,094 - DEBUG - center point:361, 174
+2024-03-31 14:04:17,174 - INFO - depth_point_in_meters_camera_coords is:1.8519921937584878
+2024-03-31 14:04:17,293 - DEBUG - tensor([329.8795, 161.8517, 394.2484, 187.3812], device='cuda:0')
+2024-03-31 14:04:17,313 - DEBUG - BBOX: (tensor(329.8795, device='cuda:0'), tensor(161.8517, device='cuda:0')), (tensor(394.2484, device='cuda:0'), tensor(187.3812, device='cuda:0'))
+2024-03-31 14:04:17,314 - DEBUG - center point:362, 174
+2024-03-31 14:04:17,385 - INFO - depth_point_in_meters_camera_coords is:1.801735753417015
+2024-03-31 14:04:17,509 - DEBUG - tensor([329.2974, 161.9390, 394.2595, 187.1449], device='cuda:0')
+2024-03-31 14:04:17,525 - DEBUG - BBOX: (tensor(329.2974, device='cuda:0'), tensor(161.9390, device='cuda:0')), (tensor(394.2595, device='cuda:0'), tensor(187.1449, device='cuda:0'))
+2024-03-31 14:04:17,527 - DEBUG - center point:361, 174
+2024-03-31 14:04:17,611 - INFO - depth_point_in_meters_camera_coords is:1.7183005587259927
+2024-03-31 14:04:17,737 - DEBUG - tensor([329.7353, 161.5811, 394.1053, 187.1019], device='cuda:0')
+2024-03-31 14:04:17,760 - DEBUG - BBOX: (tensor(329.7353, device='cuda:0'), tensor(161.5811, device='cuda:0')), (tensor(394.1053, device='cuda:0'), tensor(187.1019, device='cuda:0'))
+2024-03-31 14:04:17,761 - DEBUG - center point:361, 174
+2024-03-31 14:04:17,838 - INFO - depth_point_in_meters_camera_coords is:1.7555900165438652
+2024-03-31 14:04:17,964 - DEBUG - tensor([330.1992, 162.2811, 394.5134, 187.4673], device='cuda:0')
+2024-03-31 14:04:17,988 - DEBUG - BBOX: (tensor(330.1992, device='cuda:0'), tensor(162.2811, device='cuda:0')), (tensor(394.5134, device='cuda:0'), tensor(187.4673, device='cuda:0'))
+2024-03-31 14:04:17,989 - DEBUG - center point:362, 174
+2024-03-31 14:04:18,062 - INFO - depth_point_in_meters_camera_coords is:1.9024518141150475
+2024-03-31 14:04:18,186 - DEBUG - tensor([329.9162, 161.9364, 394.0620, 187.2081], device='cuda:0')
+2024-03-31 14:04:18,208 - DEBUG - BBOX: (tensor(329.9162, device='cuda:0'), tensor(161.9364, device='cuda:0')), (tensor(394.0620, device='cuda:0'), tensor(187.2081, device='cuda:0'))
+2024-03-31 14:04:18,209 - DEBUG - center point:361, 174
+2024-03-31 14:04:18,284 - INFO - depth_point_in_meters_camera_coords is:1.8277931532263756
+2024-03-31 14:04:18,414 - DEBUG - tensor([329.9964, 161.9762, 394.4532, 187.4573], device='cuda:0')
+2024-03-31 14:04:18,436 - DEBUG - BBOX: (tensor(329.9964, device='cuda:0'), tensor(161.9762, device='cuda:0')), (tensor(394.4532, device='cuda:0'), tensor(187.4573, device='cuda:0'))
+2024-03-31 14:04:18,439 - DEBUG - center point:362, 174
+2024-03-31 14:04:18,512 - INFO - depth_point_in_meters_camera_coords is:1.8129987345139185
+2024-03-31 14:04:18,632 - DEBUG - tensor([329.7530, 161.7844, 394.3022, 187.1476], device='cuda:0')
+2024-03-31 14:04:18,658 - DEBUG - BBOX: (tensor(329.7530, device='cuda:0'), tensor(161.7844, device='cuda:0')), (tensor(394.3022, device='cuda:0'), tensor(187.1476, device='cuda:0'))
+2024-03-31 14:04:18,659 - DEBUG - center point:362, 174
+2024-03-31 14:04:18,732 - INFO - depth_point_in_meters_camera_coords is:1.7638516124089558
+2024-03-31 14:04:18,855 - DEBUG - tensor([329.6896, 162.1069, 394.2303, 187.2725], device='cuda:0')
+2024-03-31 14:04:18,877 - DEBUG - BBOX: (tensor(329.6896, device='cuda:0'), tensor(162.1069, device='cuda:0')), (tensor(394.2303, device='cuda:0'), tensor(187.2725, device='cuda:0'))
+2024-03-31 14:04:18,878 - DEBUG - center point:361, 174
+2024-03-31 14:04:18,949 - INFO - depth_point_in_meters_camera_coords is:1.7850651704271634
+2024-03-31 14:04:19,071 - DEBUG - tensor([329.5007, 162.1600, 394.2902, 187.4337], device='cuda:0')
+2024-03-31 14:04:19,095 - DEBUG - BBOX: (tensor(329.5007, device='cuda:0'), tensor(162.1600, device='cuda:0')), (tensor(394.2902, device='cuda:0'), tensor(187.4337, device='cuda:0'))
+2024-03-31 14:04:19,096 - DEBUG - center point:361, 174
+2024-03-31 14:04:19,187 - INFO - depth_point_in_meters_camera_coords is:1.7640100894371669
+2024-03-31 14:04:19,311 - DEBUG - tensor([329.3520, 162.1418, 394.3723, 187.4106], device='cuda:0')
+2024-03-31 14:04:19,330 - DEBUG - BBOX: (tensor(329.3520, device='cuda:0'), tensor(162.1418, device='cuda:0')), (tensor(394.3723, device='cuda:0'), tensor(187.4106, device='cuda:0'))
+2024-03-31 14:04:19,332 - DEBUG - center point:361, 174
+2024-03-31 14:04:19,407 - INFO - depth_point_in_meters_camera_coords is:1.7977857040365537
+2024-03-31 14:04:19,534 - DEBUG - tensor([330.0593, 162.2053, 394.2043, 187.3562], device='cuda:0')
+2024-03-31 14:04:19,560 - DEBUG - BBOX: (tensor(330.0593, device='cuda:0'), tensor(162.2053, device='cuda:0')), (tensor(394.2043, device='cuda:0'), tensor(187.3562, device='cuda:0'))
+2024-03-31 14:04:19,561 - DEBUG - center point:362, 174
+2024-03-31 14:04:19,636 - INFO - depth_point_in_meters_camera_coords is:1.8560391600926718
+2024-03-31 14:04:19,766 - DEBUG - tensor([329.8176, 162.0191, 394.1206, 187.3658], device='cuda:0')
+2024-03-31 14:04:19,789 - DEBUG - BBOX: (tensor(329.8176, device='cuda:0'), tensor(162.0191, device='cuda:0')), (tensor(394.1206, device='cuda:0'), tensor(187.3658, device='cuda:0'))
+2024-03-31 14:04:19,790 - DEBUG - center point:361, 174
+2024-03-31 14:04:19,865 - INFO - depth_point_in_meters_camera_coords is:1.8436355562011402
+2024-03-31 14:04:19,995 - DEBUG - tensor([329.8094, 161.5727, 394.3188, 187.1407], device='cuda:0')
+2024-03-31 14:04:20,010 - DEBUG - BBOX: (tensor(329.8094, device='cuda:0'), tensor(161.5727, device='cuda:0')), (tensor(394.3188, device='cuda:0'), tensor(187.1407, device='cuda:0'))
+2024-03-31 14:04:20,012 - DEBUG - center point:362, 174
+2024-03-31 14:04:20,087 - INFO - depth_point_in_meters_camera_coords is:1.8847524074713389
+2024-03-31 14:04:20,213 - DEBUG - tensor([330.0652, 161.8282, 393.7752, 187.1436], device='cuda:0')
+2024-03-31 14:04:20,233 - DEBUG - BBOX: (tensor(330.0652, device='cuda:0'), tensor(161.8282, device='cuda:0')), (tensor(393.7752, device='cuda:0'), tensor(187.1436, device='cuda:0'))
+2024-03-31 14:04:20,234 - DEBUG - center point:361, 174
+2024-03-31 14:04:20,305 - INFO - depth_point_in_meters_camera_coords is:1.7095843102534611
+2024-03-31 14:04:20,426 - DEBUG - tensor([329.0824, 162.4329, 394.3478, 187.2795], device='cuda:0')
+2024-03-31 14:04:20,441 - DEBUG - BBOX: (tensor(329.0824, device='cuda:0'), tensor(162.4329, device='cuda:0')), (tensor(394.3478, device='cuda:0'), tensor(187.2795, device='cuda:0'))
+2024-03-31 14:04:20,442 - DEBUG - center point:361, 174
+2024-03-31 14:04:20,518 - INFO - depth_point_in_meters_camera_coords is:1.7259468495845796
+2024-03-31 14:04:20,644 - DEBUG - tensor([329.5419, 162.1013, 394.2795, 187.2703], device='cuda:0')
+2024-03-31 14:04:20,664 - DEBUG - BBOX: (tensor(329.5419, device='cuda:0'), tensor(162.1013, device='cuda:0')), (tensor(394.2795, device='cuda:0'), tensor(187.2703, device='cuda:0'))
+2024-03-31 14:04:20,666 - DEBUG - center point:361, 174
+2024-03-31 14:04:20,738 - INFO - depth_point_in_meters_camera_coords is:1.8608550333976746
+2024-03-31 14:04:20,862 - DEBUG - tensor([330.0337, 161.9381, 393.8994, 187.1844], device='cuda:0')
+2024-03-31 14:04:20,879 - DEBUG - BBOX: (tensor(330.0337, device='cuda:0'), tensor(161.9381, device='cuda:0')), (tensor(393.8994, device='cuda:0'), tensor(187.1844, device='cuda:0'))
+2024-03-31 14:04:20,881 - DEBUG - center point:361, 174
+2024-03-31 14:04:20,955 - INFO - depth_point_in_meters_camera_coords is:1.8315733245015144
+2024-03-31 14:04:21,079 - DEBUG - tensor([329.7300, 161.7860, 394.0163, 187.1533], device='cuda:0')
+2024-03-31 14:04:21,100 - DEBUG - BBOX: (tensor(329.7300, device='cuda:0'), tensor(161.7860, device='cuda:0')), (tensor(394.0163, device='cuda:0'), tensor(187.1533, device='cuda:0'))
+2024-03-31 14:04:21,101 - DEBUG - center point:361, 174
+2024-03-31 14:04:21,174 - INFO - depth_point_in_meters_camera_coords is:1.8749491322040557
+2024-03-31 14:04:21,293 - DEBUG - tensor([329.8378, 161.6528, 394.0707, 187.1706], device='cuda:0')
+2024-03-31 14:04:21,309 - DEBUG - BBOX: (tensor(329.8378, device='cuda:0'), tensor(161.6528, device='cuda:0')), (tensor(394.0707, device='cuda:0'), tensor(187.1706, device='cuda:0'))
+2024-03-31 14:04:21,310 - DEBUG - center point:361, 174
+2024-03-31 14:04:21,395 - INFO - depth_point_in_meters_camera_coords is:1.7777277609705926
+2024-03-31 14:04:21,519 - DEBUG - tensor([330.0347, 161.5404, 394.6046, 187.1880], device='cuda:0')
+2024-03-31 14:04:21,543 - DEBUG - BBOX: (tensor(330.0347, device='cuda:0'), tensor(161.5404, device='cuda:0')), (tensor(394.6046, device='cuda:0'), tensor(187.1880, device='cuda:0'))
+2024-03-31 14:04:21,544 - DEBUG - center point:362, 174
+2024-03-31 14:04:21,619 - INFO - depth_point_in_meters_camera_coords is:1.8106932549675305
+2024-03-31 14:04:21,746 - DEBUG - tensor([329.7853, 162.0203, 393.9695, 187.2739], device='cuda:0')
+2024-03-31 14:04:21,766 - DEBUG - BBOX: (tensor(329.7853, device='cuda:0'), tensor(162.0203, device='cuda:0')), (tensor(393.9695, device='cuda:0'), tensor(187.2739, device='cuda:0'))
+2024-03-31 14:04:21,768 - DEBUG - center point:361, 174
+2024-03-31 14:04:21,843 - INFO - depth_point_in_meters_camera_coords is:1.7138249999284745
+2024-03-31 14:04:21,961 - DEBUG - tensor([330.1423, 161.9709, 394.7170, 187.5356], device='cuda:0')
+2024-03-31 14:04:21,983 - DEBUG - BBOX: (tensor(330.1423, device='cuda:0'), tensor(161.9709, device='cuda:0')), (tensor(394.7170, device='cuda:0'), tensor(187.5356, device='cuda:0'))
+2024-03-31 14:04:21,984 - DEBUG - center point:362, 174
+2024-03-31 14:04:22,059 - INFO - depth_point_in_meters_camera_coords is:1.884560658633709
+2024-03-31 14:04:22,189 - DEBUG - tensor([329.8652, 161.8254, 394.3134, 187.2641], device='cuda:0')
+2024-03-31 14:04:22,213 - DEBUG - BBOX: (tensor(329.8652, device='cuda:0'), tensor(161.8254, device='cuda:0')), (tensor(394.3134, device='cuda:0'), tensor(187.2641, device='cuda:0'))
+2024-03-31 14:04:22,214 - DEBUG - center point:362, 174
+2024-03-31 14:04:22,288 - INFO - depth_point_in_meters_camera_coords is:1.7838786681493124
+2024-03-31 14:04:22,416 - DEBUG - tensor([329.8510, 161.7872, 394.6030, 187.2328], device='cuda:0')
+2024-03-31 14:04:22,438 - DEBUG - BBOX: (tensor(329.8510, device='cuda:0'), tensor(161.7872, device='cuda:0')), (tensor(394.6030, device='cuda:0'), tensor(187.2328, device='cuda:0'))
+2024-03-31 14:04:22,440 - DEBUG - center point:362, 174
+2024-03-31 14:04:22,515 - INFO - depth_point_in_meters_camera_coords is:1.833291271229585
+2024-03-31 14:04:22,647 - DEBUG - tensor([329.7261, 161.9582, 394.5760, 187.3607], device='cuda:0')
+2024-03-31 14:04:22,666 - DEBUG - BBOX: (tensor(329.7261, device='cuda:0'), tensor(161.9582, device='cuda:0')), (tensor(394.5760, device='cuda:0'), tensor(187.3607, device='cuda:0'))
+2024-03-31 14:04:22,667 - DEBUG - center point:362, 174
+2024-03-31 14:04:22,738 - INFO - depth_point_in_meters_camera_coords is:1.834887298444907
+2024-03-31 14:04:22,858 - DEBUG - tensor([329.8380, 161.7499, 393.7943, 187.0770], device='cuda:0')
+2024-03-31 14:04:22,880 - DEBUG - BBOX: (tensor(329.8380, device='cuda:0'), tensor(161.7499, device='cuda:0')), (tensor(393.7943, device='cuda:0'), tensor(187.0770, device='cuda:0'))
+2024-03-31 14:04:22,881 - DEBUG - center point:361, 174
+2024-03-31 14:04:22,952 - INFO - depth_point_in_meters_camera_coords is:1.5833849255243937
+2024-03-31 14:04:23,066 - DEBUG - tensor([330.1360, 161.6314, 394.3050, 187.1126], device='cuda:0')
+2024-03-31 14:04:23,087 - DEBUG - BBOX: (tensor(330.1360, device='cuda:0'), tensor(161.6314, device='cuda:0')), (tensor(394.3050, device='cuda:0'), tensor(187.1126, device='cuda:0'))
+2024-03-31 14:04:23,088 - DEBUG - center point:362, 174
+2024-03-31 14:04:23,160 - INFO - depth_point_in_meters_camera_coords is:1.8056668376922607
+2024-03-31 14:04:23,283 - DEBUG - tensor([329.9813, 162.2431, 394.6340, 187.5168], device='cuda:0')
+2024-03-31 14:04:23,302 - DEBUG - BBOX: (tensor(329.9813, device='cuda:0'), tensor(162.2431, device='cuda:0')), (tensor(394.6340, device='cuda:0'), tensor(187.5168, device='cuda:0'))
+2024-03-31 14:04:23,304 - DEBUG - center point:362, 174
+2024-03-31 14:04:23,376 - INFO - depth_point_in_meters_camera_coords is:1.806748245159785
+2024-03-31 14:04:23,496 - DEBUG - tensor([330.1055, 162.0297, 394.5510, 187.2563], device='cuda:0')
+2024-03-31 14:04:23,518 - DEBUG - BBOX: (tensor(330.1055, device='cuda:0'), tensor(162.0297, device='cuda:0')), (tensor(394.5510, device='cuda:0'), tensor(187.2563, device='cuda:0'))
+2024-03-31 14:04:23,519 - DEBUG - center point:362, 174
+2024-03-31 14:04:23,593 - INFO - depth_point_in_meters_camera_coords is:1.8402188713351886
+2024-03-31 14:04:23,721 - DEBUG - tensor([329.9133, 162.0313, 394.0119, 187.1407], device='cuda:0')
+2024-03-31 14:04:23,742 - DEBUG - BBOX: (tensor(329.9133, device='cuda:0'), tensor(162.0313, device='cuda:0')), (tensor(394.0119, device='cuda:0'), tensor(187.1407, device='cuda:0'))
+2024-03-31 14:04:23,743 - DEBUG - center point:361, 174
+2024-03-31 14:04:23,823 - INFO - depth_point_in_meters_camera_coords is:1.8620061005155246
+2024-03-31 14:04:23,940 - DEBUG - tensor([329.8989, 162.0638, 394.1028, 187.2297], device='cuda:0')
+2024-03-31 14:04:23,958 - DEBUG - BBOX: (tensor(329.8989, device='cuda:0'), tensor(162.0638, device='cuda:0')), (tensor(394.1028, device='cuda:0'), tensor(187.2297, device='cuda:0'))
+2024-03-31 14:04:23,959 - DEBUG - center point:362, 174
+2024-03-31 14:04:24,028 - INFO - depth_point_in_meters_camera_coords is:1.7513978935281436
+2024-03-31 14:04:24,146 - DEBUG - tensor([329.8510, 161.6128, 393.9550, 187.1974], device='cuda:0')
+2024-03-31 14:04:24,165 - DEBUG - BBOX: (tensor(329.8510, device='cuda:0'), tensor(161.6128, device='cuda:0')), (tensor(393.9550, device='cuda:0'), tensor(187.1974, device='cuda:0'))
+2024-03-31 14:04:24,166 - DEBUG - center point:361, 174
+2024-03-31 14:04:24,245 - INFO - depth_point_in_meters_camera_coords is:1.7929001756509144
+2024-03-31 14:04:24,371 - DEBUG - tensor([328.9296, 162.4675, 393.9025, 187.2168], device='cuda:0')
+2024-03-31 14:04:24,392 - DEBUG - BBOX: (tensor(328.9296, device='cuda:0'), tensor(162.4675, device='cuda:0')), (tensor(393.9025, device='cuda:0'), tensor(187.2168, device='cuda:0'))
+2024-03-31 14:04:24,393 - DEBUG - center point:361, 174
+2024-03-31 14:04:24,461 - INFO - depth_point_in_meters_camera_coords is:1.8478960488239924
+2024-03-31 14:04:24,576 - DEBUG - tensor([329.0103, 162.4729, 394.1857, 186.9325], device='cuda:0')
+2024-03-31 14:04:24,597 - DEBUG - BBOX: (tensor(329.0103, device='cuda:0'), tensor(162.4729, device='cuda:0')), (tensor(394.1857, device='cuda:0'), tensor(186.9325, device='cuda:0'))
+2024-03-31 14:04:24,598 - DEBUG - center point:361, 174
+2024-03-31 14:04:24,668 - INFO - depth_point_in_meters_camera_coords is:1.7839371306697527
+2024-03-31 14:04:24,784 - DEBUG - tensor([329.8724, 161.9748, 394.2122, 187.1666], device='cuda:0')
+2024-03-31 14:04:24,803 - DEBUG - BBOX: (tensor(329.8724, device='cuda:0'), tensor(161.9748, device='cuda:0')), (tensor(394.2122, device='cuda:0'), tensor(187.1666, device='cuda:0'))
+2024-03-31 14:04:24,804 - DEBUG - center point:362, 174
+2024-03-31 14:04:24,873 - INFO - depth_point_in_meters_camera_coords is:1.8305463443199794
+2024-03-31 14:04:25,000 - DEBUG - tensor([329.8057, 161.7534, 394.1418, 187.3310], device='cuda:0')
+2024-03-31 14:04:25,019 - DEBUG - BBOX: (tensor(329.8057, device='cuda:0'), tensor(161.7534, device='cuda:0')), (tensor(394.1418, device='cuda:0'), tensor(187.3310, device='cuda:0'))
+2024-03-31 14:04:25,020 - DEBUG - center point:361, 174
+2024-03-31 14:04:25,092 - INFO - depth_point_in_meters_camera_coords is:1.7998866352438927
+2024-03-31 14:04:25,218 - DEBUG - tensor([329.9195, 161.9364, 393.8751, 187.1423], device='cuda:0')
+2024-03-31 14:04:25,239 - DEBUG - BBOX: (tensor(329.9195, device='cuda:0'), tensor(161.9364, device='cuda:0')), (tensor(393.8751, device='cuda:0'), tensor(187.1423, device='cuda:0'))
+2024-03-31 14:04:25,241 - DEBUG - center point:361, 174
+2024-03-31 14:04:25,312 - INFO - depth_point_in_meters_camera_coords is:1.8090475782752038
+2024-03-31 14:04:25,439 - DEBUG - tensor([329.8993, 161.8609, 394.4853, 187.3335], device='cuda:0')
+2024-03-31 14:04:25,474 - DEBUG - BBOX: (tensor(329.8993, device='cuda:0'), tensor(161.8609, device='cuda:0')), (tensor(394.4853, device='cuda:0'), tensor(187.3335, device='cuda:0'))
+2024-03-31 14:04:25,475 - DEBUG - center point:362, 174
+2024-03-31 14:04:25,546 - INFO - depth_point_in_meters_camera_coords is:1.8358843928575517
+2024-03-31 14:04:25,665 - DEBUG - tensor([328.9998, 162.2582, 393.7747, 187.0924], device='cuda:0')
+2024-03-31 14:04:25,682 - DEBUG - BBOX: (tensor(328.9998, device='cuda:0'), tensor(162.2582, device='cuda:0')), (tensor(393.7747, device='cuda:0'), tensor(187.0924, device='cuda:0'))
+2024-03-31 14:04:25,684 - DEBUG - center point:361, 174
+2024-03-31 14:04:25,756 - INFO - depth_point_in_meters_camera_coords is:1.7240425621469815
+2024-03-31 14:04:25,874 - DEBUG - tensor([329.9385, 162.0014, 394.1357, 187.1837], device='cuda:0')
+2024-03-31 14:04:25,895 - DEBUG - BBOX: (tensor(329.9385, device='cuda:0'), tensor(162.0014, device='cuda:0')), (tensor(394.1357, device='cuda:0'), tensor(187.1837, device='cuda:0'))
+2024-03-31 14:04:25,898 - DEBUG - center point:362, 174
+2024-03-31 14:04:25,972 - INFO - depth_point_in_meters_camera_coords is:1.827533745666345
+2024-03-31 14:04:26,092 - DEBUG - tensor([329.9468, 162.1341, 393.9044, 187.1762], device='cuda:0')
+2024-03-31 14:04:26,114 - DEBUG - BBOX: (tensor(329.9468, device='cuda:0'), tensor(162.1341, device='cuda:0')), (tensor(393.9044, device='cuda:0'), tensor(187.1762, device='cuda:0'))
+2024-03-31 14:04:26,116 - DEBUG - center point:361, 174
+2024-03-31 14:04:26,213 - INFO - depth_point_in_meters_camera_coords is:1.7536682485540709
+2024-03-31 14:04:26,345 - DEBUG - tensor([329.8580, 162.6253, 394.0508, 187.1417], device='cuda:0')
+2024-03-31 14:04:26,366 - DEBUG - BBOX: (tensor(329.8580, device='cuda:0'), tensor(162.6253, device='cuda:0')), (tensor(394.0508, device='cuda:0'), tensor(187.1417, device='cuda:0'))
+2024-03-31 14:04:26,368 - DEBUG - center point:361, 174
+2024-03-31 14:04:26,443 - INFO - depth_point_in_meters_camera_coords is:1.717858093281587
+2024-03-31 14:04:26,563 - DEBUG - tensor([329.8159, 162.0247, 394.3476, 187.3600], device='cuda:0')
+2024-03-31 14:04:26,581 - DEBUG - BBOX: (tensor(329.8159, device='cuda:0'), tensor(162.0247, device='cuda:0')), (tensor(394.3476, device='cuda:0'), tensor(187.3600, device='cuda:0'))
+2024-03-31 14:04:26,583 - DEBUG - center point:362, 174
+2024-03-31 14:04:26,658 - INFO - depth_point_in_meters_camera_coords is:1.8639405000209808
+2024-03-31 14:04:26,777 - DEBUG - tensor([329.9131, 162.0048, 394.2027, 187.2863], device='cuda:0')
+2024-03-31 14:04:26,793 - DEBUG - BBOX: (tensor(329.9131, device='cuda:0'), tensor(162.0048, device='cuda:0')), (tensor(394.2027, device='cuda:0'), tensor(187.2863, device='cuda:0'))
+2024-03-31 14:04:26,795 - DEBUG - center point:362, 174
+2024-03-31 14:04:26,869 - INFO - depth_point_in_meters_camera_coords is:1.8582071642080942
+2024-03-31 14:04:26,987 - DEBUG - tensor([329.6114, 161.7803, 394.2985, 187.3368], device='cuda:0')
+2024-03-31 14:04:27,003 - DEBUG - BBOX: (tensor(329.6114, device='cuda:0'), tensor(161.7803, device='cuda:0')), (tensor(394.2985, device='cuda:0'), tensor(187.3368, device='cuda:0'))
+2024-03-31 14:04:27,005 - DEBUG - center point:361, 174
+2024-03-31 14:04:27,083 - INFO - depth_point_in_meters_camera_coords is:1.6741646147767704
+2024-03-31 14:04:27,221 - DEBUG - tensor([329.5769, 162.2116, 394.0649, 187.2368], device='cuda:0')
+2024-03-31 14:04:27,249 - DEBUG - BBOX: (tensor(329.5769, device='cuda:0'), tensor(162.2116, device='cuda:0')), (tensor(394.0649, device='cuda:0'), tensor(187.2368, device='cuda:0'))
+2024-03-31 14:04:27,250 - DEBUG - center point:361, 174
+2024-03-31 14:04:27,350 - INFO - depth_point_in_meters_camera_coords is:1.7813344939549765
+2024-03-31 14:04:27,497 - DEBUG - tensor([329.7645, 161.9271, 394.1060, 187.2624], device='cuda:0')
+2024-03-31 14:04:27,529 - DEBUG - BBOX: (tensor(329.7645, device='cuda:0'), tensor(161.9271, device='cuda:0')), (tensor(394.1060, device='cuda:0'), tensor(187.2624, device='cuda:0'))
+2024-03-31 14:04:27,531 - DEBUG - center point:361, 174
+2024-03-31 14:04:27,617 - INFO - depth_point_in_meters_camera_coords is:1.732794796526432
+2024-03-31 14:04:27,749 - DEBUG - tensor([329.7828, 161.5992, 394.0762, 187.1042], device='cuda:0')
+2024-03-31 14:04:27,766 - DEBUG - BBOX: (tensor(329.7828, device='cuda:0'), tensor(161.5992, device='cuda:0')), (tensor(394.0762, device='cuda:0'), tensor(187.1042, device='cuda:0'))
+2024-03-31 14:04:27,767 - DEBUG - center point:361, 174
+2024-03-31 14:04:27,855 - INFO - depth_point_in_meters_camera_coords is:1.7361075861255328
+2024-03-31 14:04:27,996 - DEBUG - tensor([329.8540, 161.6527, 394.1711, 187.3890], device='cuda:0')
+2024-03-31 14:04:28,011 - DEBUG - BBOX: (tensor(329.8540, device='cuda:0'), tensor(161.6527, device='cuda:0')), (tensor(394.1711, device='cuda:0'), tensor(187.3890, device='cuda:0'))
+2024-03-31 14:04:28,014 - DEBUG - center point:362, 174
+2024-03-31 14:04:28,094 - INFO - depth_point_in_meters_camera_coords is:1.7634377906719843
+2024-03-31 14:04:28,222 - DEBUG - tensor([329.8684, 161.8431, 393.7578, 187.1805], device='cuda:0')
+2024-03-31 14:04:28,244 - DEBUG - BBOX: (tensor(329.8684, device='cuda:0'), tensor(161.8431, device='cuda:0')), (tensor(393.7578, device='cuda:0'), tensor(187.1805, device='cuda:0'))
+2024-03-31 14:04:28,245 - DEBUG - center point:361, 174
+2024-03-31 14:04:28,319 - INFO - depth_point_in_meters_camera_coords is:1.749950413207213
+2024-03-31 14:04:28,439 - DEBUG - tensor([329.8437, 161.8920, 394.3321, 187.2008], device='cuda:0')
+2024-03-31 14:04:28,464 - DEBUG - BBOX: (tensor(329.8437, device='cuda:0'), tensor(161.8920, device='cuda:0')), (tensor(394.3321, device='cuda:0'), tensor(187.2008, device='cuda:0'))
+2024-03-31 14:04:28,465 - DEBUG - center point:362, 174
+2024-03-31 14:04:28,538 - INFO - depth_point_in_meters_camera_coords is:1.7952050757408142
+2024-03-31 14:04:28,658 - DEBUG - tensor([329.6127, 162.0958, 394.3823, 187.2885], device='cuda:0')
+2024-03-31 14:04:28,676 - DEBUG - BBOX: (tensor(329.6127, device='cuda:0'), tensor(162.0958, device='cuda:0')), (tensor(394.3823, device='cuda:0'), tensor(187.2885, device='cuda:0'))
+2024-03-31 14:04:28,678 - DEBUG - center point:361, 174
+2024-03-31 14:04:28,750 - INFO - depth_point_in_meters_camera_coords is:1.8272245943546295
+2024-03-31 14:04:28,869 - DEBUG - tensor([329.5383, 161.8136, 394.6581, 187.3205], device='cuda:0')
+2024-03-31 14:04:28,890 - DEBUG - BBOX: (tensor(329.5383, device='cuda:0'), tensor(161.8136, device='cuda:0')), (tensor(394.6581, device='cuda:0'), tensor(187.3205, device='cuda:0'))
+2024-03-31 14:04:28,891 - DEBUG - center point:362, 174
+2024-03-31 14:04:28,964 - INFO - depth_point_in_meters_camera_coords is:1.8197466937700908
+2024-03-31 14:04:29,081 - DEBUG - tensor([328.9193, 162.5508, 393.8317, 187.0395], device='cuda:0')
+2024-03-31 14:04:29,103 - DEBUG - BBOX: (tensor(328.9193, device='cuda:0'), tensor(162.5508, device='cuda:0')), (tensor(393.8317, device='cuda:0'), tensor(187.0395, device='cuda:0'))
+2024-03-31 14:04:29,104 - DEBUG - center point:361, 174
+2024-03-31 14:04:29,177 - INFO - depth_point_in_meters_camera_coords is:1.859187992711862
+2024-03-31 14:04:29,297 - DEBUG - tensor([329.9100, 162.1613, 394.0298, 187.3075], device='cuda:0')
+2024-03-31 14:04:29,312 - DEBUG - BBOX: (tensor(329.9100, device='cuda:0'), tensor(162.1613, device='cuda:0')), (tensor(394.0298, device='cuda:0'), tensor(187.3075, device='cuda:0'))
+2024-03-31 14:04:29,314 - DEBUG - center point:361, 174
+2024-03-31 14:04:29,386 - INFO - depth_point_in_meters_camera_coords is:1.7677788148323694
+2024-03-31 14:04:29,508 - DEBUG - tensor([330.0514, 161.9709, 394.0877, 187.2198], device='cuda:0')
+2024-03-31 14:04:29,529 - DEBUG - BBOX: (tensor(330.0514, device='cuda:0'), tensor(161.9709, device='cuda:0')), (tensor(394.0877, device='cuda:0'), tensor(187.2198, device='cuda:0'))
+2024-03-31 14:04:29,530 - DEBUG - center point:362, 174
+2024-03-31 14:04:29,599 - INFO - depth_point_in_meters_camera_coords is:1.889780434568723
+2024-03-31 14:04:29,723 - DEBUG - tensor([329.5225, 162.4276, 394.2585, 187.3292], device='cuda:0')
+2024-03-31 14:04:29,742 - DEBUG - BBOX: (tensor(329.5225, device='cuda:0'), tensor(162.4276, device='cuda:0')), (tensor(394.2585, device='cuda:0'), tensor(187.3292, device='cuda:0'))
+2024-03-31 14:04:29,744 - DEBUG - center point:361, 174
+2024-03-31 14:04:29,817 - INFO - depth_point_in_meters_camera_coords is:1.792551015218099
+2024-03-31 14:04:29,939 - DEBUG - tensor([329.8641, 161.7136, 394.0569, 187.3467], device='cuda:0')
+2024-03-31 14:04:29,957 - DEBUG - BBOX: (tensor(329.8641, device='cuda:0'), tensor(161.7136, device='cuda:0')), (tensor(394.0569, device='cuda:0'), tensor(187.3467, device='cuda:0'))
+2024-03-31 14:04:29,959 - DEBUG - center point:361, 174
+2024-03-31 14:04:30,036 - INFO - depth_point_in_meters_camera_coords is:1.7511447183291118
+2024-03-31 14:04:30,151 - DEBUG - tensor([329.8748, 162.1827, 393.7584, 187.0303], device='cuda:0')
+2024-03-31 14:04:30,173 - DEBUG - BBOX: (tensor(329.8748, device='cuda:0'), tensor(162.1827, device='cuda:0')), (tensor(393.7584, device='cuda:0'), tensor(187.0303, device='cuda:0'))
+2024-03-31 14:04:30,174 - DEBUG - center point:361, 174
+2024-03-31 14:04:30,246 - INFO - depth_point_in_meters_camera_coords is:1.8189857181906701
+2024-03-31 14:04:30,368 - DEBUG - tensor([329.8434, 161.7353, 393.9953, 187.2853], device='cuda:0')
+2024-03-31 14:04:30,385 - DEBUG - BBOX: (tensor(329.8434, device='cuda:0'), tensor(161.7353, device='cuda:0')), (tensor(393.9953, device='cuda:0'), tensor(187.2853, device='cuda:0'))
+2024-03-31 14:04:30,386 - DEBUG - center point:361, 174
+2024-03-31 14:04:30,457 - INFO - depth_point_in_meters_camera_coords is:1.7936217762033144
+2024-03-31 14:04:30,583 - DEBUG - tensor([329.7236, 161.6834, 393.7780, 187.0632], device='cuda:0')
+2024-03-31 14:04:30,602 - DEBUG - BBOX: (tensor(329.7236, device='cuda:0'), tensor(161.6834, device='cuda:0')), (tensor(393.7780, device='cuda:0'), tensor(187.0632, device='cuda:0'))
+2024-03-31 14:04:30,604 - DEBUG - center point:361, 174
+2024-03-31 14:04:30,688 - INFO - depth_point_in_meters_camera_coords is:1.7872197634975115
+2024-03-31 14:04:30,817 - DEBUG - tensor([329.5402, 161.7633, 394.3840, 187.3444], device='cuda:0')
+2024-03-31 14:04:30,836 - DEBUG - BBOX: (tensor(329.5402, device='cuda:0'), tensor(161.7633, device='cuda:0')), (tensor(394.3840, device='cuda:0'), tensor(187.3444, device='cuda:0'))
+2024-03-31 14:04:30,837 - DEBUG - center point:361, 174
+2024-03-31 14:04:30,910 - INFO - depth_point_in_meters_camera_coords is:1.7770899464686711
+2024-03-31 14:04:31,031 - DEBUG - tensor([329.9600, 161.7495, 394.3533, 187.1747], device='cuda:0')
+2024-03-31 14:04:31,050 - DEBUG - BBOX: (tensor(329.9600, device='cuda:0'), tensor(161.7495, device='cuda:0')), (tensor(394.3533, device='cuda:0'), tensor(187.1747, device='cuda:0'))
+2024-03-31 14:04:31,051 - DEBUG - center point:362, 174
+2024-03-31 14:04:31,124 - INFO - depth_point_in_meters_camera_coords is:1.8431428665916125
+2024-03-31 14:04:31,243 - DEBUG - tensor([329.7661, 161.9667, 393.8289, 187.1633], device='cuda:0')
+2024-03-31 14:04:31,264 - DEBUG - BBOX: (tensor(329.7661, device='cuda:0'), tensor(161.9667, device='cuda:0')), (tensor(393.8289, device='cuda:0'), tensor(187.1633, device='cuda:0'))
+2024-03-31 14:04:31,264 - DEBUG - center point:361, 174
+2024-03-31 14:04:31,333 - INFO - depth_point_in_meters_camera_coords is:1.7769632372260094
+2024-03-31 14:04:31,452 - DEBUG - tensor([328.7832, 162.3628, 393.9541, 186.9992], device='cuda:0')
+2024-03-31 14:04:31,469 - DEBUG - BBOX: (tensor(328.7832, device='cuda:0'), tensor(162.3628, device='cuda:0')), (tensor(393.9541, device='cuda:0'), tensor(186.9992, device='cuda:0'))
+2024-03-31 14:04:31,471 - DEBUG - center point:361, 174
+2024-03-31 14:04:31,544 - INFO - depth_point_in_meters_camera_coords is:1.7315977839628856
+2024-03-31 14:04:31,660 - DEBUG - tensor([329.6753, 161.8061, 394.1471, 187.3577], device='cuda:0')
+2024-03-31 14:04:31,681 - DEBUG - BBOX: (tensor(329.6753, device='cuda:0'), tensor(161.8061, device='cuda:0')), (tensor(394.1471, device='cuda:0'), tensor(187.3577, device='cuda:0'))
+2024-03-31 14:04:31,682 - DEBUG - center point:361, 174
+2024-03-31 14:04:31,758 - INFO - depth_point_in_meters_camera_coords is:1.7446572757760683
+2024-03-31 14:04:31,884 - DEBUG - tensor([330.0970, 161.8020, 394.2372, 187.1686], device='cuda:0')
+2024-03-31 14:04:31,913 - DEBUG - BBOX: (tensor(330.0970, device='cuda:0'), tensor(161.8020, device='cuda:0')), (tensor(394.2372, device='cuda:0'), tensor(187.1686, device='cuda:0'))
+2024-03-31 14:04:31,914 - DEBUG - center point:362, 174
+2024-03-31 14:04:31,991 - INFO - depth_point_in_meters_camera_coords is:1.7725140233834584
+2024-03-31 14:04:32,117 - DEBUG - tensor([330.0582, 162.0055, 394.1205, 187.1344], device='cuda:0')
+2024-03-31 14:04:32,134 - DEBUG - BBOX: (tensor(330.0582, device='cuda:0'), tensor(162.0055, device='cuda:0')), (tensor(394.1205, device='cuda:0'), tensor(187.1344, device='cuda:0'))
+2024-03-31 14:04:32,135 - DEBUG - center point:362, 174
+2024-03-31 14:04:32,214 - INFO - depth_point_in_meters_camera_coords is:1.8058380591869354
+2024-03-31 14:04:32,329 - DEBUG - tensor([329.7031, 161.8163, 394.2928, 187.2224], device='cuda:0')
+2024-03-31 14:04:32,350 - DEBUG - BBOX: (tensor(329.7031, device='cuda:0'), tensor(161.8163, device='cuda:0')), (tensor(394.2928, device='cuda:0'), tensor(187.2224, device='cuda:0'))
+2024-03-31 14:04:32,351 - DEBUG - center point:361, 174
+2024-03-31 14:04:32,431 - INFO - depth_point_in_meters_camera_coords is:1.774728198647499
+2024-03-31 14:04:32,550 - DEBUG - tensor([329.8087, 161.8158, 394.3915, 187.4614], device='cuda:0')
+2024-03-31 14:04:32,568 - DEBUG - BBOX: (tensor(329.8087, device='cuda:0'), tensor(161.8158, device='cuda:0')), (tensor(394.3915, device='cuda:0'), tensor(187.4614, device='cuda:0'))
+2024-03-31 14:04:32,569 - DEBUG - center point:362, 174
+2024-03-31 14:04:32,643 - INFO - depth_point_in_meters_camera_coords is:1.688173311551412
+2024-03-31 14:04:32,761 - DEBUG - tensor([330.4308, 162.2274, 394.1258, 187.4012], device='cuda:0')
+2024-03-31 14:04:32,778 - DEBUG - BBOX: (tensor(330.4308, device='cuda:0'), tensor(162.2274, device='cuda:0')), (tensor(394.1258, device='cuda:0'), tensor(187.4012, device='cuda:0'))
+2024-03-31 14:04:32,780 - DEBUG - center point:362, 174
+2024-03-31 14:04:32,859 - INFO - depth_point_in_meters_camera_coords is:1.8413418647646904
+2024-03-31 14:04:32,985 - DEBUG - tensor([329.7087, 161.6507, 394.2770, 187.0989], device='cuda:0')
+2024-03-31 14:04:33,006 - DEBUG - BBOX: (tensor(329.7087, device='cuda:0'), tensor(161.6507, device='cuda:0')), (tensor(394.2770, device='cuda:0'), tensor(187.0989, device='cuda:0'))
+2024-03-31 14:04:33,007 - DEBUG - center point:361, 174
+2024-03-31 14:04:33,089 - INFO - depth_point_in_meters_camera_coords is:1.8436310595273973
+2024-03-31 14:04:33,218 - DEBUG - tensor([329.7302, 161.6051, 394.3558, 187.2122], device='cuda:0')
+2024-03-31 14:04:33,242 - DEBUG - BBOX: (tensor(329.7302, device='cuda:0'), tensor(161.6051, device='cuda:0')), (tensor(394.3558, device='cuda:0'), tensor(187.2122, device='cuda:0'))
+2024-03-31 14:04:33,243 - DEBUG - center point:362, 174
+2024-03-31 14:04:33,315 - INFO - depth_point_in_meters_camera_coords is:1.862824282348156
+2024-03-31 14:04:33,440 - DEBUG - tensor([329.7784, 162.0110, 394.1893, 187.1908], device='cuda:0')
+2024-03-31 14:04:33,460 - DEBUG - BBOX: (tensor(329.7784, device='cuda:0'), tensor(162.0110, device='cuda:0')), (tensor(394.1893, device='cuda:0'), tensor(187.1908, device='cuda:0'))
+2024-03-31 14:04:33,460 - DEBUG - center point:361, 174
+2024-03-31 14:04:33,533 - INFO - depth_point_in_meters_camera_coords is:1.844248878657818
+2024-03-31 14:04:33,650 - DEBUG - tensor([329.8653, 161.8269, 394.2018, 187.2355], device='cuda:0')
+2024-03-31 14:04:33,671 - DEBUG - BBOX: (tensor(329.8653, device='cuda:0'), tensor(161.8269, device='cuda:0')), (tensor(394.2018, device='cuda:0'), tensor(187.2355, device='cuda:0'))
+2024-03-31 14:04:33,673 - DEBUG - center point:362, 174
+2024-03-31 14:04:33,746 - INFO - depth_point_in_meters_camera_coords is:1.8493201249837876
+2024-03-31 14:04:33,866 - DEBUG - tensor([329.8580, 161.9827, 394.0207, 187.1412], device='cuda:0')
+2024-03-31 14:04:33,885 - DEBUG - BBOX: (tensor(329.8580, device='cuda:0'), tensor(161.9827, device='cuda:0')), (tensor(394.0207, device='cuda:0'), tensor(187.1412, device='cuda:0'))
+2024-03-31 14:04:33,886 - DEBUG - center point:361, 174
+2024-03-31 14:04:33,962 - INFO - depth_point_in_meters_camera_coords is:1.8084883295496306
+2024-03-31 14:04:34,082 - DEBUG - tensor([330.0320, 162.1025, 394.2806, 187.1650], device='cuda:0')
+2024-03-31 14:04:34,105 - DEBUG - BBOX: (tensor(330.0320, device='cuda:0'), tensor(162.1025, device='cuda:0')), (tensor(394.2806, device='cuda:0'), tensor(187.1650, device='cuda:0'))
+2024-03-31 14:04:34,106 - DEBUG - center point:362, 174
+2024-03-31 14:04:34,176 - INFO - depth_point_in_meters_camera_coords is:1.767713532646497
+2024-03-31 14:04:34,293 - DEBUG - tensor([330.0489, 162.1271, 394.2771, 187.2061], device='cuda:0')
+2024-03-31 14:04:34,314 - DEBUG - BBOX: (tensor(330.0489, device='cuda:0'), tensor(162.1271, device='cuda:0')), (tensor(394.2771, device='cuda:0'), tensor(187.2061, device='cuda:0'))
+2024-03-31 14:04:34,315 - DEBUG - center point:362, 174
+2024-03-31 14:04:34,386 - INFO - depth_point_in_meters_camera_coords is:1.8316192210714022
+2024-03-31 14:04:34,507 - DEBUG - tensor([329.8186, 161.5526, 394.5816, 187.2505], device='cuda:0')
+2024-03-31 14:04:34,528 - DEBUG - BBOX: (tensor(329.8186, device='cuda:0'), tensor(161.5526, device='cuda:0')), (tensor(394.5816, device='cuda:0'), tensor(187.2505, device='cuda:0'))
+2024-03-31 14:04:34,529 - DEBUG - center point:362, 174
+2024-03-31 14:04:34,599 - INFO - depth_point_in_meters_camera_coords is:1.8417922682563463
+2024-03-31 14:04:34,721 - DEBUG - tensor([329.6589, 161.7778, 393.8376, 187.1604], device='cuda:0')
+2024-03-31 14:04:34,740 - DEBUG - BBOX: (tensor(329.6589, device='cuda:0'), tensor(161.7778, device='cuda:0')), (tensor(393.8376, device='cuda:0'), tensor(187.1604, device='cuda:0'))
+2024-03-31 14:04:34,741 - DEBUG - center point:361, 174
+2024-03-31 14:04:34,816 - INFO - depth_point_in_meters_camera_coords is:1.7695537719130516
+2024-03-31 14:04:34,937 - DEBUG - tensor([329.9529, 162.2631, 394.3506, 187.2419], device='cuda:0')
+2024-03-31 14:04:34,951 - DEBUG - BBOX: (tensor(329.9529, device='cuda:0'), tensor(162.2631, device='cuda:0')), (tensor(394.3506, device='cuda:0'), tensor(187.2419, device='cuda:0'))
+2024-03-31 14:04:34,952 - DEBUG - center point:362, 174
+2024-03-31 14:04:35,027 - INFO - depth_point_in_meters_camera_coords is:1.8187961707512537
+2024-03-31 14:04:35,146 - DEBUG - tensor([330.1191, 161.6407, 393.9111, 187.0841], device='cuda:0')
+2024-03-31 14:04:35,166 - DEBUG - BBOX: (tensor(330.1191, device='cuda:0'), tensor(161.6407, device='cuda:0')), (tensor(393.9111, device='cuda:0'), tensor(187.0841, device='cuda:0'))
+2024-03-31 14:04:35,167 - DEBUG - center point:362, 174
+2024-03-31 14:04:35,244 - INFO - depth_point_in_meters_camera_coords is:1.769673663675785
+2024-03-31 14:04:35,372 - DEBUG - tensor([329.8007, 162.1250, 394.1796, 187.1530], device='cuda:0')
+2024-03-31 14:04:35,394 - DEBUG - BBOX: (tensor(329.8007, device='cuda:0'), tensor(162.1250, device='cuda:0')), (tensor(394.1796, device='cuda:0'), tensor(187.1530, device='cuda:0'))
+2024-03-31 14:04:35,395 - DEBUG - center point:361, 174
+2024-03-31 14:04:35,469 - INFO - depth_point_in_meters_camera_coords is:1.8033006764451662
+2024-03-31 14:04:35,590 - DEBUG - tensor([330.0614, 161.8460, 393.9996, 187.2810], device='cuda:0')
+2024-03-31 14:04:35,608 - DEBUG - BBOX: (tensor(330.0614, device='cuda:0'), tensor(161.8460, device='cuda:0')), (tensor(393.9996, device='cuda:0'), tensor(187.2810, device='cuda:0'))
+2024-03-31 14:04:35,611 - DEBUG - center point:362, 174
+2024-03-31 14:04:35,682 - INFO - depth_point_in_meters_camera_coords is:1.7891952528556188
+2024-03-31 14:04:35,803 - DEBUG - tensor([330.3396, 161.9485, 394.1624, 187.3714], device='cuda:0')
+2024-03-31 14:04:35,820 - DEBUG - BBOX: (tensor(330.3396, device='cuda:0'), tensor(161.9485, device='cuda:0')), (tensor(394.1624, device='cuda:0'), tensor(187.3714, device='cuda:0'))
+2024-03-31 14:04:35,821 - DEBUG - center point:362, 174
+2024-03-31 14:04:35,903 - INFO - depth_point_in_meters_camera_coords is:1.853081633845965
+2024-03-31 14:04:36,027 - DEBUG - tensor([329.8164, 161.5749, 394.3800, 187.2627], device='cuda:0')
+2024-03-31 14:04:36,048 - DEBUG - BBOX: (tensor(329.8164, device='cuda:0'), tensor(161.5749, device='cuda:0')), (tensor(394.3800, device='cuda:0'), tensor(187.2627, device='cuda:0'))
+2024-03-31 14:04:36,050 - DEBUG - center point:362, 174
+2024-03-31 14:04:36,119 - INFO - depth_point_in_meters_camera_coords is:1.639270095427831
+2024-03-31 14:04:36,243 - DEBUG - tensor([329.1904, 161.9918, 394.4880, 187.3599], device='cuda:0')
+2024-03-31 14:04:36,263 - DEBUG - BBOX: (tensor(329.1904, device='cuda:0'), tensor(161.9918, device='cuda:0')), (tensor(394.4880, device='cuda:0'), tensor(187.3599, device='cuda:0'))
+2024-03-31 14:04:36,264 - DEBUG - center point:361, 174
+2024-03-31 14:04:36,334 - INFO - depth_point_in_meters_camera_coords is:1.8251257047057152
+2024-03-31 14:04:36,453 - DEBUG - tensor([330.1012, 161.8340, 394.1392, 187.2906], device='cuda:0')
+2024-03-31 14:04:36,469 - DEBUG - BBOX: (tensor(330.1012, device='cuda:0'), tensor(161.8340, device='cuda:0')), (tensor(394.1392, device='cuda:0'), tensor(187.2906, device='cuda:0'))
+2024-03-31 14:04:36,470 - DEBUG - center point:362, 174
+2024-03-31 14:04:36,543 - INFO - depth_point_in_meters_camera_coords is:1.8281555992364884
+2024-03-31 14:04:36,666 - DEBUG - tensor([329.6837, 161.4920, 394.3776, 187.2415], device='cuda:0')
+2024-03-31 14:04:36,686 - DEBUG - BBOX: (tensor(329.6837, device='cuda:0'), tensor(161.4920, device='cuda:0')), (tensor(394.3776, device='cuda:0'), tensor(187.2415, device='cuda:0'))
+2024-03-31 14:04:36,687 - DEBUG - center point:362, 174
+2024-03-31 14:04:36,757 - INFO - depth_point_in_meters_camera_coords is:1.7723225690921147
+2024-03-31 14:04:36,885 - DEBUG - tensor([329.8143, 162.0536, 393.9376, 187.0296], device='cuda:0')
+2024-03-31 14:04:36,902 - DEBUG - BBOX: (tensor(329.8143, device='cuda:0'), tensor(162.0536, device='cuda:0')), (tensor(393.9376, device='cuda:0'), tensor(187.0296, device='cuda:0'))
+2024-03-31 14:04:36,904 - DEBUG - center point:361, 174
+2024-03-31 14:04:36,990 - INFO - depth_point_in_meters_camera_coords is:1.813400547504425
