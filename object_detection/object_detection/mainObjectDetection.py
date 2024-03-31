@@ -139,7 +139,7 @@ class ObjectDetection:
                     logging.info('depth_point_in_meters_camera_coords is:' + str(depth_point_in_meters_camera_coords))
 
                     cv2.rectangle(output_images, (c-self.depth_radius, r-self.depth_radius), (c+self.depth_radius, r+self.depth_radius), (255, 0, 0), 2)  # Blue color bbox with 2px thickness
-                    cv2.putText(output_images, "distance" + str(depth_point_in_meters_camera_coords),(20, 20), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255,0,0), 2) 
+                    cv2.putText(output_images, "distance" + str(depth_point_in_meters_camera_coords),(20, 20), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255,0,0), 1) 
                     print("Write images to the data video")
                     self.data_video.write(output_images)
                     
