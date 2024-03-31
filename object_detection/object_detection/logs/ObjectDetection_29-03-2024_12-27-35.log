@@ -1,0 +1,175 @@
+2024-03-29 12:27:35,967 - INFO - !!!!!!!START!!!!!!!
+2024-03-29 12:27:45,221 - INFO - depth_point_in_meters_camera_coords is:0.6937878744800886
+2024-03-29 12:27:45,322 - INFO - depth_point_in_meters_camera_coords is:0.14111715624729793
+2024-03-29 12:27:45,421 - INFO - depth_point_in_meters_camera_coords is:0.22711826672156651
+2024-03-29 12:27:45,486 - INFO - boxes is None! no detections
+2024-03-29 12:27:45,561 - INFO - boxes is None! no detections
+2024-03-29 12:27:45,675 - INFO - depth_point_in_meters_camera_coords is:0.16227685019373894
+2024-03-29 12:27:45,791 - INFO - depth_point_in_meters_camera_coords is:0.1659160955250263
+2024-03-29 12:27:45,883 - INFO - depth_point_in_meters_camera_coords is:0.11033603529135386
+2024-03-29 12:27:45,954 - INFO - boxes is None! no detections
+2024-03-29 12:27:46,058 - INFO - depth_point_in_meters_camera_coords is:0.09411572178204854
+2024-03-29 12:27:46,134 - INFO - boxes is None! no detections
+2024-03-29 12:27:46,202 - INFO - boxes is None! no detections
+2024-03-29 12:27:46,269 - INFO - boxes is None! no detections
+2024-03-29 12:27:46,338 - INFO - boxes is None! no detections
+2024-03-29 12:27:46,405 - INFO - boxes is None! no detections
+2024-03-29 12:27:46,470 - INFO - boxes is None! no detections
+2024-03-29 12:27:46,603 - INFO - depth_point_in_meters_camera_coords is:0.11292574629187584
+2024-03-29 12:27:46,747 - INFO - depth_point_in_meters_camera_coords is:0.6704237248500188
+2024-03-29 12:27:46,821 - INFO - boxes is None! no detections
+2024-03-29 12:27:46,887 - INFO - boxes is None! no detections
+2024-03-29 12:27:47,018 - INFO - depth_point_in_meters_camera_coords is:0.6856401968002319
+2024-03-29 12:27:47,092 - INFO - boxes is None! no detections
+2024-03-29 12:27:47,162 - INFO - boxes is None! no detections
+2024-03-29 12:27:47,229 - INFO - boxes is None! no detections
+2024-03-29 12:27:47,294 - INFO - boxes is None! no detections
+2024-03-29 12:27:47,359 - INFO - boxes is None! no detections
+2024-03-29 12:27:47,426 - INFO - boxes is None! no detections
+2024-03-29 12:27:47,491 - INFO - boxes is None! no detections
+2024-03-29 12:27:47,558 - INFO - boxes is None! no detections
+2024-03-29 12:27:47,627 - INFO - boxes is None! no detections
+2024-03-29 12:27:47,703 - INFO - boxes is None! no detections
+2024-03-29 12:27:47,769 - INFO - boxes is None! no detections
+2024-03-29 12:27:47,837 - INFO - boxes is None! no detections
+2024-03-29 12:27:47,914 - INFO - boxes is None! no detections
+2024-03-29 12:27:47,981 - INFO - boxes is None! no detections
+2024-03-29 12:27:48,047 - INFO - boxes is None! no detections
+2024-03-29 12:27:48,126 - INFO - boxes is None! no detections
+2024-03-29 12:27:48,195 - INFO - boxes is None! no detections
+2024-03-29 12:27:48,261 - INFO - boxes is None! no detections
+2024-03-29 12:27:48,326 - INFO - boxes is None! no detections
+2024-03-29 12:27:48,397 - INFO - boxes is None! no detections
+2024-03-29 12:27:48,472 - INFO - boxes is None! no detections
+2024-03-29 12:27:48,550 - INFO - boxes is None! no detections
+2024-03-29 12:27:48,616 - INFO - boxes is None! no detections
+2024-03-29 12:27:48,698 - INFO - boxes is None! no detections
+2024-03-29 12:27:48,766 - INFO - boxes is None! no detections
+2024-03-29 12:27:48,830 - INFO - boxes is None! no detections
+2024-03-29 12:27:48,896 - INFO - boxes is None! no detections
+2024-03-29 12:27:48,970 - INFO - boxes is None! no detections
+2024-03-29 12:27:49,036 - INFO - boxes is None! no detections
+2024-03-29 12:27:49,103 - INFO - boxes is None! no detections
+2024-03-29 12:27:49,180 - INFO - boxes is None! no detections
+2024-03-29 12:27:49,246 - INFO - boxes is None! no detections
+2024-03-29 12:27:49,315 - INFO - boxes is None! no detections
+2024-03-29 12:27:49,394 - INFO - boxes is None! no detections
+2024-03-29 12:27:49,461 - INFO - boxes is None! no detections
+2024-03-29 12:27:49,525 - INFO - boxes is None! no detections
+2024-03-29 12:27:49,604 - INFO - boxes is None! no detections
+2024-03-29 12:27:49,679 - INFO - boxes is None! no detections
+2024-03-29 12:27:49,813 - INFO - depth_point_in_meters_camera_coords is:0.1332031739751498
+2024-03-29 12:27:49,959 - INFO - depth_point_in_meters_camera_coords is:0.18486186931530635
+2024-03-29 12:27:50,110 - INFO - depth_point_in_meters_camera_coords is:0.24649180397391318
+2024-03-29 12:27:50,244 - INFO - depth_point_in_meters_camera_coords is:0.1512922410170237
+2024-03-29 12:27:50,381 - INFO - depth_point_in_meters_camera_coords is:0.03637067407369614
+2024-03-29 12:27:50,451 - INFO - boxes is None! no detections
+2024-03-29 12:27:50,526 - INFO - boxes is None! no detections
+2024-03-29 12:27:50,596 - INFO - boxes is None! no detections
+2024-03-29 12:27:50,663 - INFO - boxes is None! no detections
+2024-03-29 12:27:50,734 - INFO - boxes is None! no detections
+2024-03-29 12:27:50,811 - INFO - boxes is None! no detections
+2024-03-29 12:27:50,888 - INFO - boxes is None! no detections
+2024-03-29 12:27:50,963 - INFO - boxes is None! no detections
+2024-03-29 12:27:51,030 - INFO - boxes is None! no detections
+2024-03-29 12:27:51,112 - INFO - boxes is None! no detections
+2024-03-29 12:27:51,187 - INFO - boxes is None! no detections
+2024-03-29 12:27:51,253 - INFO - boxes is None! no detections
+2024-03-29 12:27:51,322 - INFO - boxes is None! no detections
+2024-03-29 12:27:51,397 - INFO - boxes is None! no detections
+2024-03-29 12:27:51,472 - INFO - boxes is None! no detections
+2024-03-29 12:27:51,547 - INFO - boxes is None! no detections
+2024-03-29 12:27:51,622 - INFO - boxes is None! no detections
+2024-03-29 12:27:51,684 - INFO - boxes is None! no detections
+2024-03-29 12:27:51,759 - INFO - boxes is None! no detections
+2024-03-29 12:27:51,833 - INFO - boxes is None! no detections
+2024-03-29 12:27:51,909 - INFO - boxes is None! no detections
+2024-03-29 12:27:51,983 - INFO - boxes is None! no detections
+2024-03-29 12:27:52,059 - INFO - boxes is None! no detections
+2024-03-29 12:27:52,135 - INFO - boxes is None! no detections
+2024-03-29 12:27:52,242 - INFO - depth_point_in_meters_camera_coords is:0.17236911714076997
+2024-03-29 12:27:52,371 - INFO - depth_point_in_meters_camera_coords is:0.6348088350395361
+2024-03-29 12:27:52,511 - INFO - depth_point_in_meters_camera_coords is:0.6537963427106539
+2024-03-29 12:27:52,652 - INFO - depth_point_in_meters_camera_coords is:0.6260280372699102
+2024-03-29 12:27:52,795 - INFO - depth_point_in_meters_camera_coords is:0.5881564983725548
+2024-03-29 12:27:52,932 - INFO - depth_point_in_meters_camera_coords is:0.6037090862294038
+2024-03-29 12:27:53,083 - INFO - depth_point_in_meters_camera_coords is:0.5935020807385445
+2024-03-29 12:27:53,226 - INFO - depth_point_in_meters_camera_coords is:0.5838793242474397
+2024-03-29 12:27:53,368 - INFO - depth_point_in_meters_camera_coords is:0.5620651543637116
+2024-03-29 12:27:53,519 - INFO - depth_point_in_meters_camera_coords is:0.5058639344461942
+2024-03-29 12:27:53,672 - INFO - depth_point_in_meters_camera_coords is:0.4743157437816262
+2024-03-29 12:27:53,790 - INFO - depth_point_in_meters_camera_coords is:0.46524235223730404
+2024-03-29 12:27:53,892 - INFO - depth_point_in_meters_camera_coords is:0.43247029984990754
+2024-03-29 12:27:53,985 - INFO - depth_point_in_meters_camera_coords is:0.4197559484591087
+2024-03-29 12:27:54,091 - INFO - depth_point_in_meters_camera_coords is:0.4137488623956839
+2024-03-29 12:27:54,198 - INFO - depth_point_in_meters_camera_coords is:0.42137352367242176
+2024-03-29 12:27:54,303 - INFO - depth_point_in_meters_camera_coords is:0.43436555333435534
+2024-03-29 12:27:54,407 - INFO - depth_point_in_meters_camera_coords is:0.45979509261747203
+2024-03-29 12:27:54,512 - INFO - depth_point_in_meters_camera_coords is:0.47781031275788943
+2024-03-29 12:27:54,618 - INFO - depth_point_in_meters_camera_coords is:0.47576036743819716
+2024-03-29 12:27:54,727 - INFO - depth_point_in_meters_camera_coords is:0.48098821207880976
+2024-03-29 12:27:54,832 - INFO - depth_point_in_meters_camera_coords is:0.47649080882469813
+2024-03-29 12:27:54,936 - INFO - depth_point_in_meters_camera_coords is:0.47388620272278786
+2024-03-29 12:27:55,049 - INFO - depth_point_in_meters_camera_coords is:0.4843390330175559
+2024-03-29 12:27:55,144 - INFO - depth_point_in_meters_camera_coords is:0.4982851451138655
+2024-03-29 12:27:55,260 - INFO - depth_point_in_meters_camera_coords is:0.5031579177826643
+2024-03-29 12:27:55,409 - INFO - depth_point_in_meters_camera_coords is:0.5064062918350101
+2024-03-29 12:27:55,554 - INFO - depth_point_in_meters_camera_coords is:0.5070882775386174
+2024-03-29 12:27:55,689 - INFO - depth_point_in_meters_camera_coords is:0.5052238633483648
+2024-03-29 12:27:55,836 - INFO - depth_point_in_meters_camera_coords is:0.5081368722269932
+2024-03-29 12:27:55,986 - INFO - depth_point_in_meters_camera_coords is:0.5139553378522396
+2024-03-29 12:27:56,129 - INFO - depth_point_in_meters_camera_coords is:0.5288602782413363
+2024-03-29 12:27:56,263 - INFO - depth_point_in_meters_camera_coords is:0.5250431432574988
+2024-03-29 12:27:56,397 - INFO - depth_point_in_meters_camera_coords is:0.5346045147503415
+2024-03-29 12:27:56,542 - INFO - depth_point_in_meters_camera_coords is:0.5380859377856055
+2024-03-29 12:27:56,685 - INFO - depth_point_in_meters_camera_coords is:0.5352509316243231
+2024-03-29 12:27:56,816 - INFO - depth_point_in_meters_camera_coords is:0.5351212140296896
+2024-03-29 12:27:56,944 - INFO - depth_point_in_meters_camera_coords is:0.5373362437449396
+2024-03-29 12:27:57,044 - INFO - depth_point_in_meters_camera_coords is:0.5397438857269784
+2024-03-29 12:27:57,148 - INFO - depth_point_in_meters_camera_coords is:0.5393821483229597
+2024-03-29 12:27:57,254 - INFO - depth_point_in_meters_camera_coords is:0.5394613302250704
+2024-03-29 12:27:57,363 - INFO - depth_point_in_meters_camera_coords is:0.5400508333618442
+2024-03-29 12:27:57,473 - INFO - depth_point_in_meters_camera_coords is:0.5387823619196812
+2024-03-29 12:27:57,571 - INFO - depth_point_in_meters_camera_coords is:0.5405943990250428
+2024-03-29 12:27:57,682 - INFO - depth_point_in_meters_camera_coords is:0.5412221895654996
+2024-03-29 12:27:57,782 - INFO - depth_point_in_meters_camera_coords is:0.5408413327361147
+2024-03-29 12:27:57,887 - INFO - depth_point_in_meters_camera_coords is:0.5396654180126885
+2024-03-29 12:27:57,995 - INFO - depth_point_in_meters_camera_coords is:0.5399841174172858
+2024-03-29 12:27:58,099 - INFO - depth_point_in_meters_camera_coords is:0.5372463019254307
+2024-03-29 12:27:58,205 - INFO - depth_point_in_meters_camera_coords is:0.5379317214091619
+2024-03-29 12:27:58,314 - INFO - depth_point_in_meters_camera_coords is:0.5350853615626693
+2024-03-29 12:27:58,451 - INFO - depth_point_in_meters_camera_coords is:0.5374418939215442
+2024-03-29 12:27:58,628 - INFO - depth_point_in_meters_camera_coords is:0.5356109139199058
+2024-03-29 12:27:58,764 - INFO - depth_point_in_meters_camera_coords is:0.5322337185110276
+2024-03-29 12:27:58,897 - INFO - depth_point_in_meters_camera_coords is:0.5231550563902905
+2024-03-29 12:27:59,051 - INFO - depth_point_in_meters_camera_coords is:0.5186795723591058
+2024-03-29 12:27:59,129 - INFO - boxes is None! no detections
+2024-03-29 12:27:59,206 - INFO - boxes is None! no detections
+2024-03-29 12:27:59,273 - INFO - boxes is None! no detections
+2024-03-29 12:27:59,345 - INFO - boxes is None! no detections
+2024-03-29 12:27:59,519 - INFO - depth_point_in_meters_camera_coords is:0.4176241736114025
+2024-03-29 12:27:59,672 - INFO - depth_point_in_meters_camera_coords is:0.4574316679934661
+2024-03-29 12:27:59,749 - INFO - boxes is None! no detections
+2024-03-29 12:27:59,877 - INFO - depth_point_in_meters_camera_coords is:0.5732868725558122
+2024-03-29 12:28:00,023 - INFO - depth_point_in_meters_camera_coords is:0.5444034813344478
+2024-03-29 12:28:00,098 - INFO - boxes is None! no detections
+2024-03-29 12:28:00,165 - INFO - boxes is None! no detections
+2024-03-29 12:28:00,300 - INFO - depth_point_in_meters_camera_coords is:0.4294871634989977
+2024-03-29 12:28:00,447 - INFO - depth_point_in_meters_camera_coords is:0.4938986136888464
+2024-03-29 12:28:00,596 - INFO - depth_point_in_meters_camera_coords is:0.5611023413886627
+2024-03-29 12:28:00,758 - INFO - depth_point_in_meters_camera_coords is:0.6282518616815408
+2024-03-29 12:28:00,904 - INFO - depth_point_in_meters_camera_coords is:0.6347638648251692
+2024-03-29 12:28:01,052 - INFO - depth_point_in_meters_camera_coords is:0.6382170363763968
+2024-03-29 12:28:01,191 - INFO - depth_point_in_meters_camera_coords is:0.6379073828458786
+2024-03-29 12:28:01,331 - INFO - depth_point_in_meters_camera_coords is:0.6389210113883018
+2024-03-29 12:28:01,427 - INFO - depth_point_in_meters_camera_coords is:0.6400149730344613
+2024-03-29 12:28:01,518 - INFO - depth_point_in_meters_camera_coords is:0.6398575080931187
+2024-03-29 12:28:01,627 - INFO - depth_point_in_meters_camera_coords is:0.641096620062987
+2024-03-29 12:28:01,733 - INFO - depth_point_in_meters_camera_coords is:0.6384884518881638
+2024-03-29 12:28:01,843 - INFO - depth_point_in_meters_camera_coords is:0.6383314363658428
+2024-03-29 12:28:01,947 - INFO - depth_point_in_meters_camera_coords is:0.6383612165848415
+2024-03-29 12:28:02,047 - INFO - depth_point_in_meters_camera_coords is:0.6380777168273926
+2024-03-29 12:28:02,154 - INFO - depth_point_in_meters_camera_coords is:0.6394695887466272
+2024-03-29 12:28:02,268 - INFO - depth_point_in_meters_camera_coords is:0.6392293960352738
+2024-03-29 12:28:02,366 - INFO - depth_point_in_meters_camera_coords is:0.6399562913676103
+2024-03-29 12:28:02,476 - INFO - depth_point_in_meters_camera_coords is:0.6397630846003691

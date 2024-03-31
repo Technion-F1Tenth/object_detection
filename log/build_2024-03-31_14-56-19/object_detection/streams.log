@@ -1,0 +1,60 @@
+[14.521s] Invoking command in '/home/doof-wagon/f1tenth_ws/object_detection': PYTHONPATH=/home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/prefix_override:/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/object_detection build --build-base /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build install --record /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/install.log --install-scripts $base/lib/object_detection --single-version-externally-managed
+[16.670s] running egg_info
+[16.673s] creating build/object_detection/object_detection.egg-info
+[16.674s] writing build/object_detection/object_detection.egg-info/PKG-INFO
+[16.676s] writing dependency_links to build/object_detection/object_detection.egg-info/dependency_links.txt
+[16.677s] writing entry points to build/object_detection/object_detection.egg-info/entry_points.txt
+[16.678s] writing requirements to build/object_detection/object_detection.egg-info/requires.txt
+[16.678s] writing top-level names to build/object_detection/object_detection.egg-info/top_level.txt
+[16.691s] writing manifest file 'build/object_detection/object_detection.egg-info/SOURCES.txt'
+[16.941s] reading manifest file 'build/object_detection/object_detection.egg-info/SOURCES.txt'
+[16.948s] writing manifest file 'build/object_detection/object_detection.egg-info/SOURCES.txt'
+[16.949s] running build
+[16.950s] running build_py
+[16.951s] creating /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build
+[16.951s] creating /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib
+[16.952s] creating /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection
+[16.953s] copying object_detection/__init__.py -> /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection
+[16.953s] copying object_detection/object_detection_node.py -> /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection
+[16.956s] creating /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection
+[16.957s] copying object_detection/object_detection/run2Videos.py -> /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection
+[16.960s] copying object_detection/object_detection/mainObjectDetection.py -> /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection
+[16.962s] copying object_detection/object_detection/__init__.py -> /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection
+[16.962s] copying object_detection/object_detection/yolov8n.pt -> /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection
+[17.029s] copying object_detection/object_detection/yolov8s.pt -> /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection
+[17.266s] copying object_detection/object_detection/YOLO_car_detector.py -> /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection
+[17.270s] copying object_detection/object_detection/yoloWorldCarDetector.py -> /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection
+[17.270s] copying object_detection/object_detection/yolov8s-world.pt -> /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection
+[17.531s] running install
+[17.540s] running install_lib
+[17.548s] creating /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection
+[17.549s] creating /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection
+[17.551s] copying /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection/run2Videos.py -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection
+[17.551s] copying /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection/mainObjectDetection.py -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection
+[17.553s] copying /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection/__init__.py -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection
+[17.554s] copying /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection/yolov8n.pt -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection
+[17.601s] copying /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection/yolov8s.pt -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection
+[17.762s] copying /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection/YOLO_car_detector.py -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection
+[17.764s] copying /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection/yoloWorldCarDetector.py -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection
+[17.766s] copying /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection/yolov8s-world.pt -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection
+[17.953s] copying /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/__init__.py -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection
+[17.954s] copying /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection_node.py -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection
+[17.960s] byte-compiling /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection/run2Videos.py to run2Videos.cpython-38.pyc
+[17.969s] byte-compiling /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection/mainObjectDetection.py to mainObjectDetection.cpython-38.pyc
+[17.979s] byte-compiling /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection/__init__.py to __init__.cpython-38.pyc
+[17.982s] byte-compiling /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection/YOLO_car_detector.py to YOLO_car_detector.cpython-38.pyc
+[17.986s] byte-compiling /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection/yoloWorldCarDetector.py to yoloWorldCarDetector.cpython-38.pyc
+[17.989s] byte-compiling /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/__init__.py to __init__.cpython-38.pyc
+[17.991s] byte-compiling /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection_node.py to object_detection_node.cpython-38.pyc
+[17.994s] running install_data
+[17.997s] creating /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/ament_index
+[17.998s] creating /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/ament_index/resource_index
+[17.999s] creating /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/ament_index/resource_index/packages
+[17.999s] copying resource/object_detection -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/ament_index/resource_index/packages
+[18.000s] copying package.xml -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/object_detection
+[18.001s] running install_egg_info
+[18.011s] Copying build/object_detection/object_detection.egg-info to /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection-0.0.0-py3.8.egg-info
+[18.018s] running install_scripts
+[18.137s] Installing object_detection_node script to /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/object_detection
+[18.139s] writing list of installed files to '/home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/install.log'
+[18.260s] Invoked command in '/home/doof-wagon/f1tenth_ws/object_detection' returned '0': PYTHONPATH=/home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/prefix_override:/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/object_detection build --build-base /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build install --record /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/install.log --install-scripts $base/lib/object_detection --single-version-externally-managed

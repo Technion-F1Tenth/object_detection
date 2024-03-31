@@ -1,0 +1,409 @@
+2024-03-31 11:40:42,636 - INFO - !!!!!!!START!!!!!!!
+2024-03-31 11:41:21,941 - DEBUG - None
+2024-03-31 11:41:21,944 - INFO - boxes is None! no detections
+2024-03-31 11:41:22,130 - DEBUG - None
+2024-03-31 11:41:22,130 - INFO - boxes is None! no detections
+2024-03-31 11:41:22,248 - DEBUG - None
+2024-03-31 11:41:22,248 - INFO - boxes is None! no detections
+2024-03-31 11:41:22,362 - DEBUG - None
+2024-03-31 11:41:22,363 - INFO - boxes is None! no detections
+2024-03-31 11:41:22,478 - DEBUG - None
+2024-03-31 11:41:22,478 - INFO - boxes is None! no detections
+2024-03-31 11:41:22,594 - DEBUG - None
+2024-03-31 11:41:22,595 - INFO - boxes is None! no detections
+2024-03-31 11:41:22,701 - DEBUG - None
+2024-03-31 11:41:22,702 - INFO - boxes is None! no detections
+2024-03-31 11:41:22,805 - DEBUG - None
+2024-03-31 11:41:22,805 - INFO - boxes is None! no detections
+2024-03-31 11:41:22,910 - DEBUG - None
+2024-03-31 11:41:22,911 - INFO - boxes is None! no detections
+2024-03-31 11:41:23,017 - DEBUG - None
+2024-03-31 11:41:23,018 - INFO - boxes is None! no detections
+2024-03-31 11:41:23,132 - DEBUG - None
+2024-03-31 11:41:23,133 - INFO - boxes is None! no detections
+2024-03-31 11:41:23,242 - DEBUG - None
+2024-03-31 11:41:23,243 - INFO - boxes is None! no detections
+2024-03-31 11:41:23,356 - DEBUG - None
+2024-03-31 11:41:23,356 - INFO - boxes is None! no detections
+2024-03-31 11:41:23,461 - DEBUG - None
+2024-03-31 11:41:23,461 - INFO - boxes is None! no detections
+2024-03-31 11:41:23,565 - DEBUG - None
+2024-03-31 11:41:23,566 - INFO - boxes is None! no detections
+2024-03-31 11:41:23,671 - DEBUG - None
+2024-03-31 11:41:23,671 - INFO - boxes is None! no detections
+2024-03-31 11:41:23,770 - DEBUG - None
+2024-03-31 11:41:23,770 - INFO - boxes is None! no detections
+2024-03-31 11:41:23,867 - DEBUG - None
+2024-03-31 11:41:23,867 - INFO - boxes is None! no detections
+2024-03-31 11:41:23,972 - DEBUG - None
+2024-03-31 11:41:23,972 - INFO - boxes is None! no detections
+2024-03-31 11:41:24,070 - DEBUG - None
+2024-03-31 11:41:24,071 - INFO - boxes is None! no detections
+2024-03-31 11:41:24,168 - DEBUG - None
+2024-03-31 11:41:24,168 - INFO - boxes is None! no detections
+2024-03-31 11:41:24,270 - DEBUG - None
+2024-03-31 11:41:24,270 - INFO - boxes is None! no detections
+2024-03-31 11:41:24,370 - DEBUG - None
+2024-03-31 11:41:24,371 - INFO - boxes is None! no detections
+2024-03-31 11:41:24,468 - DEBUG - None
+2024-03-31 11:41:24,468 - INFO - boxes is None! no detections
+2024-03-31 11:41:24,570 - DEBUG - None
+2024-03-31 11:41:24,570 - INFO - boxes is None! no detections
+2024-03-31 11:41:24,673 - DEBUG - None
+2024-03-31 11:41:24,673 - INFO - boxes is None! no detections
+2024-03-31 11:41:24,874 - DEBUG - tensor([201.5412, 216.2312, 389.7615, 416.8712], device='cuda:0')
+2024-03-31 11:41:24,911 - DEBUG - BBOX: (tensor(201.5412, device='cuda:0'), tensor(216.2312, device='cuda:0')), (tensor(389.7615, device='cuda:0'), tensor(416.8712, device='cuda:0'))
+2024-03-31 11:41:24,912 - DEBUG - center point:295, 316
+2024-03-31 11:41:24,994 - INFO - depth_point_in_meters_camera_coords is:0.24772366048147282
+2024-03-31 11:41:25,133 - DEBUG - None
+2024-03-31 11:41:25,133 - INFO - boxes is None! no detections
+2024-03-31 11:41:25,238 - DEBUG - None
+2024-03-31 11:41:25,238 - INFO - boxes is None! no detections
+2024-03-31 11:41:25,340 - DEBUG - None
+2024-03-31 11:41:25,340 - INFO - boxes is None! no detections
+2024-03-31 11:41:25,436 - DEBUG - None
+2024-03-31 11:41:25,436 - INFO - boxes is None! no detections
+2024-03-31 11:41:25,536 - DEBUG - None
+2024-03-31 11:41:25,537 - INFO - boxes is None! no detections
+2024-03-31 11:41:25,645 - DEBUG - None
+2024-03-31 11:41:25,645 - INFO - boxes is None! no detections
+2024-03-31 11:41:25,747 - DEBUG - None
+2024-03-31 11:41:25,748 - INFO - boxes is None! no detections
+2024-03-31 11:41:25,855 - DEBUG - None
+2024-03-31 11:41:25,856 - INFO - boxes is None! no detections
+2024-03-31 11:41:25,963 - DEBUG - None
+2024-03-31 11:41:25,964 - INFO - boxes is None! no detections
+2024-03-31 11:41:26,070 - DEBUG - None
+2024-03-31 11:41:26,070 - INFO - boxes is None! no detections
+2024-03-31 11:41:26,180 - DEBUG - None
+2024-03-31 11:41:26,180 - INFO - boxes is None! no detections
+2024-03-31 11:41:26,286 - DEBUG - None
+2024-03-31 11:41:26,287 - INFO - boxes is None! no detections
+2024-03-31 11:41:26,397 - DEBUG - None
+2024-03-31 11:41:26,398 - INFO - boxes is None! no detections
+2024-03-31 11:41:26,501 - DEBUG - None
+2024-03-31 11:41:26,501 - INFO - boxes is None! no detections
+2024-03-31 11:41:26,606 - DEBUG - None
+2024-03-31 11:41:26,607 - INFO - boxes is None! no detections
+2024-03-31 11:41:26,703 - DEBUG - None
+2024-03-31 11:41:26,704 - INFO - boxes is None! no detections
+2024-03-31 11:41:26,804 - DEBUG - None
+2024-03-31 11:41:26,804 - INFO - boxes is None! no detections
+2024-03-31 11:41:26,907 - DEBUG - None
+2024-03-31 11:41:26,908 - INFO - boxes is None! no detections
+2024-03-31 11:41:27,012 - DEBUG - None
+2024-03-31 11:41:27,013 - INFO - boxes is None! no detections
+2024-03-31 11:41:27,118 - DEBUG - None
+2024-03-31 11:41:27,118 - INFO - boxes is None! no detections
+2024-03-31 11:41:27,226 - DEBUG - None
+2024-03-31 11:41:27,227 - INFO - boxes is None! no detections
+2024-03-31 11:41:27,331 - DEBUG - None
+2024-03-31 11:41:27,332 - INFO - boxes is None! no detections
+2024-03-31 11:41:27,440 - DEBUG - None
+2024-03-31 11:41:27,440 - INFO - boxes is None! no detections
+2024-03-31 11:41:27,540 - DEBUG - None
+2024-03-31 11:41:27,541 - INFO - boxes is None! no detections
+2024-03-31 11:41:27,651 - DEBUG - tensor([223.1641,   3.5764, 515.4479, 384.5258], device='cuda:0')
+2024-03-31 11:41:27,675 - DEBUG - BBOX: (tensor(223.1641, device='cuda:0'), tensor(3.5764, device='cuda:0')), (tensor(515.4479, device='cuda:0'), tensor(384.5258, device='cuda:0'))
+2024-03-31 11:41:27,677 - DEBUG - center point:369, 194
+2024-03-31 11:41:27,761 - INFO - depth_point_in_meters_camera_coords is:0.23168280676007272
+2024-03-31 11:41:27,890 - DEBUG - None
+2024-03-31 11:41:27,891 - INFO - boxes is None! no detections
+2024-03-31 11:41:27,997 - DEBUG - None
+2024-03-31 11:41:27,998 - INFO - boxes is None! no detections
+2024-03-31 11:41:28,106 - DEBUG - None
+2024-03-31 11:41:28,107 - INFO - boxes is None! no detections
+2024-03-31 11:41:28,207 - DEBUG - None
+2024-03-31 11:41:28,207 - INFO - boxes is None! no detections
+2024-03-31 11:41:28,305 - DEBUG - None
+2024-03-31 11:41:28,305 - INFO - boxes is None! no detections
+2024-03-31 11:41:28,404 - DEBUG - None
+2024-03-31 11:41:28,404 - INFO - boxes is None! no detections
+2024-03-31 11:41:28,502 - DEBUG - None
+2024-03-31 11:41:28,502 - INFO - boxes is None! no detections
+2024-03-31 11:41:28,602 - DEBUG - None
+2024-03-31 11:41:28,602 - INFO - boxes is None! no detections
+2024-03-31 11:41:28,702 - DEBUG - None
+2024-03-31 11:41:28,703 - INFO - boxes is None! no detections
+2024-03-31 11:41:28,805 - DEBUG - None
+2024-03-31 11:41:28,805 - INFO - boxes is None! no detections
+2024-03-31 11:41:28,903 - DEBUG - None
+2024-03-31 11:41:28,903 - INFO - boxes is None! no detections
+2024-03-31 11:41:29,006 - DEBUG - None
+2024-03-31 11:41:29,006 - INFO - boxes is None! no detections
+2024-03-31 11:41:29,109 - DEBUG - None
+2024-03-31 11:41:29,109 - INFO - boxes is None! no detections
+2024-03-31 11:41:29,215 - DEBUG - None
+2024-03-31 11:41:29,216 - INFO - boxes is None! no detections
+2024-03-31 11:41:29,323 - DEBUG - None
+2024-03-31 11:41:29,323 - INFO - boxes is None! no detections
+2024-03-31 11:41:29,432 - DEBUG - None
+2024-03-31 11:41:29,433 - INFO - boxes is None! no detections
+2024-03-31 11:41:29,536 - DEBUG - None
+2024-03-31 11:41:29,537 - INFO - boxes is None! no detections
+2024-03-31 11:41:29,641 - DEBUG - None
+2024-03-31 11:41:29,641 - INFO - boxes is None! no detections
+2024-03-31 11:41:29,738 - DEBUG - None
+2024-03-31 11:41:29,738 - INFO - boxes is None! no detections
+2024-03-31 11:41:29,842 - DEBUG - None
+2024-03-31 11:41:29,842 - INFO - boxes is None! no detections
+2024-03-31 11:41:29,945 - DEBUG - None
+2024-03-31 11:41:29,946 - INFO - boxes is None! no detections
+2024-03-31 11:41:30,049 - DEBUG - None
+2024-03-31 11:41:30,050 - INFO - boxes is None! no detections
+2024-03-31 11:41:30,153 - DEBUG - None
+2024-03-31 11:41:30,154 - INFO - boxes is None! no detections
+2024-03-31 11:41:30,261 - DEBUG - None
+2024-03-31 11:41:30,261 - INFO - boxes is None! no detections
+2024-03-31 11:41:30,368 - DEBUG - None
+2024-03-31 11:41:30,368 - INFO - boxes is None! no detections
+2024-03-31 11:41:30,474 - DEBUG - None
+2024-03-31 11:41:30,474 - INFO - boxes is None! no detections
+2024-03-31 11:41:30,583 - DEBUG - None
+2024-03-31 11:41:30,584 - INFO - boxes is None! no detections
+2024-03-31 11:41:30,697 - DEBUG - None
+2024-03-31 11:41:30,697 - INFO - boxes is None! no detections
+2024-03-31 11:41:30,806 - DEBUG - None
+2024-03-31 11:41:30,806 - INFO - boxes is None! no detections
+2024-03-31 11:41:30,924 - DEBUG - None
+2024-03-31 11:41:30,925 - INFO - boxes is None! no detections
+2024-03-31 11:41:31,035 - DEBUG - None
+2024-03-31 11:41:31,035 - INFO - boxes is None! no detections
+2024-03-31 11:41:31,154 - DEBUG - None
+2024-03-31 11:41:31,154 - INFO - boxes is None! no detections
+2024-03-31 11:41:31,262 - DEBUG - None
+2024-03-31 11:41:31,263 - INFO - boxes is None! no detections
+2024-03-31 11:41:31,360 - DEBUG - None
+2024-03-31 11:41:31,361 - INFO - boxes is None! no detections
+2024-03-31 11:41:31,460 - DEBUG - None
+2024-03-31 11:41:31,461 - INFO - boxes is None! no detections
+2024-03-31 11:41:31,561 - DEBUG - None
+2024-03-31 11:41:31,561 - INFO - boxes is None! no detections
+2024-03-31 11:41:31,663 - DEBUG - None
+2024-03-31 11:41:31,663 - INFO - boxes is None! no detections
+2024-03-31 11:41:31,763 - DEBUG - None
+2024-03-31 11:41:31,764 - INFO - boxes is None! no detections
+2024-03-31 11:41:31,873 - DEBUG - None
+2024-03-31 11:41:31,874 - INFO - boxes is None! no detections
+2024-03-31 11:41:31,983 - DEBUG - None
+2024-03-31 11:41:31,984 - INFO - boxes is None! no detections
+2024-03-31 11:41:32,081 - DEBUG - None
+2024-03-31 11:41:32,081 - INFO - boxes is None! no detections
+2024-03-31 11:41:32,180 - DEBUG - None
+2024-03-31 11:41:32,180 - INFO - boxes is None! no detections
+2024-03-31 11:41:32,276 - DEBUG - None
+2024-03-31 11:41:32,277 - INFO - boxes is None! no detections
+2024-03-31 11:41:32,376 - DEBUG - None
+2024-03-31 11:41:32,377 - INFO - boxes is None! no detections
+2024-03-31 11:41:32,475 - DEBUG - None
+2024-03-31 11:41:32,476 - INFO - boxes is None! no detections
+2024-03-31 11:41:32,572 - DEBUG - None
+2024-03-31 11:41:32,573 - INFO - boxes is None! no detections
+2024-03-31 11:41:32,675 - DEBUG - None
+2024-03-31 11:41:32,676 - INFO - boxes is None! no detections
+2024-03-31 11:41:32,776 - DEBUG - None
+2024-03-31 11:41:32,776 - INFO - boxes is None! no detections
+2024-03-31 11:41:32,879 - DEBUG - None
+2024-03-31 11:41:32,880 - INFO - boxes is None! no detections
+2024-03-31 11:41:32,987 - DEBUG - None
+2024-03-31 11:41:32,988 - INFO - boxes is None! no detections
+2024-03-31 11:41:33,100 - DEBUG - None
+2024-03-31 11:41:33,101 - INFO - boxes is None! no detections
+2024-03-31 11:41:33,207 - DEBUG - None
+2024-03-31 11:41:33,207 - INFO - boxes is None! no detections
+2024-03-31 11:41:33,308 - DEBUG - None
+2024-03-31 11:41:33,309 - INFO - boxes is None! no detections
+2024-03-31 11:41:33,409 - DEBUG - None
+2024-03-31 11:41:33,409 - INFO - boxes is None! no detections
+2024-03-31 11:41:33,505 - DEBUG - None
+2024-03-31 11:41:33,505 - INFO - boxes is None! no detections
+2024-03-31 11:41:33,605 - DEBUG - None
+2024-03-31 11:41:33,606 - INFO - boxes is None! no detections
+2024-03-31 11:41:33,708 - DEBUG - None
+2024-03-31 11:41:33,709 - INFO - boxes is None! no detections
+2024-03-31 11:41:33,804 - DEBUG - None
+2024-03-31 11:41:33,804 - INFO - boxes is None! no detections
+2024-03-31 11:41:33,904 - DEBUG - None
+2024-03-31 11:41:33,904 - INFO - boxes is None! no detections
+2024-03-31 11:41:34,004 - DEBUG - None
+2024-03-31 11:41:34,004 - INFO - boxes is None! no detections
+2024-03-31 11:41:34,103 - DEBUG - None
+2024-03-31 11:41:34,103 - INFO - boxes is None! no detections
+2024-03-31 11:41:34,205 - DEBUG - None
+2024-03-31 11:41:34,205 - INFO - boxes is None! no detections
+2024-03-31 11:41:34,302 - DEBUG - None
+2024-03-31 11:41:34,302 - INFO - boxes is None! no detections
+2024-03-31 11:41:34,403 - DEBUG - None
+2024-03-31 11:41:34,404 - INFO - boxes is None! no detections
+2024-03-31 11:41:34,507 - DEBUG - None
+2024-03-31 11:41:34,508 - INFO - boxes is None! no detections
+2024-03-31 11:41:34,605 - DEBUG - None
+2024-03-31 11:41:34,606 - INFO - boxes is None! no detections
+2024-03-31 11:41:34,708 - DEBUG - None
+2024-03-31 11:41:34,709 - INFO - boxes is None! no detections
+2024-03-31 11:41:34,810 - DEBUG - None
+2024-03-31 11:41:34,811 - INFO - boxes is None! no detections
+2024-03-31 11:41:34,916 - DEBUG - None
+2024-03-31 11:41:34,916 - INFO - boxes is None! no detections
+2024-03-31 11:41:35,019 - DEBUG - None
+2024-03-31 11:41:35,020 - INFO - boxes is None! no detections
+2024-03-31 11:41:35,121 - DEBUG - None
+2024-03-31 11:41:35,122 - INFO - boxes is None! no detections
+2024-03-31 11:41:35,218 - DEBUG - None
+2024-03-31 11:41:35,219 - INFO - boxes is None! no detections
+2024-03-31 11:41:35,314 - DEBUG - None
+2024-03-31 11:41:35,314 - INFO - boxes is None! no detections
+2024-03-31 11:41:35,421 - DEBUG - None
+2024-03-31 11:41:35,422 - INFO - boxes is None! no detections
+2024-03-31 11:41:35,519 - DEBUG - None
+2024-03-31 11:41:35,519 - INFO - boxes is None! no detections
+2024-03-31 11:41:35,618 - DEBUG - None
+2024-03-31 11:41:35,618 - INFO - boxes is None! no detections
+2024-03-31 11:41:35,716 - DEBUG - None
+2024-03-31 11:41:35,716 - INFO - boxes is None! no detections
+2024-03-31 11:41:35,811 - DEBUG - None
+2024-03-31 11:41:35,812 - INFO - boxes is None! no detections
+2024-03-31 11:41:35,904 - DEBUG - None
+2024-03-31 11:41:35,904 - INFO - boxes is None! no detections
+2024-03-31 11:41:36,006 - DEBUG - None
+2024-03-31 11:41:36,006 - INFO - boxes is None! no detections
+2024-03-31 11:41:36,114 - DEBUG - None
+2024-03-31 11:41:36,115 - INFO - boxes is None! no detections
+2024-03-31 11:41:36,214 - DEBUG - None
+2024-03-31 11:41:36,215 - INFO - boxes is None! no detections
+2024-03-31 11:41:36,312 - DEBUG - None
+2024-03-31 11:41:36,312 - INFO - boxes is None! no detections
+2024-03-31 11:41:36,410 - DEBUG - None
+2024-03-31 11:41:36,411 - INFO - boxes is None! no detections
+2024-03-31 11:41:36,511 - DEBUG - None
+2024-03-31 11:41:36,512 - INFO - boxes is None! no detections
+2024-03-31 11:41:36,612 - DEBUG - None
+2024-03-31 11:41:36,613 - INFO - boxes is None! no detections
+2024-03-31 11:41:36,714 - DEBUG - None
+2024-03-31 11:41:36,714 - INFO - boxes is None! no detections
+2024-03-31 11:41:36,810 - DEBUG - None
+2024-03-31 11:41:36,810 - INFO - boxes is None! no detections
+2024-03-31 11:41:36,912 - DEBUG - None
+2024-03-31 11:41:36,912 - INFO - boxes is None! no detections
+2024-03-31 11:41:37,016 - DEBUG - None
+2024-03-31 11:41:37,017 - INFO - boxes is None! no detections
+2024-03-31 11:41:37,115 - DEBUG - None
+2024-03-31 11:41:37,115 - INFO - boxes is None! no detections
+2024-03-31 11:41:37,208 - DEBUG - None
+2024-03-31 11:41:37,209 - INFO - boxes is None! no detections
+2024-03-31 11:41:37,309 - DEBUG - None
+2024-03-31 11:41:37,309 - INFO - boxes is None! no detections
+2024-03-31 11:41:37,409 - DEBUG - None
+2024-03-31 11:41:37,409 - INFO - boxes is None! no detections
+2024-03-31 11:41:37,511 - DEBUG - None
+2024-03-31 11:41:37,511 - INFO - boxes is None! no detections
+2024-03-31 11:41:37,621 - DEBUG - None
+2024-03-31 11:41:37,622 - INFO - boxes is None! no detections
+2024-03-31 11:41:37,736 - DEBUG - None
+2024-03-31 11:41:37,737 - INFO - boxes is None! no detections
+2024-03-31 11:41:37,850 - DEBUG - None
+2024-03-31 11:41:37,850 - INFO - boxes is None! no detections
+2024-03-31 11:41:37,973 - DEBUG - None
+2024-03-31 11:41:37,974 - INFO - boxes is None! no detections
+2024-03-31 11:41:38,080 - DEBUG - None
+2024-03-31 11:41:38,080 - INFO - boxes is None! no detections
+2024-03-31 11:41:38,185 - DEBUG - None
+2024-03-31 11:41:38,186 - INFO - boxes is None! no detections
+2024-03-31 11:41:38,295 - DEBUG - None
+2024-03-31 11:41:38,296 - INFO - boxes is None! no detections
+2024-03-31 11:41:38,402 - DEBUG - None
+2024-03-31 11:41:38,402 - INFO - boxes is None! no detections
+2024-03-31 11:41:38,510 - DEBUG - None
+2024-03-31 11:41:38,510 - INFO - boxes is None! no detections
+2024-03-31 11:41:38,610 - DEBUG - None
+2024-03-31 11:41:38,610 - INFO - boxes is None! no detections
+2024-03-31 11:41:38,714 - DEBUG - None
+2024-03-31 11:41:38,714 - INFO - boxes is None! no detections
+2024-03-31 11:41:38,831 - DEBUG - None
+2024-03-31 11:41:38,832 - INFO - boxes is None! no detections
+2024-03-31 11:41:38,941 - DEBUG - None
+2024-03-31 11:41:38,941 - INFO - boxes is None! no detections
+2024-03-31 11:41:39,044 - DEBUG - None
+2024-03-31 11:41:39,045 - INFO - boxes is None! no detections
+2024-03-31 11:41:39,145 - DEBUG - None
+2024-03-31 11:41:39,146 - INFO - boxes is None! no detections
+2024-03-31 11:41:39,244 - DEBUG - None
+2024-03-31 11:41:39,245 - INFO - boxes is None! no detections
+2024-03-31 11:41:39,346 - DEBUG - None
+2024-03-31 11:41:39,346 - INFO - boxes is None! no detections
+2024-03-31 11:41:39,452 - DEBUG - None
+2024-03-31 11:41:39,453 - INFO - boxes is None! no detections
+2024-03-31 11:41:39,567 - DEBUG - None
+2024-03-31 11:41:39,567 - INFO - boxes is None! no detections
+2024-03-31 11:41:39,672 - DEBUG - None
+2024-03-31 11:41:39,673 - INFO - boxes is None! no detections
+2024-03-31 11:41:39,780 - DEBUG - None
+2024-03-31 11:41:39,780 - INFO - boxes is None! no detections
+2024-03-31 11:41:39,879 - DEBUG - None
+2024-03-31 11:41:39,880 - INFO - boxes is None! no detections
+2024-03-31 11:41:39,979 - DEBUG - None
+2024-03-31 11:41:39,979 - INFO - boxes is None! no detections
+2024-03-31 11:41:40,076 - DEBUG - None
+2024-03-31 11:41:40,076 - INFO - boxes is None! no detections
+2024-03-31 11:41:40,179 - DEBUG - None
+2024-03-31 11:41:40,179 - INFO - boxes is None! no detections
+2024-03-31 11:41:40,291 - DEBUG - None
+2024-03-31 11:41:40,292 - INFO - boxes is None! no detections
+2024-03-31 11:41:40,403 - DEBUG - None
+2024-03-31 11:41:40,404 - INFO - boxes is None! no detections
+2024-03-31 11:41:40,508 - DEBUG - None
+2024-03-31 11:41:40,508 - INFO - boxes is None! no detections
+2024-03-31 11:41:40,612 - DEBUG - None
+2024-03-31 11:41:40,613 - INFO - boxes is None! no detections
+2024-03-31 11:41:40,711 - DEBUG - None
+2024-03-31 11:41:40,711 - INFO - boxes is None! no detections
+2024-03-31 11:41:40,816 - DEBUG - None
+2024-03-31 11:41:40,817 - INFO - boxes is None! no detections
+2024-03-31 11:41:40,915 - DEBUG - None
+2024-03-31 11:41:40,916 - INFO - boxes is None! no detections
+2024-03-31 11:41:41,013 - DEBUG - None
+2024-03-31 11:41:41,013 - INFO - boxes is None! no detections
+2024-03-31 11:41:41,111 - DEBUG - None
+2024-03-31 11:41:41,112 - INFO - boxes is None! no detections
+2024-03-31 11:41:41,226 - DEBUG - None
+2024-03-31 11:41:41,226 - INFO - boxes is None! no detections
+2024-03-31 11:41:41,353 - DEBUG - None
+2024-03-31 11:41:41,354 - INFO - boxes is None! no detections
+2024-03-31 11:41:41,488 - DEBUG - None
+2024-03-31 11:41:41,489 - INFO - boxes is None! no detections
+2024-03-31 11:41:41,589 - DEBUG - None
+2024-03-31 11:41:41,589 - INFO - boxes is None! no detections
+2024-03-31 11:41:41,685 - DEBUG - None
+2024-03-31 11:41:41,686 - INFO - boxes is None! no detections
+2024-03-31 11:41:41,781 - DEBUG - None
+2024-03-31 11:41:41,782 - INFO - boxes is None! no detections
+2024-03-31 11:41:41,880 - DEBUG - None
+2024-03-31 11:41:41,880 - INFO - boxes is None! no detections
+2024-03-31 11:41:41,978 - DEBUG - None
+2024-03-31 11:41:41,978 - INFO - boxes is None! no detections
+2024-03-31 11:41:42,081 - DEBUG - None
+2024-03-31 11:41:42,082 - INFO - boxes is None! no detections
+2024-03-31 11:41:42,183 - DEBUG - None
+2024-03-31 11:41:42,183 - INFO - boxes is None! no detections
+2024-03-31 11:41:42,294 - DEBUG - None
+2024-03-31 11:41:42,295 - INFO - boxes is None! no detections
+2024-03-31 11:41:42,429 - DEBUG - None
+2024-03-31 11:41:42,430 - INFO - boxes is None! no detections
+2024-03-31 11:41:42,542 - DEBUG - None
+2024-03-31 11:41:42,543 - INFO - boxes is None! no detections
+2024-03-31 11:41:42,650 - DEBUG - None
+2024-03-31 11:41:42,650 - INFO - boxes is None! no detections
+2024-03-31 11:41:42,760 - DEBUG - None
+2024-03-31 11:41:42,760 - INFO - boxes is None! no detections
+2024-03-31 11:41:42,868 - DEBUG - None
+2024-03-31 11:41:42,869 - INFO - boxes is None! no detections
+2024-03-31 11:41:42,968 - DEBUG - None
+2024-03-31 11:41:42,968 - INFO - boxes is None! no detections
+2024-03-31 11:41:43,069 - DEBUG - None
+2024-03-31 11:41:43,070 - INFO - boxes is None! no detections
+2024-03-31 11:41:43,179 - DEBUG - None
+2024-03-31 11:41:43,179 - INFO - boxes is None! no detections
+2024-03-31 11:41:43,296 - DEBUG - None
+2024-03-31 11:41:43,297 - INFO - boxes is None! no detections
+2024-03-31 11:41:43,402 - DEBUG - None
+2024-03-31 11:41:43,402 - INFO - boxes is None! no detections

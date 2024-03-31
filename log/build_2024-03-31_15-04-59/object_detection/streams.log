@@ -1,0 +1,24 @@
+[11.098s] Invoking command in '/home/doof-wagon/f1tenth_ws/object_detection': PYTHONPATH=/home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/prefix_override:/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/object_detection build --build-base /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build install --record /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/install.log --install-scripts $base/lib/object_detection --single-version-externally-managed
+[13.054s] running egg_info
+[13.057s] writing build/object_detection/object_detection.egg-info/PKG-INFO
+[13.060s] writing dependency_links to build/object_detection/object_detection.egg-info/dependency_links.txt
+[13.061s] writing entry points to build/object_detection/object_detection.egg-info/entry_points.txt
+[13.062s] writing requirements to build/object_detection/object_detection.egg-info/requires.txt
+[13.063s] writing top-level names to build/object_detection/object_detection.egg-info/top_level.txt
+[13.287s] reading manifest file 'build/object_detection/object_detection.egg-info/SOURCES.txt'
+[13.295s] writing manifest file 'build/object_detection/object_detection.egg-info/SOURCES.txt'
+[13.296s] running build
+[13.296s] running build_py
+[13.301s] copying object_detection/object_detection/mainObjectDetection.py -> /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection
+[13.306s] running install
+[13.314s] running install_lib
+[13.321s] copying /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection/mainObjectDetection.py -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection
+[13.330s] byte-compiling /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection/mainObjectDetection.py to mainObjectDetection.cpython-38.pyc
+[13.347s] running install_data
+[13.351s] running install_egg_info
+[13.364s] removing '/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection-0.0.0-py3.8.egg-info' (and everything under it)
+[13.366s] Copying build/object_detection/object_detection.egg-info to /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection-0.0.0-py3.8.egg-info
+[13.373s] running install_scripts
+[13.509s] Installing object_detection_node script to /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/object_detection
+[13.511s] writing list of installed files to '/home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/install.log'
+[13.638s] Invoked command in '/home/doof-wagon/f1tenth_ws/object_detection' returned '0': PYTHONPATH=/home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/prefix_override:/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/object_detection build --build-base /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build install --record /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/install.log --install-scripts $base/lib/object_detection --single-version-externally-managed

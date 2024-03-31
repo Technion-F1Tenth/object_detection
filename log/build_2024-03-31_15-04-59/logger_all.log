@@ -1,0 +1,90 @@
+[35.102s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build', '--packages-select', 'object_detection']
+[35.103s] DEBUG:colcon:Parsed command line arguments: Namespace(allow_overriding=[], ament_cmake_args=None, base_paths=['.'], build_base='build', catkin_cmake_args=None, catkin_skip_building_tests=False, cmake_args=None, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, cmake_target=None, cmake_target_skip_unavailable=False, continue_on_error=False, event_handlers=None, executor='parallel', ignore_user_meta=False, install_base='install', log_base=None, log_level=None, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0xffff8d24dfd0>>, merge_install=False, metas=['./colcon.meta'], packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_end=None, packages_ignore=None, packages_ignore_regex=None, packages_select=['object_detection'], packages_select_build_failed=False, packages_select_by_dep=None, packages_select_regex=None, packages_select_test_failures=False, packages_skip=None, packages_skip_build_finished=False, packages_skip_by_dep=None, packages_skip_regex=None, packages_skip_test_passed=False, packages_skip_up_to=None, packages_start=None, packages_up_to=None, packages_up_to_regex=None, parallel_workers=4, paths=None, symlink_install=False, test_result_base=None, verb_extension=<colcon_core.verb.build.BuildVerb object at 0xffff8d24dfd0>, verb_name='build', verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0xffff8d1ea880>)
+[36.449s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[36.449s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[36.449s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[36.450s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[36.450s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[36.450s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[36.450s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/doof-wagon/f1tenth_ws/object_detection'
+[36.451s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[36.452s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[36.452s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[36.452s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[36.453s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[36.453s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[36.453s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[36.453s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[36.453s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[36.540s] DEBUG:colcon.colcon_core.package_identification:Package '.' with type 'ros.ament_python' and name 'object_detection'
+[36.540s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[36.540s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[36.540s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[36.541s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[36.541s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[39.652s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) check parameters
+[39.652s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) discover
+[40.883s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 31 installed packages in /home/doof-wagon/f1tenth_ws/install
+[41.482s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 313 installed packages in /opt/ros/foxy
+[41.493s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) using defaults
+[43.326s] Level 5:colcon.colcon_core.verb:set package 'object_detection' build argument 'cmake_args' from command line to 'None'
+[43.326s] Level 5:colcon.colcon_core.verb:set package 'object_detection' build argument 'cmake_target' from command line to 'None'
+[43.326s] Level 5:colcon.colcon_core.verb:set package 'object_detection' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[43.326s] Level 5:colcon.colcon_core.verb:set package 'object_detection' build argument 'cmake_clean_cache' from command line to 'False'
+[43.327s] Level 5:colcon.colcon_core.verb:set package 'object_detection' build argument 'cmake_clean_first' from command line to 'False'
+[43.327s] Level 5:colcon.colcon_core.verb:set package 'object_detection' build argument 'cmake_force_configure' from command line to 'False'
+[43.327s] Level 5:colcon.colcon_core.verb:set package 'object_detection' build argument 'ament_cmake_args' from command line to 'None'
+[43.327s] Level 5:colcon.colcon_core.verb:set package 'object_detection' build argument 'catkin_cmake_args' from command line to 'None'
+[43.329s] Level 5:colcon.colcon_core.verb:set package 'object_detection' build argument 'catkin_skip_building_tests' from command line to 'False'
+[43.329s] DEBUG:colcon.colcon_core.verb:Building package 'object_detection' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/doof-wagon/f1tenth_ws/object_detection/build/object_detection', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection', 'merge_install': False, 'path': '/home/doof-wagon/f1tenth_ws/object_detection', 'symlink_install': False, 'test_result_base': None}
+[43.973s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[44.559s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[44.561s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/doof-wagon/f1tenth_ws/object_detection' with build type 'ament_python'
+[44.562s] Level 1:colcon.colcon_core.shell:create_environment_hook('object_detection', 'ament_prefix_path')
+[45.197s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[45.198s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/object_detection/hook/ament_prefix_path.ps1'
+[45.203s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/object_detection/hook/ament_prefix_path.dsv'
+[45.205s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/object_detection/hook/ament_prefix_path.sh'
+[45.813s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[45.813s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[49.750s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/doof-wagon/f1tenth_ws/object_detection'
+[50.393s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[50.394s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[55.662s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/doof-wagon/f1tenth_ws/object_detection': PYTHONPATH=/home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/prefix_override:/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/object_detection build --build-base /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build install --record /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/install.log --install-scripts $base/lib/object_detection --single-version-externally-managed
+[58.201s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/doof-wagon/f1tenth_ws/object_detection' returned '0': PYTHONPATH=/home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/prefix_override:/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/object_detection build --build-base /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build install --record /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/install.log --install-scripts $base/lib/object_detection --single-version-externally-managed
+[58.863s] Level 1:colcon.colcon_core.environment:checking '/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection' for CMake module files
+[58.867s] Level 1:colcon.colcon_core.environment:checking '/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection' for CMake config files
+[58.874s] Level 1:colcon.colcon_core.environment:checking '/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib'
+[58.875s] Level 1:colcon.colcon_core.environment:checking '/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/bin'
+[58.875s] Level 1:colcon.colcon_core.environment:checking '/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/pkgconfig/object_detection.pc'
+[58.878s] Level 1:colcon.colcon_core.environment:checking '/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages'
+[58.878s] Level 1:colcon.colcon_core.shell:create_environment_hook('object_detection', 'pythonpath')
+[59.524s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/object_detection/hook/pythonpath.ps1'
+[59.527s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/object_detection/hook/pythonpath.dsv'
+[59.529s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/object_detection/hook/pythonpath.sh'
+[59.532s] Level 1:colcon.colcon_core.environment:checking '/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/bin'
+[59.533s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(object_detection)
+[60.157s] INFO:colcon.colcon_core.shell:Creating package script '/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/object_detection/package.ps1'
+[60.163s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/object_detection/package.dsv'
+[60.167s] INFO:colcon.colcon_core.shell:Creating package script '/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/object_detection/package.sh'
+[60.171s] INFO:colcon.colcon_core.shell:Creating package script '/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/object_detection/package.bash'
+[60.176s] INFO:colcon.colcon_core.shell:Creating package script '/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/object_detection/package.zsh'
+[60.180s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/colcon-core/packages/object_detection)
+[60.182s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[60.184s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[60.184s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[60.185s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[60.914s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[60.914s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[60.915s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[61.028s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[61.655s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/doof-wagon/f1tenth_ws/object_detection/install/local_setup.ps1'
+[61.661s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/doof-wagon/f1tenth_ws/object_detection/install/_local_setup_util_ps1.py'
+[61.670s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/doof-wagon/f1tenth_ws/object_detection/install/setup.ps1'
+[62.335s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/doof-wagon/f1tenth_ws/object_detection/install/local_setup.sh'
+[62.339s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/doof-wagon/f1tenth_ws/object_detection/install/_local_setup_util_sh.py'
+[62.342s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/doof-wagon/f1tenth_ws/object_detection/install/setup.sh'
+[62.996s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/doof-wagon/f1tenth_ws/object_detection/install/local_setup.bash'
+[63.000s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/doof-wagon/f1tenth_ws/object_detection/install/setup.bash'
+[63.630s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/doof-wagon/f1tenth_ws/object_detection/install/local_setup.zsh'
+[63.633s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/doof-wagon/f1tenth_ws/object_detection/install/setup.zsh'

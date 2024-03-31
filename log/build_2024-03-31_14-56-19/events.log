@@ -1,0 +1,263 @@
+[0.000000] (-) TimerEvent: {}
+[0.024591] (object_detection) JobQueued: {'identifier': 'object_detection', 'dependencies': OrderedDict()}
+[0.024981] (object_detection) JobStarted: {'identifier': 'object_detection'}
+[0.100171] (-) TimerEvent: {}
+[0.202104] (-) TimerEvent: {}
+[0.303701] (-) TimerEvent: {}
+[0.405014] (-) TimerEvent: {}
+[0.506811] (-) TimerEvent: {}
+[0.614942] (-) TimerEvent: {}
+[0.721612] (-) TimerEvent: {}
+[0.822986] (-) TimerEvent: {}
+[0.925341] (-) TimerEvent: {}
+[1.032251] (-) TimerEvent: {}
+[1.133380] (-) TimerEvent: {}
+[1.234703] (-) TimerEvent: {}
+[1.336788] (-) TimerEvent: {}
+[1.442150] (-) TimerEvent: {}
+[1.547026] (-) TimerEvent: {}
+[1.648016] (-) TimerEvent: {}
+[1.750295] (-) TimerEvent: {}
+[1.851892] (-) TimerEvent: {}
+[1.957600] (-) TimerEvent: {}
+[2.061667] (-) TimerEvent: {}
+[2.167965] (-) TimerEvent: {}
+[2.270025] (-) TimerEvent: {}
+[2.378051] (-) TimerEvent: {}
+[2.479811] (-) TimerEvent: {}
+[2.580902] (-) TimerEvent: {}
+[2.689355] (-) TimerEvent: {}
+[2.792409] (-) TimerEvent: {}
+[2.896600] (-) TimerEvent: {}
+[3.000967] (-) TimerEvent: {}
+[3.107226] (-) TimerEvent: {}
+[3.208952] (-) TimerEvent: {}
+[3.315409] (-) TimerEvent: {}
+[3.418412] (-) TimerEvent: {}
+[3.526297] (-) TimerEvent: {}
+[3.629378] (-) TimerEvent: {}
+[3.742665] (-) TimerEvent: {}
+[3.843647] (-) TimerEvent: {}
+[3.945653] (-) TimerEvent: {}
+[4.055038] (-) TimerEvent: {}
+[4.156073] (-) TimerEvent: {}
+[4.260006] (-) TimerEvent: {}
+[4.363260] (-) TimerEvent: {}
+[4.474491] (-) TimerEvent: {}
+[4.582902] (-) TimerEvent: {}
+[4.686920] (-) TimerEvent: {}
+[4.787904] (-) TimerEvent: {}
+[4.888928] (-) TimerEvent: {}
+[4.990015] (-) TimerEvent: {}
+[5.091169] (-) TimerEvent: {}
+[5.192211] (-) TimerEvent: {}
+[5.293198] (-) TimerEvent: {}
+[5.394348] (-) TimerEvent: {}
+[5.495355] (-) TimerEvent: {}
+[5.596565] (-) TimerEvent: {}
+[5.697681] (-) TimerEvent: {}
+[5.798688] (-) TimerEvent: {}
+[5.899794] (-) TimerEvent: {}
+[6.000957] (-) TimerEvent: {}
+[6.102130] (-) TimerEvent: {}
+[6.203251] (-) TimerEvent: {}
+[6.304365] (-) TimerEvent: {}
+[6.405615] (-) TimerEvent: {}
+[6.507389] (-) TimerEvent: {}
+[6.609229] (-) TimerEvent: {}
+[6.710396] (-) TimerEvent: {}
+[6.811517] (-) TimerEvent: {}
+[6.913465] (-) TimerEvent: {}
+[7.015311] (-) TimerEvent: {}
+[7.116561] (-) TimerEvent: {}
+[7.218094] (-) TimerEvent: {}
+[7.323541] (-) TimerEvent: {}
+[7.428797] (-) TimerEvent: {}
+[7.549680] (-) TimerEvent: {}
+[7.660476] (-) TimerEvent: {}
+[7.768953] (-) TimerEvent: {}
+[7.871234] (-) TimerEvent: {}
+[7.974527] (-) TimerEvent: {}
+[8.078933] (-) TimerEvent: {}
+[8.180088] (-) TimerEvent: {}
+[8.281061] (-) TimerEvent: {}
+[8.382436] (-) TimerEvent: {}
+[8.485778] (-) TimerEvent: {}
+[8.589556] (-) TimerEvent: {}
+[8.692277] (-) TimerEvent: {}
+[8.794391] (-) TimerEvent: {}
+[8.895946] (-) TimerEvent: {}
+[9.000210] (-) TimerEvent: {}
+[9.102162] (-) TimerEvent: {}
+[9.203295] (-) TimerEvent: {}
+[9.305681] (-) TimerEvent: {}
+[9.412412] (-) TimerEvent: {}
+[9.514732] (-) TimerEvent: {}
+[9.616712] (-) TimerEvent: {}
+[9.719831] (-) TimerEvent: {}
+[9.824080] (-) TimerEvent: {}
+[9.933182] (-) TimerEvent: {}
+[10.041810] (-) TimerEvent: {}
+[10.142903] (-) TimerEvent: {}
+[10.243847] (-) TimerEvent: {}
+[10.347554] (-) TimerEvent: {}
+[10.456853] (-) TimerEvent: {}
+[10.561821] (-) TimerEvent: {}
+[10.663455] (-) TimerEvent: {}
+[10.764533] (-) TimerEvent: {}
+[10.865942] (-) TimerEvent: {}
+[10.967061] (-) TimerEvent: {}
+[11.068288] (-) TimerEvent: {}
+[11.169717] (-) TimerEvent: {}
+[11.271009] (-) TimerEvent: {}
+[11.372042] (-) TimerEvent: {}
+[11.473114] (-) TimerEvent: {}
+[11.574228] (-) TimerEvent: {}
+[11.675251] (-) TimerEvent: {}
+[11.776267] (-) TimerEvent: {}
+[11.877262] (-) TimerEvent: {}
+[11.979265] (-) TimerEvent: {}
+[12.081159] (-) TimerEvent: {}
+[12.183293] (-) TimerEvent: {}
+[12.285347] (-) TimerEvent: {}
+[12.387204] (-) TimerEvent: {}
+[12.488198] (-) TimerEvent: {}
+[12.590164] (-) TimerEvent: {}
+[12.691787] (-) TimerEvent: {}
+[12.794282] (-) TimerEvent: {}
+[12.895287] (-) TimerEvent: {}
+[12.996363] (-) TimerEvent: {}
+[13.097737] (-) TimerEvent: {}
+[13.199949] (-) TimerEvent: {}
+[13.301383] (-) TimerEvent: {}
+[13.402747] (-) TimerEvent: {}
+[13.505715] (-) TimerEvent: {}
+[13.606782] (-) TimerEvent: {}
+[13.708760] (-) TimerEvent: {}
+[13.809978] (-) TimerEvent: {}
+[13.911206] (-) TimerEvent: {}
+[14.012189] (-) TimerEvent: {}
+[14.113258] (-) TimerEvent: {}
+[14.214467] (-) TimerEvent: {}
+[14.315556] (-) TimerEvent: {}
+[14.416631] (-) TimerEvent: {}
+[14.519349] (-) TimerEvent: {}
+[14.529778] (object_detection) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', 'build/object_detection', 'build', '--build-base', '/home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build', 'install', '--record', '/home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/install.log', '--install-scripts', '$base/lib/object_detection', '--single-version-externally-managed'], 'cwd': '/home/doof-wagon/f1tenth_ws/object_detection', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_IL:en', 'USER': 'doof-wagon', 'SSH_AGENT_PID': '2604', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/home/doof-wagon/f1tenth_ws/install/vesc_driver/lib:/home/doof-wagon/f1tenth_ws/install/vesc_ackermann/lib:/home/doof-wagon/f1tenth_ws/install/vesc_msgs/lib:/home/doof-wagon/f1tenth_ws/install/teleop_tools_msgs/lib:/home/doof-wagon/f1tenth_ws/install/mocap4r2_robot_gt_msgs/lib:/home/doof-wagon/f1tenth_ws/install/mocap4r2_msgs/lib:/home/doof-wagon/f1tenth_ws/install/mocap4r2_marker_viz_srvs/lib:/home/doof-wagon/f1tenth_ws/install/mocap4r2_control/lib:/home/doof-wagon/f1tenth_ws/install/mocap4r2_control_msgs/lib:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib', 'HOME': '/home/doof-wagon', 'OLDPWD': '/home/doof-wagon/f1tenth_ws', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'MANAGERPID': '1453', 'DBUS_STARTER_BUS_TYPE': 'session', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus,guid=1b3dbede395d6ba9a2245e39655d1cd6', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'COLCON_PREFIX_PATH': '/home/doof-wagon/f1tenth_ws/install', 'ROS_DISTRO': 'foxy', 'LOGNAME': 'doof-wagon', 'JOURNAL_STREAM': '7:53581', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'doof-wagon', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'WINDOWPATH': '2', 'PATH': '/home/doof-wagon/f1tenth_ws/install/ament_index_python/bin:/opt/ros/foxy/bin:/home/doof-wagon/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'SESSION_MANAGER': 'local/doof-wagon:@/tmp/.ICE-unix/2647,unix/doof-wagon:/tmp/.ICE-unix/2647', 'INVOCATION_ID': 'e5e9b5ca68fe4caea5654e9cb9e6ebb0', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/50f5ade5_07ac_4a22_add1_ff50e8f51cd6', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.96', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'ROS_DOMAIN_ID': '2', 'AMENT_PREFIX_PATH': '/home/doof-wagon/f1tenth_ws/install/waypoint_logger:/home/doof-wagon/f1tenth_ws/install/waypoint_drawer:/home/doof-wagon/f1tenth_ws/install/vision:/home/doof-wagon/f1tenth_ws/install/f1tenth_stack:/home/doof-wagon/f1tenth_ws/install/vesc:/home/doof-wagon/f1tenth_ws/install/vesc_driver:/home/doof-wagon/f1tenth_ws/install/vesc_ackermann:/home/doof-wagon/f1tenth_ws/install/vesc_msgs:/home/doof-wagon/f1tenth_ws/install/teleop_tools:/home/doof-wagon/f1tenth_ws/install/joy_teleop:/home/doof-wagon/f1tenth_ws/install/teleop_tools_msgs:/home/doof-wagon/f1tenth_ws/install/spline_planner:/home/doof-wagon/f1tenth_ws/install/safety:/home/doof-wagon/f1tenth_ws/install/pure_pursuit:/home/doof-wagon/f1tenth_ws/install/particle_filter:/home/doof-wagon/f1tenth_ws/install/occupancy_grid:/home/doof-wagon/f1tenth_ws/install/object_detection:/home/doof-wagon/f1tenth_ws/install/mouse_teleop:/home/doof-wagon/f1tenth_ws/install/mocap4r2cli:/home/doof-wagon/f1tenth_ws/install/mocap4r2_robot_gt_msgs:/home/doof-wagon/f1tenth_ws/install/mocap4r2_msgs:/home/doof-wagon/f1tenth_ws/install/mocap4r2_marker_viz_srvs:/home/doof-wagon/f1tenth_ws/install/mocap4r2_control:/home/doof-wagon/f1tenth_ws/install/mocap4r2_control_msgs:/home/doof-wagon/f1tenth_ws/install/key_teleop:/home/doof-wagon/f1tenth_ws/install/f1tech:/home/doof-wagon/f1tenth_ws/install/driving:/home/doof-wagon/f1tenth_ws/install/behavior:/home/doof-wagon/f1tenth_ws/install/ament_index_python:/home/doof-wagon/f1tenth_ws/install/ackermann_mux:/opt/ros/foxy', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/doof-wagon/f1tenth_ws/object_detection/build/object_detection', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'DBUS_STARTER_ADDRESS': 'unix:path=/run/user/1000/bus,guid=1b3dbede395d6ba9a2245e39655d1cd6', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/prefix_override:/home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/build/waypoint_logger:/home/doof-wagon/f1tenth_ws/install/waypoint_logger/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/build/waypoint_drawer:/home/doof-wagon/f1tenth_ws/install/waypoint_drawer/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/build/vision:/home/doof-wagon/f1tenth_ws/install/vision/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/build/f1tenth_stack:/home/doof-wagon/f1tenth_ws/install/f1tenth_stack/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/install/vesc_msgs/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/build/joy_teleop:/home/doof-wagon/f1tenth_ws/install/joy_teleop/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/install/teleop_tools_msgs/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/build/spline_planner:/home/doof-wagon/f1tenth_ws/install/spline_planner/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/install/safety/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/build/pure_pursuit:/home/doof-wagon/f1tenth_ws/install/pure_pursuit/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/build/particle_filter:/home/doof-wagon/f1tenth_ws/install/particle_filter/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/build/occupancy_grid:/home/doof-wagon/f1tenth_ws/install/occupancy_grid/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/install/object_detection/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/build/mouse_teleop:/home/doof-wagon/f1tenth_ws/install/mouse_teleop/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/build/mocap4r2cli:/home/doof-wagon/f1tenth_ws/install/mocap4r2cli/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/install/mocap4r2_robot_gt_msgs/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/install/mocap4r2_msgs/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/install/mocap4r2_marker_viz_srvs/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/install/mocap4r2_control_msgs/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/build/key_teleop:/home/doof-wagon/f1tenth_ws/install/key_teleop/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/build/f1tech:/home/doof-wagon/f1tenth_ws/install/f1tech/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/build/driving:/home/doof-wagon/f1tenth_ws/install/driving/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/build/behavior:/home/doof-wagon/f1tenth_ws/install/behavior/lib/python3.8/site-packages:/home/doof-wagon/f1tenth_ws/build/ament_index_python:/home/doof-wagon/f1tenth_ws/install/ament_index_python/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'COLCON': '1', 'VTE_VERSION': '6003', 'CMAKE_PREFIX_PATH': '/home/doof-wagon/f1tenth_ws/install/vesc:/home/doof-wagon/f1tenth_ws/install/vesc_driver:/home/doof-wagon/f1tenth_ws/install/vesc_ackermann:/home/doof-wagon/f1tenth_ws/install/vesc_msgs:/home/doof-wagon/f1tenth_ws/install/teleop_tools:/home/doof-wagon/f1tenth_ws/install/teleop_tools_msgs:/home/doof-wagon/f1tenth_ws/install/mocap4r2_robot_gt_msgs:/home/doof-wagon/f1tenth_ws/install/mocap4r2_msgs:/home/doof-wagon/f1tenth_ws/install/mocap4r2_marker_viz_srvs:/home/doof-wagon/f1tenth_ws/install/mocap4r2_control:/home/doof-wagon/f1tenth_ws/install/mocap4r2_control_msgs:/home/doof-wagon/f1tenth_ws/install/ackermann_mux'}, 'shell': False}
+[14.620473] (-) TimerEvent: {}
+[14.722889] (-) TimerEvent: {}
+[14.824103] (-) TimerEvent: {}
+[14.927319] (-) TimerEvent: {}
+[15.028478] (-) TimerEvent: {}
+[15.130222] (-) TimerEvent: {}
+[15.232250] (-) TimerEvent: {}
+[15.333638] (-) TimerEvent: {}
+[15.435277] (-) TimerEvent: {}
+[15.536313] (-) TimerEvent: {}
+[15.637535] (-) TimerEvent: {}
+[15.738694] (-) TimerEvent: {}
+[15.839748] (-) TimerEvent: {}
+[15.940810] (-) TimerEvent: {}
+[16.041935] (-) TimerEvent: {}
+[16.143014] (-) TimerEvent: {}
+[16.244683] (-) TimerEvent: {}
+[16.346325] (-) TimerEvent: {}
+[16.447599] (-) TimerEvent: {}
+[16.549510] (-) TimerEvent: {}
+[16.651746] (-) TimerEvent: {}
+[16.693552] (object_detection) StdoutLine: {'line': b'running egg_info\n'}
+[16.697217] (object_detection) StdoutLine: {'line': b'creating build/object_detection/object_detection.egg-info\n'}
+[16.698720] (object_detection) StdoutLine: {'line': b'writing build/object_detection/object_detection.egg-info/PKG-INFO\n'}
+[16.700230] (object_detection) StdoutLine: {'line': b'writing dependency_links to build/object_detection/object_detection.egg-info/dependency_links.txt\n'}
+[16.701123] (object_detection) StdoutLine: {'line': b'writing entry points to build/object_detection/object_detection.egg-info/entry_points.txt\n'}
+[16.702302] (object_detection) StdoutLine: {'line': b'writing requirements to build/object_detection/object_detection.egg-info/requires.txt\n'}
+[16.702937] (object_detection) StdoutLine: {'line': b'writing top-level names to build/object_detection/object_detection.egg-info/top_level.txt\n'}
+[16.715520] (object_detection) StdoutLine: {'line': b"writing manifest file 'build/object_detection/object_detection.egg-info/SOURCES.txt'\n"}
+[16.751960] (-) TimerEvent: {}
+[16.853064] (-) TimerEvent: {}
+[16.954284] (-) TimerEvent: {}
+[16.965276] (object_detection) StdoutLine: {'line': b"reading manifest file 'build/object_detection/object_detection.egg-info/SOURCES.txt'\n"}
+[16.971864] (object_detection) StdoutLine: {'line': b"writing manifest file 'build/object_detection/object_detection.egg-info/SOURCES.txt'\n"}
+[16.973232] (object_detection) StdoutLine: {'line': b'running build\n'}
+[16.974039] (object_detection) StdoutLine: {'line': b'running build_py\n'}
+[16.975287] (object_detection) StdoutLine: {'line': b'creating /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build\n'}
+[16.975838] (object_detection) StdoutLine: {'line': b'creating /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib\n'}
+[16.976667] (object_detection) StdoutLine: {'line': b'creating /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection\n'}
+[16.977166] (object_detection) StdoutLine: {'line': b'copying object_detection/__init__.py -> /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection\n'}
+[16.978133] (object_detection) StdoutLine: {'line': b'copying object_detection/object_detection_node.py -> /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection\n'}
+[16.980590] (object_detection) StdoutLine: {'line': b'creating /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection\n'}
+[16.981336] (object_detection) StdoutLine: {'line': b'copying object_detection/object_detection/run2Videos.py -> /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection\n'}
+[16.984654] (object_detection) StdoutLine: {'line': b'copying object_detection/object_detection/mainObjectDetection.py -> /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection\n'}
+[16.985596] (object_detection) StdoutLine: {'line': b'copying object_detection/object_detection/__init__.py -> /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection\n'}
+[16.987024] (object_detection) StdoutLine: {'line': b'copying object_detection/object_detection/yolov8n.pt -> /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection\n'}
+[17.053220] (object_detection) StdoutLine: {'line': b'copying object_detection/object_detection/yolov8s.pt -> /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection\n'}
+[17.054486] (-) TimerEvent: {}
+[17.157817] (-) TimerEvent: {}
+[17.260596] (-) TimerEvent: {}
+[17.290754] (object_detection) StdoutLine: {'line': b'copying object_detection/object_detection/YOLO_car_detector.py -> /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection\n'}
+[17.294346] (object_detection) StdoutLine: {'line': b'copying object_detection/object_detection/yoloWorldCarDetector.py -> /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection\n'}
+[17.295156] (object_detection) StdoutLine: {'line': b'copying object_detection/object_detection/yolov8s-world.pt -> /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection\n'}
+[17.361157] (-) TimerEvent: {}
+[17.463358] (-) TimerEvent: {}
+[17.555738] (object_detection) StdoutLine: {'line': b'running install\n'}
+[17.563557] (-) TimerEvent: {}
+[17.564579] (object_detection) StdoutLine: {'line': b'running install_lib\n'}
+[17.572303] (object_detection) StdoutLine: {'line': b'creating /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection\n'}
+[17.573744] (object_detection) StdoutLine: {'line': b'creating /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection\n'}
+[17.575245] (object_detection) StdoutLine: {'line': b'copying /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection/run2Videos.py -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection\n'}
+[17.575965] (object_detection) StdoutLine: {'line': b'copying /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection/mainObjectDetection.py -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection\n'}
+[17.577253] (object_detection) StdoutLine: {'line': b'copying /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection/__init__.py -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection\n'}
+[17.578409] (object_detection) StdoutLine: {'line': b'copying /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection/yolov8n.pt -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection\n'}
+[17.625658] (object_detection) StdoutLine: {'line': b'copying /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection/yolov8s.pt -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection\n'}
+[17.663803] (-) TimerEvent: {}
+[17.764867] (-) TimerEvent: {}
+[17.785267] (object_detection) StdoutLine: {'line': b'copying /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection/YOLO_car_detector.py -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection\n'}
+[17.787235] (object_detection) StdoutLine: {'line': b'copying /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection/yoloWorldCarDetector.py -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection\n'}
+[17.790189] (object_detection) StdoutLine: {'line': b'copying /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection/yolov8s-world.pt -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection\n'}
+[17.865071] (-) TimerEvent: {}
+[17.966171] (-) TimerEvent: {}
+[17.977305] (object_detection) StdoutLine: {'line': b'copying /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/__init__.py -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection\n'}
+[17.978581] (object_detection) StdoutLine: {'line': b'copying /home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/build/lib/object_detection/object_detection_node.py -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection\n'}
+[17.984319] (object_detection) StdoutLine: {'line': b'byte-compiling /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection/run2Videos.py to run2Videos.cpython-38.pyc\n'}
+[17.993276] (object_detection) StdoutLine: {'line': b'byte-compiling /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection/mainObjectDetection.py to mainObjectDetection.cpython-38.pyc\n'}
+[18.003605] (object_detection) StdoutLine: {'line': b'byte-compiling /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection/__init__.py to __init__.cpython-38.pyc\n'}
+[18.006320] (object_detection) StdoutLine: {'line': b'byte-compiling /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection/YOLO_car_detector.py to YOLO_car_detector.cpython-38.pyc\n'}
+[18.010527] (object_detection) StdoutLine: {'line': b'byte-compiling /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection/yoloWorldCarDetector.py to yoloWorldCarDetector.cpython-38.pyc\n'}
+[18.013354] (object_detection) StdoutLine: {'line': b'byte-compiling /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/__init__.py to __init__.cpython-38.pyc\n'}
+[18.015334] (object_detection) StdoutLine: {'line': b'byte-compiling /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection/object_detection_node.py to object_detection_node.cpython-38.pyc\n'}
+[18.018778] (object_detection) StdoutLine: {'line': b'running install_data\n'}
+[18.021715] (object_detection) StdoutLine: {'line': b'creating /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/ament_index\n'}
+[18.022662] (object_detection) StdoutLine: {'line': b'creating /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/ament_index/resource_index\n'}
+[18.023443] (object_detection) StdoutLine: {'line': b'creating /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/ament_index/resource_index/packages\n'}
+[18.023971] (object_detection) StdoutLine: {'line': b'copying resource/object_detection -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/ament_index/resource_index/packages\n'}
+[18.024874] (object_detection) StdoutLine: {'line': b'copying package.xml -> /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/share/object_detection\n'}
+[18.025402] (object_detection) StdoutLine: {'line': b'running install_egg_info\n'}
+[18.035538] (object_detection) StdoutLine: {'line': b'Copying build/object_detection/object_detection.egg-info to /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/python3.8/site-packages/object_detection-0.0.0-py3.8.egg-info\n'}
+[18.042799] (object_detection) StdoutLine: {'line': b'running install_scripts\n'}
+[18.066326] (-) TimerEvent: {}
+[18.160997] (object_detection) StdoutLine: {'line': b'Installing object_detection_node script to /home/doof-wagon/f1tenth_ws/object_detection/install/object_detection/lib/object_detection\n'}
+[18.163244] (object_detection) StdoutLine: {'line': b"writing list of installed files to '/home/doof-wagon/f1tenth_ws/object_detection/build/object_detection/install.log'\n"}
+[18.166475] (-) TimerEvent: {}
+[18.267399] (-) TimerEvent: {}
+[18.283985] (object_detection) CommandEnded: {'returncode': 0}
+[18.367907] (-) TimerEvent: {}
+[18.471402] (-) TimerEvent: {}
+[18.572638] (-) TimerEvent: {}
+[18.679035] (-) TimerEvent: {}
+[18.783151] (-) TimerEvent: {}
+[18.886833] (-) TimerEvent: {}
+[18.988312] (-) TimerEvent: {}
+[19.089640] (-) TimerEvent: {}
+[19.190878] (-) TimerEvent: {}
+[19.293075] (-) TimerEvent: {}
+[19.397805] (-) TimerEvent: {}
+[19.500036] (-) TimerEvent: {}
+[19.604117] (-) TimerEvent: {}
+[19.705584] (-) TimerEvent: {}
+[19.808315] (-) TimerEvent: {}
+[19.909606] (-) TimerEvent: {}
+[20.012926] (-) TimerEvent: {}
+[20.114910] (-) TimerEvent: {}
+[20.216442] (-) TimerEvent: {}
+[20.317704] (-) TimerEvent: {}
+[20.320660] (object_detection) JobEnded: {'identifier': 'object_detection', 'rc': 0}
+[20.325314] (-) EventReactorShutdown: {}

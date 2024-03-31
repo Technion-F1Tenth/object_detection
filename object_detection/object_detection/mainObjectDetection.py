@@ -128,8 +128,9 @@ class ObjectDetection:
 
             print("Write images to the clean video")
             self.clean_video.write(color_image)
-
-
+            print("Write images to the data video")
+            data_image = output_images if bounding_box else color_image
+            self.data_video.write(data_image)
 
             logging.debug(bounding_box)
 
@@ -143,9 +144,6 @@ class ObjectDetection:
 
                 cv2.rectangle(output_images, (c-self.depth_radius, r-self.depth_radius), (c+self.depth_radius, r+self.depth_radius), (255, 0, 0), 2)  # Blue color bbox with 2px thickness
                 
-                print("Write images to the data video")
-                self.data_video.write(output_images)
-
                 if ros:
                     return [c,r,depth_point_in_meters_camera_coords], output_images
             else:
