@@ -128,9 +128,7 @@ class ObjectDetection:
 
             print("Write images to the clean video")
             self.clean_video.write(color_image)
-            print("Write images to the data video")
-            data_image = output_images if bounding_box else color_image
-            self.data_video.write(data_image)
+
 
             logging.debug(bounding_box)
 
@@ -143,11 +141,15 @@ class ObjectDetection:
                 logging.info('depth_point_in_meters_camera_coords is:' + str(depth_point_in_meters_camera_coords))
 
                 cv2.rectangle(output_images, (c-self.depth_radius, r-self.depth_radius), (c+self.depth_radius, r+self.depth_radius), (255, 0, 0), 2)  # Blue color bbox with 2px thickness
+                cv2.putText(output_images, "distance" + str(depth_point_in_meters_camera_coords), (c-self.depth_radius-10, r-self.depth_radius-10), cv2.FONT_HERSHEY_SIMPLEX, 1.5, (255,0,0), 2) 
+                print("Write images to the data video")
+                self.data_video.write(output_images)
                 
                 if ros:
                     return [c,r,depth_point_in_meters_camera_coords], output_images
             else:
                 logging.info('boxes is None! no detections')
+                self.data_video.write(color_image)
                 if ros:
                     return None, None
         self.clean_video.release()
