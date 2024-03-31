@@ -53,7 +53,10 @@ class ObjectDetection:
         # init realsense camera pipeline
         self.pipeline = rs.pipeline()
         config = rs.config()
-        self.camera_name = rs.camera_info.name
+        
+        #TODO: 
+        #self.camera_name = rs.camera_info.name
+        self.camera_name = "small"
 
         config.enable_stream(rs.stream.depth, 640, 480, rs.format.z16, 30)
         config.enable_stream(rs.stream.color, 640, 480, rs.format.bgr8, 30)
