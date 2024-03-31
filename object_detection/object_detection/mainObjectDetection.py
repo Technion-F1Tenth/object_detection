@@ -105,7 +105,7 @@ class ObjectDetection:
         return np.mean(depth_list), c, r
         
     def runObjectDetection(self, buffer = 1, ros = False):
-    	try:    
+        try:    
             while True:
                 # Wait for a coherent pair of frames: depth and color
                 frames = self.pipeline.wait_for_frames()
@@ -150,11 +150,10 @@ class ObjectDetection:
                     self.data_video.write(color_image)
                     if ros:
                         return None, None
-            self.clean_video.release()
-            self.data_video.release()
         except KeyboardInterrupt:
             print("Keyboard interrupt detected")
-        finally:
+            self.clean_video.release()
+            self.data_video.release()
             printColor(self.log_file, "\033[94m")
             printColor(self.clean_video_path, "\033[93m")
             printColor(self.data_video_path, "\033[93m")
