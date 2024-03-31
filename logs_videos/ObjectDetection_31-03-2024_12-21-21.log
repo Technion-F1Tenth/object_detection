@@ -1,0 +1,5 @@
+2024-03-31 12:21:21,641 - INFO - !!!!!!!START!!!!!!!
+2024-03-31 12:22:00,270 - DEBUG - tensor([282.5684, 346.0078, 363.8974, 432.7740], device='cuda:0')
+2024-03-31 12:22:00,340 - DEBUG - BBOX: (tensor(282.5684, device='cuda:0'), tensor(346.0078, device='cuda:0')), (tensor(363.8974, device='cuda:0'), tensor(432.7740, device='cuda:0'))
+2024-03-31 12:22:00,341 - DEBUG - center point:323, 389
+2024-03-31 12:22:00,492 - INFO - depth_point_in_meters_camera_coords is:0.7242790680595984
