@@ -31,7 +31,7 @@ class ObjectDetection:
         self.offset_y = args.oy if args.oy else offset_y 
 
         # Configure logging
-        logs_dir = os.getcwd() + "/logs/"
+        logs_dir = "/home/doof-wagon/f1tenth_ws/object_detection/logs_videos/"
         if not os.path.exists(logs_dir):
             os.makedirs(logs_dir)
 
