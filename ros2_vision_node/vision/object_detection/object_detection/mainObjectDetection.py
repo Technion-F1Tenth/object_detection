@@ -9,7 +9,7 @@ import pyrealsense2 as rs
 import numpy as np
 import cv2
 
-from yoloWorldCarDetector import yoloWorldCarDetector as yolo_car_detector
+from .yoloWorldCarDetector import yoloWorldCarDetector as yolo_car_detector
 
 class ObjectDetection:
     def __init__(self, debug = False, depth_radius = 5, offset_x=0, offset_y=0):
@@ -71,6 +71,11 @@ class ObjectDetection:
         # Define the video resolution based on the first image
         clean_video = logs_dir + "ObjectDetection_" + formatted_time + "_clean.mp4"
         data_video = logs_dir + "ObjectDetection_" + formatted_time + "_withData.mp4"
+        printColor(clean_video, "\033[93m")
+        printColor(data_video, "\033[93m")
+        
+        
+        
         self.clean_video = cv2.VideoWriter(clean_video, fourcc, 10, (640, 480))
         self.data_video = cv2.VideoWriter(data_video, fourcc, 10, (640, 480))
 
@@ -87,7 +92,7 @@ class ObjectDetection:
             logging.debug("center point:" + str(c) + ", " + str(r))
             return c, r
         
-        return None
+        return None, None
     
     def getDepth(self, depth_frame, bbox):
         depth_list = []
@@ -121,7 +126,7 @@ class ObjectDetection:
                 cv2.imshow('detect', output_images)
                 cv2.waitKey(1)
 
-            # Write images to the video
+            print("Write images to the clean video")
             self.clean_video.write(color_image)
 
 
@@ -137,15 +142,18 @@ class ObjectDetection:
                 logging.info('depth_point_in_meters_camera_coords is:' + str(depth_point_in_meters_camera_coords))
 
                 cv2.rectangle(output_images, (c-self.depth_radius, r-self.depth_radius), (c+self.depth_radius, r+self.depth_radius), (255, 0, 0), 2)  # Blue color bbox with 2px thickness
+                
+                print("Write images to the data video")
                 self.data_video.write(output_images)
 
                 if ros:
-                    return depth_point_in_meters_camera_coords, output_images
+                    return [c,r,depth_point_in_meters_camera_coords], output_images
             else:
                 logging.info('boxes is None! no detections')
                 if ros:
-                    return None
-
+                    return None, None
+        self.clean_video.release()
+        self.data_video.release()
 
 def printColor(text, color_code="\033[0m"):
     print(f"{color_code}{text}\033[0m")
