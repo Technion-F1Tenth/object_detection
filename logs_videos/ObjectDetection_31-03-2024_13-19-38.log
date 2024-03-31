@@ -1,0 +1,2303 @@
+2024-03-31 13:19:38,153 - INFO - !!!!!!!START!!!!!!!
+2024-03-31 13:20:17,840 - DEBUG - None
+2024-03-31 13:20:17,841 - INFO - boxes is None! no detections
+2024-03-31 13:20:18,060 - DEBUG - None
+2024-03-31 13:20:18,060 - INFO - boxes is None! no detections
+2024-03-31 13:20:18,207 - DEBUG - None
+2024-03-31 13:20:18,208 - INFO - boxes is None! no detections
+2024-03-31 13:20:18,360 - DEBUG - None
+2024-03-31 13:20:18,361 - INFO - boxes is None! no detections
+2024-03-31 13:20:18,488 - DEBUG - None
+2024-03-31 13:20:18,488 - INFO - boxes is None! no detections
+2024-03-31 13:20:18,619 - DEBUG - None
+2024-03-31 13:20:18,620 - INFO - boxes is None! no detections
+2024-03-31 13:20:18,761 - DEBUG - None
+2024-03-31 13:20:18,762 - INFO - boxes is None! no detections
+2024-03-31 13:20:18,888 - DEBUG - None
+2024-03-31 13:20:18,888 - INFO - boxes is None! no detections
+2024-03-31 13:20:19,011 - DEBUG - None
+2024-03-31 13:20:19,012 - INFO - boxes is None! no detections
+2024-03-31 13:20:19,134 - DEBUG - None
+2024-03-31 13:20:19,135 - INFO - boxes is None! no detections
+2024-03-31 13:20:19,258 - DEBUG - None
+2024-03-31 13:20:19,258 - INFO - boxes is None! no detections
+2024-03-31 13:20:19,382 - DEBUG - None
+2024-03-31 13:20:19,382 - INFO - boxes is None! no detections
+2024-03-31 13:20:19,500 - DEBUG - None
+2024-03-31 13:20:19,500 - INFO - boxes is None! no detections
+2024-03-31 13:20:19,621 - DEBUG - None
+2024-03-31 13:20:19,622 - INFO - boxes is None! no detections
+2024-03-31 13:20:19,731 - DEBUG - None
+2024-03-31 13:20:19,732 - INFO - boxes is None! no detections
+2024-03-31 13:20:19,848 - DEBUG - None
+2024-03-31 13:20:19,849 - INFO - boxes is None! no detections
+2024-03-31 13:20:19,952 - DEBUG - None
+2024-03-31 13:20:19,952 - INFO - boxes is None! no detections
+2024-03-31 13:20:20,055 - DEBUG - None
+2024-03-31 13:20:20,056 - INFO - boxes is None! no detections
+2024-03-31 13:20:20,199 - DEBUG - None
+2024-03-31 13:20:20,200 - INFO - boxes is None! no detections
+2024-03-31 13:20:20,341 - DEBUG - None
+2024-03-31 13:20:20,341 - INFO - boxes is None! no detections
+2024-03-31 13:20:20,500 - DEBUG - None
+2024-03-31 13:20:20,501 - INFO - boxes is None! no detections
+2024-03-31 13:20:20,656 - DEBUG - None
+2024-03-31 13:20:20,656 - INFO - boxes is None! no detections
+2024-03-31 13:20:20,786 - DEBUG - None
+2024-03-31 13:20:20,787 - INFO - boxes is None! no detections
+2024-03-31 13:20:20,919 - DEBUG - None
+2024-03-31 13:20:20,920 - INFO - boxes is None! no detections
+2024-03-31 13:20:21,041 - DEBUG - None
+2024-03-31 13:20:21,041 - INFO - boxes is None! no detections
+2024-03-31 13:20:21,160 - DEBUG - None
+2024-03-31 13:20:21,161 - INFO - boxes is None! no detections
+2024-03-31 13:20:21,286 - DEBUG - None
+2024-03-31 13:20:21,287 - INFO - boxes is None! no detections
+2024-03-31 13:20:21,400 - DEBUG - None
+2024-03-31 13:20:21,400 - INFO - boxes is None! no detections
+2024-03-31 13:20:21,518 - DEBUG - None
+2024-03-31 13:20:21,519 - INFO - boxes is None! no detections
+2024-03-31 13:20:21,640 - DEBUG - None
+2024-03-31 13:20:21,640 - INFO - boxes is None! no detections
+2024-03-31 13:20:21,751 - DEBUG - None
+2024-03-31 13:20:21,751 - INFO - boxes is None! no detections
+2024-03-31 13:20:21,859 - DEBUG - None
+2024-03-31 13:20:21,860 - INFO - boxes is None! no detections
+2024-03-31 13:20:21,977 - DEBUG - None
+2024-03-31 13:20:21,978 - INFO - boxes is None! no detections
+2024-03-31 13:20:22,093 - DEBUG - None
+2024-03-31 13:20:22,093 - INFO - boxes is None! no detections
+2024-03-31 13:20:22,200 - DEBUG - None
+2024-03-31 13:20:22,201 - INFO - boxes is None! no detections
+2024-03-31 13:20:22,316 - DEBUG - None
+2024-03-31 13:20:22,316 - INFO - boxes is None! no detections
+2024-03-31 13:20:22,432 - DEBUG - None
+2024-03-31 13:20:22,433 - INFO - boxes is None! no detections
+2024-03-31 13:20:22,593 - DEBUG - None
+2024-03-31 13:20:22,594 - INFO - boxes is None! no detections
+2024-03-31 13:20:22,730 - DEBUG - None
+2024-03-31 13:20:22,730 - INFO - boxes is None! no detections
+2024-03-31 13:20:22,879 - DEBUG - None
+2024-03-31 13:20:22,880 - INFO - boxes is None! no detections
+2024-03-31 13:20:23,057 - DEBUG - None
+2024-03-31 13:20:23,058 - INFO - boxes is None! no detections
+2024-03-31 13:20:23,208 - DEBUG - None
+2024-03-31 13:20:23,209 - INFO - boxes is None! no detections
+2024-03-31 13:20:23,323 - DEBUG - None
+2024-03-31 13:20:23,324 - INFO - boxes is None! no detections
+2024-03-31 13:20:23,455 - DEBUG - None
+2024-03-31 13:20:23,455 - INFO - boxes is None! no detections
+2024-03-31 13:20:23,593 - DEBUG - None
+2024-03-31 13:20:23,594 - INFO - boxes is None! no detections
+2024-03-31 13:20:23,711 - DEBUG - None
+2024-03-31 13:20:23,711 - INFO - boxes is None! no detections
+2024-03-31 13:20:23,829 - DEBUG - None
+2024-03-31 13:20:23,830 - INFO - boxes is None! no detections
+2024-03-31 13:20:23,952 - DEBUG - None
+2024-03-31 13:20:23,953 - INFO - boxes is None! no detections
+2024-03-31 13:20:24,065 - DEBUG - None
+2024-03-31 13:20:24,065 - INFO - boxes is None! no detections
+2024-03-31 13:20:24,176 - DEBUG - None
+2024-03-31 13:20:24,177 - INFO - boxes is None! no detections
+2024-03-31 13:20:24,291 - DEBUG - None
+2024-03-31 13:20:24,292 - INFO - boxes is None! no detections
+2024-03-31 13:20:24,396 - DEBUG - None
+2024-03-31 13:20:24,397 - INFO - boxes is None! no detections
+2024-03-31 13:20:24,500 - DEBUG - None
+2024-03-31 13:20:24,501 - INFO - boxes is None! no detections
+2024-03-31 13:20:24,615 - DEBUG - None
+2024-03-31 13:20:24,615 - INFO - boxes is None! no detections
+2024-03-31 13:20:24,722 - DEBUG - None
+2024-03-31 13:20:24,723 - INFO - boxes is None! no detections
+2024-03-31 13:20:24,834 - DEBUG - None
+2024-03-31 13:20:24,834 - INFO - boxes is None! no detections
+2024-03-31 13:20:24,947 - DEBUG - None
+2024-03-31 13:20:24,948 - INFO - boxes is None! no detections
+2024-03-31 13:20:25,060 - DEBUG - None
+2024-03-31 13:20:25,061 - INFO - boxes is None! no detections
+2024-03-31 13:20:25,203 - DEBUG - None
+2024-03-31 13:20:25,204 - INFO - boxes is None! no detections
+2024-03-31 13:20:25,336 - DEBUG - None
+2024-03-31 13:20:25,337 - INFO - boxes is None! no detections
+2024-03-31 13:20:25,472 - DEBUG - None
+2024-03-31 13:20:25,473 - INFO - boxes is None! no detections
+2024-03-31 13:20:25,597 - DEBUG - None
+2024-03-31 13:20:25,598 - INFO - boxes is None! no detections
+2024-03-31 13:20:25,715 - DEBUG - None
+2024-03-31 13:20:25,715 - INFO - boxes is None! no detections
+2024-03-31 13:20:25,836 - DEBUG - None
+2024-03-31 13:20:25,837 - INFO - boxes is None! no detections
+2024-03-31 13:20:25,956 - DEBUG - None
+2024-03-31 13:20:25,956 - INFO - boxes is None! no detections
+2024-03-31 13:20:26,070 - DEBUG - None
+2024-03-31 13:20:26,070 - INFO - boxes is None! no detections
+2024-03-31 13:20:26,189 - DEBUG - None
+2024-03-31 13:20:26,189 - INFO - boxes is None! no detections
+2024-03-31 13:20:26,311 - DEBUG - None
+2024-03-31 13:20:26,311 - INFO - boxes is None! no detections
+2024-03-31 13:20:26,420 - DEBUG - None
+2024-03-31 13:20:26,420 - INFO - boxes is None! no detections
+2024-03-31 13:20:26,528 - DEBUG - None
+2024-03-31 13:20:26,529 - INFO - boxes is None! no detections
+2024-03-31 13:20:26,653 - DEBUG - None
+2024-03-31 13:20:26,654 - INFO - boxes is None! no detections
+2024-03-31 13:20:26,762 - DEBUG - None
+2024-03-31 13:20:26,762 - INFO - boxes is None! no detections
+2024-03-31 13:20:26,876 - DEBUG - None
+2024-03-31 13:20:26,877 - INFO - boxes is None! no detections
+2024-03-31 13:20:27,003 - DEBUG - None
+2024-03-31 13:20:27,004 - INFO - boxes is None! no detections
+2024-03-31 13:20:27,132 - DEBUG - None
+2024-03-31 13:20:27,133 - INFO - boxes is None! no detections
+2024-03-31 13:20:27,266 - DEBUG - None
+2024-03-31 13:20:27,267 - INFO - boxes is None! no detections
+2024-03-31 13:20:27,388 - DEBUG - None
+2024-03-31 13:20:27,389 - INFO - boxes is None! no detections
+2024-03-31 13:20:27,491 - DEBUG - None
+2024-03-31 13:20:27,491 - INFO - boxes is None! no detections
+2024-03-31 13:20:27,592 - DEBUG - None
+2024-03-31 13:20:27,592 - INFO - boxes is None! no detections
+2024-03-31 13:20:27,704 - DEBUG - None
+2024-03-31 13:20:27,704 - INFO - boxes is None! no detections
+2024-03-31 13:20:27,818 - DEBUG - None
+2024-03-31 13:20:27,819 - INFO - boxes is None! no detections
+2024-03-31 13:20:27,938 - DEBUG - None
+2024-03-31 13:20:27,939 - INFO - boxes is None! no detections
+2024-03-31 13:20:28,057 - DEBUG - None
+2024-03-31 13:20:28,057 - INFO - boxes is None! no detections
+2024-03-31 13:20:28,166 - DEBUG - None
+2024-03-31 13:20:28,166 - INFO - boxes is None! no detections
+2024-03-31 13:20:28,288 - DEBUG - None
+2024-03-31 13:20:28,289 - INFO - boxes is None! no detections
+2024-03-31 13:20:28,406 - DEBUG - None
+2024-03-31 13:20:28,406 - INFO - boxes is None! no detections
+2024-03-31 13:20:28,518 - DEBUG - None
+2024-03-31 13:20:28,519 - INFO - boxes is None! no detections
+2024-03-31 13:20:28,634 - DEBUG - None
+2024-03-31 13:20:28,634 - INFO - boxes is None! no detections
+2024-03-31 13:20:28,750 - DEBUG - None
+2024-03-31 13:20:28,750 - INFO - boxes is None! no detections
+2024-03-31 13:20:28,865 - DEBUG - None
+2024-03-31 13:20:28,865 - INFO - boxes is None! no detections
+2024-03-31 13:20:28,974 - DEBUG - None
+2024-03-31 13:20:28,975 - INFO - boxes is None! no detections
+2024-03-31 13:20:29,124 - DEBUG - None
+2024-03-31 13:20:29,124 - INFO - boxes is None! no detections
+2024-03-31 13:20:29,250 - DEBUG - None
+2024-03-31 13:20:29,250 - INFO - boxes is None! no detections
+2024-03-31 13:20:29,368 - DEBUG - None
+2024-03-31 13:20:29,369 - INFO - boxes is None! no detections
+2024-03-31 13:20:29,484 - DEBUG - None
+2024-03-31 13:20:29,484 - INFO - boxes is None! no detections
+2024-03-31 13:20:29,587 - DEBUG - None
+2024-03-31 13:20:29,587 - INFO - boxes is None! no detections
+2024-03-31 13:20:29,701 - DEBUG - None
+2024-03-31 13:20:29,701 - INFO - boxes is None! no detections
+2024-03-31 13:20:29,820 - DEBUG - None
+2024-03-31 13:20:29,820 - INFO - boxes is None! no detections
+2024-03-31 13:20:29,922 - DEBUG - None
+2024-03-31 13:20:29,923 - INFO - boxes is None! no detections
+2024-03-31 13:20:30,025 - DEBUG - None
+2024-03-31 13:20:30,026 - INFO - boxes is None! no detections
+2024-03-31 13:20:30,125 - DEBUG - None
+2024-03-31 13:20:30,126 - INFO - boxes is None! no detections
+2024-03-31 13:20:30,227 - DEBUG - None
+2024-03-31 13:20:30,228 - INFO - boxes is None! no detections
+2024-03-31 13:20:30,331 - DEBUG - None
+2024-03-31 13:20:30,332 - INFO - boxes is None! no detections
+2024-03-31 13:20:30,432 - DEBUG - None
+2024-03-31 13:20:30,432 - INFO - boxes is None! no detections
+2024-03-31 13:20:30,540 - DEBUG - None
+2024-03-31 13:20:30,540 - INFO - boxes is None! no detections
+2024-03-31 13:20:30,647 - DEBUG - None
+2024-03-31 13:20:30,648 - INFO - boxes is None! no detections
+2024-03-31 13:20:30,762 - DEBUG - None
+2024-03-31 13:20:30,762 - INFO - boxes is None! no detections
+2024-03-31 13:20:30,889 - DEBUG - None
+2024-03-31 13:20:30,890 - INFO - boxes is None! no detections
+2024-03-31 13:20:31,027 - DEBUG - None
+2024-03-31 13:20:31,027 - INFO - boxes is None! no detections
+2024-03-31 13:20:31,171 - DEBUG - None
+2024-03-31 13:20:31,171 - INFO - boxes is None! no detections
+2024-03-31 13:20:31,289 - DEBUG - None
+2024-03-31 13:20:31,289 - INFO - boxes is None! no detections
+2024-03-31 13:20:31,400 - DEBUG - None
+2024-03-31 13:20:31,401 - INFO - boxes is None! no detections
+2024-03-31 13:20:31,519 - DEBUG - None
+2024-03-31 13:20:31,520 - INFO - boxes is None! no detections
+2024-03-31 13:20:31,623 - DEBUG - None
+2024-03-31 13:20:31,624 - INFO - boxes is None! no detections
+2024-03-31 13:20:31,740 - DEBUG - None
+2024-03-31 13:20:31,741 - INFO - boxes is None! no detections
+2024-03-31 13:20:31,863 - DEBUG - None
+2024-03-31 13:20:31,864 - INFO - boxes is None! no detections
+2024-03-31 13:20:31,985 - DEBUG - None
+2024-03-31 13:20:31,985 - INFO - boxes is None! no detections
+2024-03-31 13:20:32,110 - DEBUG - None
+2024-03-31 13:20:32,110 - INFO - boxes is None! no detections
+2024-03-31 13:20:32,234 - DEBUG - None
+2024-03-31 13:20:32,234 - INFO - boxes is None! no detections
+2024-03-31 13:20:32,354 - DEBUG - None
+2024-03-31 13:20:32,355 - INFO - boxes is None! no detections
+2024-03-31 13:20:32,466 - DEBUG - None
+2024-03-31 13:20:32,466 - INFO - boxes is None! no detections
+2024-03-31 13:20:32,589 - DEBUG - None
+2024-03-31 13:20:32,590 - INFO - boxes is None! no detections
+2024-03-31 13:20:32,702 - DEBUG - None
+2024-03-31 13:20:32,702 - INFO - boxes is None! no detections
+2024-03-31 13:20:32,821 - DEBUG - None
+2024-03-31 13:20:32,821 - INFO - boxes is None! no detections
+2024-03-31 13:20:32,937 - DEBUG - None
+2024-03-31 13:20:32,937 - INFO - boxes is None! no detections
+2024-03-31 13:20:33,057 - DEBUG - None
+2024-03-31 13:20:33,058 - INFO - boxes is None! no detections
+2024-03-31 13:20:33,160 - DEBUG - None
+2024-03-31 13:20:33,161 - INFO - boxes is None! no detections
+2024-03-31 13:20:33,271 - DEBUG - None
+2024-03-31 13:20:33,272 - INFO - boxes is None! no detections
+2024-03-31 13:20:33,401 - DEBUG - None
+2024-03-31 13:20:33,401 - INFO - boxes is None! no detections
+2024-03-31 13:20:33,533 - DEBUG - None
+2024-03-31 13:20:33,533 - INFO - boxes is None! no detections
+2024-03-31 13:20:33,667 - DEBUG - None
+2024-03-31 13:20:33,668 - INFO - boxes is None! no detections
+2024-03-31 13:20:33,828 - DEBUG - None
+2024-03-31 13:20:33,828 - INFO - boxes is None! no detections
+2024-03-31 13:20:33,944 - DEBUG - None
+2024-03-31 13:20:33,945 - INFO - boxes is None! no detections
+2024-03-31 13:20:34,063 - DEBUG - None
+2024-03-31 13:20:34,063 - INFO - boxes is None! no detections
+2024-03-31 13:20:34,182 - DEBUG - None
+2024-03-31 13:20:34,183 - INFO - boxes is None! no detections
+2024-03-31 13:20:34,304 - DEBUG - None
+2024-03-31 13:20:34,304 - INFO - boxes is None! no detections
+2024-03-31 13:20:34,430 - DEBUG - None
+2024-03-31 13:20:34,430 - INFO - boxes is None! no detections
+2024-03-31 13:20:34,563 - DEBUG - None
+2024-03-31 13:20:34,564 - INFO - boxes is None! no detections
+2024-03-31 13:20:34,716 - DEBUG - None
+2024-03-31 13:20:34,717 - INFO - boxes is None! no detections
+2024-03-31 13:20:34,838 - DEBUG - None
+2024-03-31 13:20:34,838 - INFO - boxes is None! no detections
+2024-03-31 13:20:34,978 - DEBUG - None
+2024-03-31 13:20:34,979 - INFO - boxes is None! no detections
+2024-03-31 13:20:35,164 - DEBUG - None
+2024-03-31 13:20:35,164 - INFO - boxes is None! no detections
+2024-03-31 13:20:35,350 - DEBUG - None
+2024-03-31 13:20:35,351 - INFO - boxes is None! no detections
+2024-03-31 13:20:35,489 - DEBUG - None
+2024-03-31 13:20:35,489 - INFO - boxes is None! no detections
+2024-03-31 13:20:35,638 - DEBUG - None
+2024-03-31 13:20:35,639 - INFO - boxes is None! no detections
+2024-03-31 13:20:35,764 - DEBUG - None
+2024-03-31 13:20:35,765 - INFO - boxes is None! no detections
+2024-03-31 13:20:35,903 - DEBUG - None
+2024-03-31 13:20:35,903 - INFO - boxes is None! no detections
+2024-03-31 13:20:36,045 - DEBUG - None
+2024-03-31 13:20:36,046 - INFO - boxes is None! no detections
+2024-03-31 13:20:36,210 - DEBUG - None
+2024-03-31 13:20:36,211 - INFO - boxes is None! no detections
+2024-03-31 13:20:36,405 - DEBUG - None
+2024-03-31 13:20:36,406 - INFO - boxes is None! no detections
+2024-03-31 13:20:36,582 - DEBUG - None
+2024-03-31 13:20:36,583 - INFO - boxes is None! no detections
+2024-03-31 13:20:36,715 - DEBUG - None
+2024-03-31 13:20:36,715 - INFO - boxes is None! no detections
+2024-03-31 13:20:36,864 - DEBUG - None
+2024-03-31 13:20:36,865 - INFO - boxes is None! no detections
+2024-03-31 13:20:37,008 - DEBUG - None
+2024-03-31 13:20:37,008 - INFO - boxes is None! no detections
+2024-03-31 13:20:37,169 - DEBUG - None
+2024-03-31 13:20:37,170 - INFO - boxes is None! no detections
+2024-03-31 13:20:37,342 - DEBUG - None
+2024-03-31 13:20:37,343 - INFO - boxes is None! no detections
+2024-03-31 13:20:37,479 - DEBUG - None
+2024-03-31 13:20:37,479 - INFO - boxes is None! no detections
+2024-03-31 13:20:37,637 - DEBUG - None
+2024-03-31 13:20:37,638 - INFO - boxes is None! no detections
+2024-03-31 13:20:37,771 - DEBUG - None
+2024-03-31 13:20:37,772 - INFO - boxes is None! no detections
+2024-03-31 13:20:37,889 - DEBUG - None
+2024-03-31 13:20:37,889 - INFO - boxes is None! no detections
+2024-03-31 13:20:38,071 - DEBUG - None
+2024-03-31 13:20:38,072 - INFO - boxes is None! no detections
+2024-03-31 13:20:38,239 - DEBUG - None
+2024-03-31 13:20:38,239 - INFO - boxes is None! no detections
+2024-03-31 13:20:38,406 - DEBUG - None
+2024-03-31 13:20:38,406 - INFO - boxes is None! no detections
+2024-03-31 13:20:38,558 - DEBUG - None
+2024-03-31 13:20:38,559 - INFO - boxes is None! no detections
+2024-03-31 13:20:38,700 - DEBUG - None
+2024-03-31 13:20:38,701 - INFO - boxes is None! no detections
+2024-03-31 13:20:38,820 - DEBUG - None
+2024-03-31 13:20:38,821 - INFO - boxes is None! no detections
+2024-03-31 13:20:38,931 - DEBUG - None
+2024-03-31 13:20:38,931 - INFO - boxes is None! no detections
+2024-03-31 13:20:39,044 - DEBUG - None
+2024-03-31 13:20:39,045 - INFO - boxes is None! no detections
+2024-03-31 13:20:39,164 - DEBUG - None
+2024-03-31 13:20:39,165 - INFO - boxes is None! no detections
+2024-03-31 13:20:39,280 - DEBUG - None
+2024-03-31 13:20:39,282 - INFO - boxes is None! no detections
+2024-03-31 13:20:39,404 - DEBUG - None
+2024-03-31 13:20:39,404 - INFO - boxes is None! no detections
+2024-03-31 13:20:39,529 - DEBUG - None
+2024-03-31 13:20:39,530 - INFO - boxes is None! no detections
+2024-03-31 13:20:39,661 - DEBUG - None
+2024-03-31 13:20:39,661 - INFO - boxes is None! no detections
+2024-03-31 13:20:39,794 - DEBUG - None
+2024-03-31 13:20:39,795 - INFO - boxes is None! no detections
+2024-03-31 13:20:40,004 - DEBUG - tensor([302.5598, 173.7763, 339.6426, 200.7915], device='cuda:0')
+2024-03-31 13:20:40,039 - DEBUG - BBOX: (tensor(302.5598, device='cuda:0'), tensor(173.7763, device='cuda:0')), (tensor(339.6426, device='cuda:0'), tensor(200.7915, device='cuda:0'))
+2024-03-31 13:20:40,040 - DEBUG - center point:321, 187
+2024-03-31 13:20:40,131 - INFO - depth_point_in_meters_camera_coords is:1.2620795544361074
+2024-03-31 13:20:40,284 - DEBUG - tensor([296.6604, 174.0145, 340.4846, 201.2151], device='cuda:0')
+2024-03-31 13:20:40,304 - DEBUG - BBOX: (tensor(296.6604, device='cuda:0'), tensor(174.0145, device='cuda:0')), (tensor(340.4846, device='cuda:0'), tensor(201.2151, device='cuda:0'))
+2024-03-31 13:20:40,305 - DEBUG - center point:318, 187
+2024-03-31 13:20:40,388 - INFO - depth_point_in_meters_camera_coords is:0.79165907005469
+2024-03-31 13:20:40,523 - DEBUG - None
+2024-03-31 13:20:40,523 - INFO - boxes is None! no detections
+2024-03-31 13:20:40,646 - DEBUG - None
+2024-03-31 13:20:40,646 - INFO - boxes is None! no detections
+2024-03-31 13:20:40,766 - DEBUG - None
+2024-03-31 13:20:40,766 - INFO - boxes is None! no detections
+2024-03-31 13:20:40,881 - DEBUG - None
+2024-03-31 13:20:40,881 - INFO - boxes is None! no detections
+2024-03-31 13:20:40,998 - DEBUG - None
+2024-03-31 13:20:40,999 - INFO - boxes is None! no detections
+2024-03-31 13:20:41,123 - DEBUG - None
+2024-03-31 13:20:41,124 - INFO - boxes is None! no detections
+2024-03-31 13:20:41,238 - DEBUG - None
+2024-03-31 13:20:41,239 - INFO - boxes is None! no detections
+2024-03-31 13:20:41,358 - DEBUG - None
+2024-03-31 13:20:41,359 - INFO - boxes is None! no detections
+2024-03-31 13:20:41,472 - DEBUG - None
+2024-03-31 13:20:41,473 - INFO - boxes is None! no detections
+2024-03-31 13:20:41,592 - DEBUG - None
+2024-03-31 13:20:41,593 - INFO - boxes is None! no detections
+2024-03-31 13:20:41,710 - DEBUG - None
+2024-03-31 13:20:41,711 - INFO - boxes is None! no detections
+2024-03-31 13:20:41,827 - DEBUG - None
+2024-03-31 13:20:41,828 - INFO - boxes is None! no detections
+2024-03-31 13:20:41,944 - DEBUG - None
+2024-03-31 13:20:41,945 - INFO - boxes is None! no detections
+2024-03-31 13:20:42,059 - DEBUG - None
+2024-03-31 13:20:42,060 - INFO - boxes is None! no detections
+2024-03-31 13:20:42,170 - DEBUG - None
+2024-03-31 13:20:42,171 - INFO - boxes is None! no detections
+2024-03-31 13:20:42,291 - DEBUG - None
+2024-03-31 13:20:42,291 - INFO - boxes is None! no detections
+2024-03-31 13:20:42,407 - DEBUG - None
+2024-03-31 13:20:42,407 - INFO - boxes is None! no detections
+2024-03-31 13:20:42,532 - DEBUG - None
+2024-03-31 13:20:42,533 - INFO - boxes is None! no detections
+2024-03-31 13:20:42,661 - DEBUG - None
+2024-03-31 13:20:42,661 - INFO - boxes is None! no detections
+2024-03-31 13:20:42,784 - DEBUG - None
+2024-03-31 13:20:42,785 - INFO - boxes is None! no detections
+2024-03-31 13:20:42,905 - DEBUG - None
+2024-03-31 13:20:42,906 - INFO - boxes is None! no detections
+2024-03-31 13:20:43,023 - DEBUG - None
+2024-03-31 13:20:43,024 - INFO - boxes is None! no detections
+2024-03-31 13:20:43,139 - DEBUG - None
+2024-03-31 13:20:43,140 - INFO - boxes is None! no detections
+2024-03-31 13:20:43,254 - DEBUG - None
+2024-03-31 13:20:43,255 - INFO - boxes is None! no detections
+2024-03-31 13:20:43,376 - DEBUG - None
+2024-03-31 13:20:43,376 - INFO - boxes is None! no detections
+2024-03-31 13:20:43,496 - DEBUG - None
+2024-03-31 13:20:43,496 - INFO - boxes is None! no detections
+2024-03-31 13:20:43,605 - DEBUG - None
+2024-03-31 13:20:43,606 - INFO - boxes is None! no detections
+2024-03-31 13:20:43,720 - DEBUG - None
+2024-03-31 13:20:43,721 - INFO - boxes is None! no detections
+2024-03-31 13:20:43,833 - DEBUG - None
+2024-03-31 13:20:43,834 - INFO - boxes is None! no detections
+2024-03-31 13:20:43,962 - DEBUG - None
+2024-03-31 13:20:43,962 - INFO - boxes is None! no detections
+2024-03-31 13:20:44,089 - DEBUG - None
+2024-03-31 13:20:44,090 - INFO - boxes is None! no detections
+2024-03-31 13:20:44,210 - DEBUG - None
+2024-03-31 13:20:44,211 - INFO - boxes is None! no detections
+2024-03-31 13:20:44,362 - DEBUG - None
+2024-03-31 13:20:44,363 - INFO - boxes is None! no detections
+2024-03-31 13:20:44,501 - DEBUG - None
+2024-03-31 13:20:44,502 - INFO - boxes is None! no detections
+2024-03-31 13:20:44,619 - DEBUG - None
+2024-03-31 13:20:44,619 - INFO - boxes is None! no detections
+2024-03-31 13:20:44,736 - DEBUG - None
+2024-03-31 13:20:44,736 - INFO - boxes is None! no detections
+2024-03-31 13:20:44,859 - DEBUG - None
+2024-03-31 13:20:44,859 - INFO - boxes is None! no detections
+2024-03-31 13:20:44,982 - DEBUG - None
+2024-03-31 13:20:44,983 - INFO - boxes is None! no detections
+2024-03-31 13:20:45,104 - DEBUG - None
+2024-03-31 13:20:45,104 - INFO - boxes is None! no detections
+2024-03-31 13:20:45,231 - DEBUG - None
+2024-03-31 13:20:45,231 - INFO - boxes is None! no detections
+2024-03-31 13:20:45,346 - DEBUG - None
+2024-03-31 13:20:45,347 - INFO - boxes is None! no detections
+2024-03-31 13:20:45,471 - DEBUG - None
+2024-03-31 13:20:45,472 - INFO - boxes is None! no detections
+2024-03-31 13:20:45,597 - DEBUG - None
+2024-03-31 13:20:45,597 - INFO - boxes is None! no detections
+2024-03-31 13:20:45,712 - DEBUG - None
+2024-03-31 13:20:45,713 - INFO - boxes is None! no detections
+2024-03-31 13:20:45,828 - DEBUG - None
+2024-03-31 13:20:45,828 - INFO - boxes is None! no detections
+2024-03-31 13:20:45,951 - DEBUG - None
+2024-03-31 13:20:45,952 - INFO - boxes is None! no detections
+2024-03-31 13:20:46,067 - DEBUG - None
+2024-03-31 13:20:46,068 - INFO - boxes is None! no detections
+2024-03-31 13:20:46,185 - DEBUG - None
+2024-03-31 13:20:46,185 - INFO - boxes is None! no detections
+2024-03-31 13:20:46,306 - DEBUG - None
+2024-03-31 13:20:46,307 - INFO - boxes is None! no detections
+2024-03-31 13:20:46,430 - DEBUG - None
+2024-03-31 13:20:46,431 - INFO - boxes is None! no detections
+2024-03-31 13:20:46,553 - DEBUG - None
+2024-03-31 13:20:46,553 - INFO - boxes is None! no detections
+2024-03-31 13:20:46,668 - DEBUG - None
+2024-03-31 13:20:46,668 - INFO - boxes is None! no detections
+2024-03-31 13:20:46,783 - DEBUG - None
+2024-03-31 13:20:46,783 - INFO - boxes is None! no detections
+2024-03-31 13:20:46,907 - DEBUG - None
+2024-03-31 13:20:46,908 - INFO - boxes is None! no detections
+2024-03-31 13:20:47,028 - DEBUG - None
+2024-03-31 13:20:47,028 - INFO - boxes is None! no detections
+2024-03-31 13:20:47,155 - DEBUG - None
+2024-03-31 13:20:47,156 - INFO - boxes is None! no detections
+2024-03-31 13:20:47,275 - DEBUG - None
+2024-03-31 13:20:47,276 - INFO - boxes is None! no detections
+2024-03-31 13:20:47,406 - DEBUG - tensor([266.4786, 184.5228, 337.5738, 215.8316], device='cuda:0')
+2024-03-31 13:20:47,432 - DEBUG - BBOX: (tensor(266.4786, device='cuda:0'), tensor(184.5228, device='cuda:0')), (tensor(337.5738, device='cuda:0'), tensor(215.8316, device='cuda:0'))
+2024-03-31 13:20:47,433 - DEBUG - center point:302, 200
+2024-03-31 13:20:47,518 - INFO - depth_point_in_meters_camera_coords is:0.6187602765858173
+2024-03-31 13:20:47,633 - DEBUG - None
+2024-03-31 13:20:47,633 - INFO - boxes is None! no detections
+2024-03-31 13:20:47,748 - DEBUG - None
+2024-03-31 13:20:47,749 - INFO - boxes is None! no detections
+2024-03-31 13:20:47,874 - DEBUG - None
+2024-03-31 13:20:47,875 - INFO - boxes is None! no detections
+2024-03-31 13:20:47,990 - DEBUG - None
+2024-03-31 13:20:47,991 - INFO - boxes is None! no detections
+2024-03-31 13:20:48,103 - DEBUG - None
+2024-03-31 13:20:48,103 - INFO - boxes is None! no detections
+2024-03-31 13:20:48,223 - DEBUG - None
+2024-03-31 13:20:48,223 - INFO - boxes is None! no detections
+2024-03-31 13:20:48,337 - DEBUG - None
+2024-03-31 13:20:48,338 - INFO - boxes is None! no detections
+2024-03-31 13:20:48,456 - DEBUG - None
+2024-03-31 13:20:48,456 - INFO - boxes is None! no detections
+2024-03-31 13:20:48,575 - DEBUG - None
+2024-03-31 13:20:48,575 - INFO - boxes is None! no detections
+2024-03-31 13:20:48,692 - DEBUG - None
+2024-03-31 13:20:48,692 - INFO - boxes is None! no detections
+2024-03-31 13:20:48,804 - DEBUG - None
+2024-03-31 13:20:48,804 - INFO - boxes is None! no detections
+2024-03-31 13:20:48,918 - DEBUG - None
+2024-03-31 13:20:48,919 - INFO - boxes is None! no detections
+2024-03-31 13:20:49,037 - DEBUG - None
+2024-03-31 13:20:49,038 - INFO - boxes is None! no detections
+2024-03-31 13:20:49,150 - DEBUG - None
+2024-03-31 13:20:49,150 - INFO - boxes is None! no detections
+2024-03-31 13:20:49,266 - DEBUG - None
+2024-03-31 13:20:49,266 - INFO - boxes is None! no detections
+2024-03-31 13:20:49,379 - DEBUG - None
+2024-03-31 13:20:49,380 - INFO - boxes is None! no detections
+2024-03-31 13:20:49,493 - DEBUG - None
+2024-03-31 13:20:49,494 - INFO - boxes is None! no detections
+2024-03-31 13:20:49,608 - DEBUG - None
+2024-03-31 13:20:49,608 - INFO - boxes is None! no detections
+2024-03-31 13:20:49,725 - DEBUG - None
+2024-03-31 13:20:49,725 - INFO - boxes is None! no detections
+2024-03-31 13:20:49,843 - DEBUG - None
+2024-03-31 13:20:49,844 - INFO - boxes is None! no detections
+2024-03-31 13:20:49,962 - DEBUG - None
+2024-03-31 13:20:49,963 - INFO - boxes is None! no detections
+2024-03-31 13:20:50,082 - DEBUG - tensor([290.8337, 184.6916, 362.1331, 225.3829], device='cuda:0')
+2024-03-31 13:20:50,107 - DEBUG - BBOX: (tensor(290.8337, device='cuda:0'), tensor(184.6916, device='cuda:0')), (tensor(362.1331, device='cuda:0'), tensor(225.3829, device='cuda:0'))
+2024-03-31 13:20:50,108 - DEBUG - center point:326, 205
+2024-03-31 13:20:50,193 - INFO - depth_point_in_meters_camera_coords is:0.5094324335505371
+2024-03-31 13:20:50,308 - DEBUG - None
+2024-03-31 13:20:50,309 - INFO - boxes is None! no detections
+2024-03-31 13:20:50,423 - DEBUG - None
+2024-03-31 13:20:50,424 - INFO - boxes is None! no detections
+2024-03-31 13:20:50,542 - DEBUG - None
+2024-03-31 13:20:50,542 - INFO - boxes is None! no detections
+2024-03-31 13:20:50,657 - DEBUG - None
+2024-03-31 13:20:50,658 - INFO - boxes is None! no detections
+2024-03-31 13:20:50,777 - DEBUG - None
+2024-03-31 13:20:50,778 - INFO - boxes is None! no detections
+2024-03-31 13:20:50,895 - DEBUG - None
+2024-03-31 13:20:50,895 - INFO - boxes is None! no detections
+2024-03-31 13:20:51,010 - DEBUG - None
+2024-03-31 13:20:51,010 - INFO - boxes is None! no detections
+2024-03-31 13:20:51,125 - DEBUG - None
+2024-03-31 13:20:51,126 - INFO - boxes is None! no detections
+2024-03-31 13:20:51,244 - DEBUG - None
+2024-03-31 13:20:51,245 - INFO - boxes is None! no detections
+2024-03-31 13:20:51,368 - DEBUG - tensor([279.6354, 177.2060, 379.3641, 243.0158], device='cuda:0')
+2024-03-31 13:20:51,394 - DEBUG - BBOX: (tensor(279.6354, device='cuda:0'), tensor(177.2060, device='cuda:0')), (tensor(379.3641, device='cuda:0'), tensor(243.0158, device='cuda:0'))
+2024-03-31 13:20:51,395 - DEBUG - center point:329, 210
+2024-03-31 13:20:51,487 - INFO - depth_point_in_meters_camera_coords is:0.13907397516183362
+2024-03-31 13:20:51,617 - DEBUG - None
+2024-03-31 13:20:51,618 - INFO - boxes is None! no detections
+2024-03-31 13:20:51,746 - DEBUG - tensor([280.5811, 194.4242, 379.1546, 242.6018], device='cuda:0')
+2024-03-31 13:20:51,772 - DEBUG - BBOX: (tensor(280.5811, device='cuda:0'), tensor(194.4242, device='cuda:0')), (tensor(379.1546, device='cuda:0'), tensor(242.6018, device='cuda:0'))
+2024-03-31 13:20:51,773 - DEBUG - center point:329, 218
+2024-03-31 13:20:51,873 - INFO - depth_point_in_meters_camera_coords is:0.2596719311483321
+2024-03-31 13:20:52,012 - DEBUG - tensor([280.5813, 193.9706, 379.1194, 242.6187], device='cuda:0')
+2024-03-31 13:20:52,037 - DEBUG - BBOX: (tensor(280.5813, device='cuda:0'), tensor(193.9706, device='cuda:0')), (tensor(379.1194, device='cuda:0'), tensor(242.6187, device='cuda:0'))
+2024-03-31 13:20:52,038 - DEBUG - center point:329, 218
+2024-03-31 13:20:52,135 - INFO - depth_point_in_meters_camera_coords is:0.30227576103721127
+2024-03-31 13:20:52,269 - DEBUG - tensor([276.3043, 194.2379, 379.8953, 243.3693], device='cuda:0')
+2024-03-31 13:20:52,295 - DEBUG - BBOX: (tensor(276.3043, device='cuda:0'), tensor(194.2379, device='cuda:0')), (tensor(379.8953, device='cuda:0'), tensor(243.3693, device='cuda:0'))
+2024-03-31 13:20:52,297 - DEBUG - center point:328, 218
+2024-03-31 13:20:52,380 - INFO - depth_point_in_meters_camera_coords is:0.1540276930295416
+2024-03-31 13:20:52,507 - DEBUG - tensor([280.2558, 194.8179, 380.1628, 244.4319], device='cuda:0')
+2024-03-31 13:20:52,530 - DEBUG - BBOX: (tensor(280.2558, device='cuda:0'), tensor(194.8179, device='cuda:0')), (tensor(380.1628, device='cuda:0'), tensor(244.4319, device='cuda:0'))
+2024-03-31 13:20:52,531 - DEBUG - center point:330, 219
+2024-03-31 13:20:52,612 - INFO - depth_point_in_meters_camera_coords is:0.3509161331237313
+2024-03-31 13:20:52,737 - DEBUG - tensor([279.6459, 193.3686, 379.9025, 244.0896], device='cuda:0')
+2024-03-31 13:20:52,759 - DEBUG - BBOX: (tensor(279.6459, device='cuda:0'), tensor(193.3686, device='cuda:0')), (tensor(379.9025, device='cuda:0'), tensor(244.0896, device='cuda:0'))
+2024-03-31 13:20:52,761 - DEBUG - center point:329, 218
+2024-03-31 13:20:52,841 - INFO - depth_point_in_meters_camera_coords is:0.2949113096366636
+2024-03-31 13:20:52,967 - DEBUG - tensor([277.8854, 192.4772, 379.9815, 244.0483], device='cuda:0')
+2024-03-31 13:20:52,986 - DEBUG - BBOX: (tensor(277.8854, device='cuda:0'), tensor(192.4772, device='cuda:0')), (tensor(379.9815, device='cuda:0'), tensor(244.0483, device='cuda:0'))
+2024-03-31 13:20:52,987 - DEBUG - center point:328, 218
+2024-03-31 13:20:53,074 - INFO - depth_point_in_meters_camera_coords is:0.3254747134289452
+2024-03-31 13:20:53,195 - DEBUG - None
+2024-03-31 13:20:53,195 - INFO - boxes is None! no detections
+2024-03-31 13:20:53,323 - DEBUG - tensor([276.1161, 187.8050, 380.0147, 244.4049], device='cuda:0')
+2024-03-31 13:20:53,347 - DEBUG - BBOX: (tensor(276.1161, device='cuda:0'), tensor(187.8050, device='cuda:0')), (tensor(380.0147, device='cuda:0'), tensor(244.4049, device='cuda:0'))
+2024-03-31 13:20:53,348 - DEBUG - center point:328, 216
+2024-03-31 13:20:53,437 - INFO - depth_point_in_meters_camera_coords is:0.1862931756489464
+2024-03-31 13:20:53,574 - DEBUG - tensor([276.4024, 186.4924, 380.5079, 244.5562], device='cuda:0')
+2024-03-31 13:20:53,600 - DEBUG - BBOX: (tensor(276.4024, device='cuda:0'), tensor(186.4924, device='cuda:0')), (tensor(380.5079, device='cuda:0'), tensor(244.5562, device='cuda:0'))
+2024-03-31 13:20:53,601 - DEBUG - center point:328, 215
+2024-03-31 13:20:53,689 - INFO - depth_point_in_meters_camera_coords is:0.201428124866167
+2024-03-31 13:20:53,817 - DEBUG - tensor([278.4767, 195.2086, 379.8914, 244.4954], device='cuda:0')
+2024-03-31 13:20:53,841 - DEBUG - BBOX: (tensor(278.4767, device='cuda:0'), tensor(195.2086, device='cuda:0')), (tensor(379.8914, device='cuda:0'), tensor(244.4954, device='cuda:0'))
+2024-03-31 13:20:53,842 - DEBUG - center point:329, 219
+2024-03-31 13:20:53,936 - INFO - depth_point_in_meters_camera_coords is:0.27717731734825063
+2024-03-31 13:20:54,063 - DEBUG - None
+2024-03-31 13:20:54,064 - INFO - boxes is None! no detections
+2024-03-31 13:20:54,181 - DEBUG - None
+2024-03-31 13:20:54,181 - INFO - boxes is None! no detections
+2024-03-31 13:20:54,306 - DEBUG - None
+2024-03-31 13:20:54,307 - INFO - boxes is None! no detections
+2024-03-31 13:20:54,438 - DEBUG - None
+2024-03-31 13:20:54,439 - INFO - boxes is None! no detections
+2024-03-31 13:20:54,565 - DEBUG - None
+2024-03-31 13:20:54,566 - INFO - boxes is None! no detections
+2024-03-31 13:20:54,696 - DEBUG - None
+2024-03-31 13:20:54,696 - INFO - boxes is None! no detections
+2024-03-31 13:20:54,821 - DEBUG - None
+2024-03-31 13:20:54,821 - INFO - boxes is None! no detections
+2024-03-31 13:20:54,935 - DEBUG - None
+2024-03-31 13:20:54,936 - INFO - boxes is None! no detections
+2024-03-31 13:20:55,044 - DEBUG - None
+2024-03-31 13:20:55,045 - INFO - boxes is None! no detections
+2024-03-31 13:20:55,160 - DEBUG - None
+2024-03-31 13:20:55,160 - INFO - boxes is None! no detections
+2024-03-31 13:20:55,274 - DEBUG - None
+2024-03-31 13:20:55,274 - INFO - boxes is None! no detections
+2024-03-31 13:20:55,391 - DEBUG - None
+2024-03-31 13:20:55,392 - INFO - boxes is None! no detections
+2024-03-31 13:20:55,512 - DEBUG - None
+2024-03-31 13:20:55,513 - INFO - boxes is None! no detections
+2024-03-31 13:20:55,640 - DEBUG - None
+2024-03-31 13:20:55,642 - INFO - boxes is None! no detections
+2024-03-31 13:20:55,765 - DEBUG - None
+2024-03-31 13:20:55,766 - INFO - boxes is None! no detections
+2024-03-31 13:20:55,886 - DEBUG - None
+2024-03-31 13:20:55,887 - INFO - boxes is None! no detections
+2024-03-31 13:20:56,009 - DEBUG - None
+2024-03-31 13:20:56,010 - INFO - boxes is None! no detections
+2024-03-31 13:20:56,132 - DEBUG - None
+2024-03-31 13:20:56,132 - INFO - boxes is None! no detections
+2024-03-31 13:20:56,246 - DEBUG - None
+2024-03-31 13:20:56,246 - INFO - boxes is None! no detections
+2024-03-31 13:20:56,362 - DEBUG - None
+2024-03-31 13:20:56,363 - INFO - boxes is None! no detections
+2024-03-31 13:20:56,490 - DEBUG - None
+2024-03-31 13:20:56,491 - INFO - boxes is None! no detections
+2024-03-31 13:20:56,620 - DEBUG - tensor([286.6169, 194.2092, 379.9788, 246.3466], device='cuda:0')
+2024-03-31 13:20:56,643 - DEBUG - BBOX: (tensor(286.6169, device='cuda:0'), tensor(194.2092, device='cuda:0')), (tensor(379.9788, device='cuda:0'), tensor(246.3466, device='cuda:0'))
+2024-03-31 13:20:56,645 - DEBUG - center point:333, 220
+2024-03-31 13:20:56,725 - INFO - depth_point_in_meters_camera_coords is:0.11888513842811031
+2024-03-31 13:20:56,859 - DEBUG - tensor([286.2503, 180.4011, 391.9074, 246.9235], device='cuda:0')
+2024-03-31 13:20:56,880 - DEBUG - BBOX: (tensor(286.2503, device='cuda:0'), tensor(180.4011, device='cuda:0')), (tensor(391.9074, device='cuda:0'), tensor(246.9235, device='cuda:0'))
+2024-03-31 13:20:56,881 - DEBUG - center point:339, 213
+2024-03-31 13:20:56,964 - INFO - depth_point_in_meters_camera_coords is:0.23453263873855273
+2024-03-31 13:20:57,089 - DEBUG - tensor([286.2322, 180.6971, 392.0321, 246.9471], device='cuda:0')
+2024-03-31 13:20:57,113 - DEBUG - BBOX: (tensor(286.2322, device='cuda:0'), tensor(180.6971, device='cuda:0')), (tensor(392.0321, device='cuda:0'), tensor(246.9471, device='cuda:0'))
+2024-03-31 13:20:57,114 - DEBUG - center point:339, 213
+2024-03-31 13:20:57,199 - INFO - depth_point_in_meters_camera_coords is:0.23132149798795582
+2024-03-31 13:20:57,325 - DEBUG - tensor([286.2376, 178.0753, 392.2822, 246.9546], device='cuda:0')
+2024-03-31 13:20:57,347 - DEBUG - BBOX: (tensor(286.2376, device='cuda:0'), tensor(178.0753, device='cuda:0')), (tensor(392.2822, device='cuda:0'), tensor(246.9546, device='cuda:0'))
+2024-03-31 13:20:57,348 - DEBUG - center point:339, 212
+2024-03-31 13:20:57,429 - INFO - depth_point_in_meters_camera_coords is:0.276254861249278
+2024-03-31 13:20:57,553 - DEBUG - tensor([286.1461, 179.2640, 392.1360, 246.9852], device='cuda:0')
+2024-03-31 13:20:57,578 - DEBUG - BBOX: (tensor(286.1461, device='cuda:0'), tensor(179.2640, device='cuda:0')), (tensor(392.1360, device='cuda:0'), tensor(246.9852, device='cuda:0'))
+2024-03-31 13:20:57,579 - DEBUG - center point:339, 213
+2024-03-31 13:20:57,661 - INFO - depth_point_in_meters_camera_coords is:0.2269268305413425
+2024-03-31 13:20:57,785 - DEBUG - tensor([286.2787, 180.0588, 392.2396, 246.9766], device='cuda:0')
+2024-03-31 13:20:57,807 - DEBUG - BBOX: (tensor(286.2787, device='cuda:0'), tensor(180.0588, device='cuda:0')), (tensor(392.2396, device='cuda:0'), tensor(246.9766, device='cuda:0'))
+2024-03-31 13:20:57,809 - DEBUG - center point:339, 213
+2024-03-31 13:20:57,888 - INFO - depth_point_in_meters_camera_coords is:0.23050341329226892
+2024-03-31 13:20:58,012 - DEBUG - tensor([286.5508, 179.9594, 392.0391, 247.2776], device='cuda:0')
+2024-03-31 13:20:58,033 - DEBUG - BBOX: (tensor(286.5508, device='cuda:0'), tensor(179.9594, device='cuda:0')), (tensor(392.0391, device='cuda:0'), tensor(247.2776, device='cuda:0'))
+2024-03-31 13:20:58,034 - DEBUG - center point:339, 213
+2024-03-31 13:20:58,117 - INFO - depth_point_in_meters_camera_coords is:0.27505673707773287
+2024-03-31 13:20:58,240 - DEBUG - tensor([286.1910, 179.0615, 392.2055, 247.0528], device='cuda:0')
+2024-03-31 13:20:58,262 - DEBUG - BBOX: (tensor(286.1910, device='cuda:0'), tensor(179.0615, device='cuda:0')), (tensor(392.2055, device='cuda:0'), tensor(247.0528, device='cuda:0'))
+2024-03-31 13:20:58,264 - DEBUG - center point:339, 213
+2024-03-31 13:20:58,344 - INFO - depth_point_in_meters_camera_coords is:0.2559249713396033
+2024-03-31 13:20:58,473 - DEBUG - tensor([286.2007, 177.7986, 392.1601, 246.8413], device='cuda:0')
+2024-03-31 13:20:58,502 - DEBUG - BBOX: (tensor(286.2007, device='cuda:0'), tensor(177.7986, device='cuda:0')), (tensor(392.1601, device='cuda:0'), tensor(246.8413, device='cuda:0'))
+2024-03-31 13:20:58,503 - DEBUG - center point:339, 212
+2024-03-31 13:20:58,588 - INFO - depth_point_in_meters_camera_coords is:0.27859990603600937
+2024-03-31 13:20:58,714 - DEBUG - tensor([286.5255, 181.4663, 392.0355, 247.1927], device='cuda:0')
+2024-03-31 13:20:58,737 - DEBUG - BBOX: (tensor(286.5255, device='cuda:0'), tensor(181.4663, device='cuda:0')), (tensor(392.0355, device='cuda:0'), tensor(247.1927, device='cuda:0'))
+2024-03-31 13:20:58,738 - DEBUG - center point:339, 214
+2024-03-31 13:20:58,821 - INFO - depth_point_in_meters_camera_coords is:0.2532715504306058
+2024-03-31 13:20:58,946 - DEBUG - tensor([286.1950, 178.4985, 392.2011, 246.9848], device='cuda:0')
+2024-03-31 13:20:58,968 - DEBUG - BBOX: (tensor(286.1950, device='cuda:0'), tensor(178.4985, device='cuda:0')), (tensor(392.2011, device='cuda:0'), tensor(246.9848, device='cuda:0'))
+2024-03-31 13:20:58,970 - DEBUG - center point:339, 212
+2024-03-31 13:20:59,052 - INFO - depth_point_in_meters_camera_coords is:0.2550008616099755
+2024-03-31 13:20:59,176 - DEBUG - tensor([286.2781, 178.1376, 392.3596, 247.0966], device='cuda:0')
+2024-03-31 13:20:59,200 - DEBUG - BBOX: (tensor(286.2781, device='cuda:0'), tensor(178.1376, device='cuda:0')), (tensor(392.3596, device='cuda:0'), tensor(247.0966, device='cuda:0'))
+2024-03-31 13:20:59,201 - DEBUG - center point:339, 212
+2024-03-31 13:20:59,290 - INFO - depth_point_in_meters_camera_coords is:0.25777414651587605
+2024-03-31 13:20:59,416 - DEBUG - tensor([286.1771, 180.2682, 392.1964, 246.9228], device='cuda:0')
+2024-03-31 13:20:59,434 - DEBUG - BBOX: (tensor(286.1771, device='cuda:0'), tensor(180.2682, device='cuda:0')), (tensor(392.1964, device='cuda:0'), tensor(246.9228, device='cuda:0'))
+2024-03-31 13:20:59,436 - DEBUG - center point:339, 213
+2024-03-31 13:20:59,520 - INFO - depth_point_in_meters_camera_coords is:0.24556546101346613
+2024-03-31 13:20:59,646 - DEBUG - tensor([286.5288, 180.3574, 392.0713, 247.1588], device='cuda:0')
+2024-03-31 13:20:59,671 - DEBUG - BBOX: (tensor(286.5288, device='cuda:0'), tensor(180.3574, device='cuda:0')), (tensor(392.0713, device='cuda:0'), tensor(247.1588, device='cuda:0'))
+2024-03-31 13:20:59,672 - DEBUG - center point:339, 213
+2024-03-31 13:20:59,764 - INFO - depth_point_in_meters_camera_coords is:0.22046214195589225
+2024-03-31 13:20:59,898 - DEBUG - tensor([286.1977, 180.9330, 392.1755, 247.0390], device='cuda:0')
+2024-03-31 13:20:59,923 - DEBUG - BBOX: (tensor(286.1977, device='cuda:0'), tensor(180.9330, device='cuda:0')), (tensor(392.1755, device='cuda:0'), tensor(247.0390, device='cuda:0'))
+2024-03-31 13:20:59,925 - DEBUG - center point:339, 213
+2024-03-31 13:21:00,019 - INFO - depth_point_in_meters_camera_coords is:0.2384927890263498
+2024-03-31 13:21:00,154 - DEBUG - tensor([286.2203, 180.4215, 392.2104, 246.9131], device='cuda:0')
+2024-03-31 13:21:00,179 - DEBUG - BBOX: (tensor(286.2203, device='cuda:0'), tensor(180.4215, device='cuda:0')), (tensor(392.2104, device='cuda:0'), tensor(246.9131, device='cuda:0'))
+2024-03-31 13:21:00,180 - DEBUG - center point:339, 213
+2024-03-31 13:21:00,269 - INFO - depth_point_in_meters_camera_coords is:0.23123876296604673
+2024-03-31 13:21:00,393 - DEBUG - tensor([286.2031, 179.1798, 392.2628, 246.9216], device='cuda:0')
+2024-03-31 13:21:00,416 - DEBUG - BBOX: (tensor(286.2031, device='cuda:0'), tensor(179.1798, device='cuda:0')), (tensor(392.2628, device='cuda:0'), tensor(246.9216, device='cuda:0'))
+2024-03-31 13:21:00,417 - DEBUG - center point:339, 213
+2024-03-31 13:21:00,498 - INFO - depth_point_in_meters_camera_coords is:0.2647261649866899
+2024-03-31 13:21:00,630 - DEBUG - tensor([286.2170, 177.5128, 392.2034, 246.9728], device='cuda:0')
+2024-03-31 13:21:00,650 - DEBUG - BBOX: (tensor(286.2170, device='cuda:0'), tensor(177.5128, device='cuda:0')), (tensor(392.2034, device='cuda:0'), tensor(246.9728, device='cuda:0'))
+2024-03-31 13:21:00,651 - DEBUG - center point:339, 212
+2024-03-31 13:21:00,732 - INFO - depth_point_in_meters_camera_coords is:0.26302665782471496
+2024-03-31 13:21:00,859 - DEBUG - tensor([286.2139, 177.7029, 392.1871, 247.1347], device='cuda:0')
+2024-03-31 13:21:00,881 - DEBUG - BBOX: (tensor(286.2139, device='cuda:0'), tensor(177.7029, device='cuda:0')), (tensor(392.1871, device='cuda:0'), tensor(247.1347, device='cuda:0'))
+2024-03-31 13:21:00,882 - DEBUG - center point:339, 212
+2024-03-31 13:21:00,963 - INFO - depth_point_in_meters_camera_coords is:0.27144362474481265
+2024-03-31 13:21:01,089 - DEBUG - tensor([286.1987, 178.8381, 392.1536, 246.8034], device='cuda:0')
+2024-03-31 13:21:01,112 - DEBUG - BBOX: (tensor(286.1987, device='cuda:0'), tensor(178.8381, device='cuda:0')), (tensor(392.1536, device='cuda:0'), tensor(246.8034, device='cuda:0'))
+2024-03-31 13:21:01,113 - DEBUG - center point:339, 212
+2024-03-31 13:21:01,199 - INFO - depth_point_in_meters_camera_coords is:0.28216382360706727
+2024-03-31 13:21:01,331 - DEBUG - tensor([286.2223, 179.0187, 392.1506, 246.9471], device='cuda:0')
+2024-03-31 13:21:01,356 - DEBUG - BBOX: (tensor(286.2223, device='cuda:0'), tensor(179.0187, device='cuda:0')), (tensor(392.1506, device='cuda:0'), tensor(246.9471, device='cuda:0'))
+2024-03-31 13:21:01,358 - DEBUG - center point:339, 212
+2024-03-31 13:21:01,451 - INFO - depth_point_in_meters_camera_coords is:0.26479984789465866
+2024-03-31 13:21:01,583 - DEBUG - tensor([286.2435, 179.2789, 392.2635, 246.9695], device='cuda:0')
+2024-03-31 13:21:01,609 - DEBUG - BBOX: (tensor(286.2435, device='cuda:0'), tensor(179.2789, device='cuda:0')), (tensor(392.2635, device='cuda:0'), tensor(246.9695, device='cuda:0'))
+2024-03-31 13:21:01,610 - DEBUG - center point:339, 213
+2024-03-31 13:21:01,697 - INFO - depth_point_in_meters_camera_coords is:0.2688825166411698
+2024-03-31 13:21:01,835 - DEBUG - tensor([286.6070, 181.1818, 391.9240, 247.0018], device='cuda:0')
+2024-03-31 13:21:01,859 - DEBUG - BBOX: (tensor(286.6070, device='cuda:0'), tensor(181.1818, device='cuda:0')), (tensor(391.9240, device='cuda:0'), tensor(247.0018, device='cuda:0'))
+2024-03-31 13:21:01,861 - DEBUG - center point:339, 214
+2024-03-31 13:21:01,948 - INFO - depth_point_in_meters_camera_coords is:0.2738939412496984
+2024-03-31 13:21:02,085 - DEBUG - tensor([286.2620, 182.1728, 391.7309, 246.8294], device='cuda:0')
+2024-03-31 13:21:02,108 - DEBUG - BBOX: (tensor(286.2620, device='cuda:0'), tensor(182.1728, device='cuda:0')), (tensor(391.7309, device='cuda:0'), tensor(246.8294, device='cuda:0'))
+2024-03-31 13:21:02,109 - DEBUG - center point:338, 214
+2024-03-31 13:21:02,197 - INFO - depth_point_in_meters_camera_coords is:0.21317867112345992
+2024-03-31 13:21:02,332 - DEBUG - tensor([286.1334, 181.1160, 391.7007, 246.7040], device='cuda:0')
+2024-03-31 13:21:02,352 - DEBUG - BBOX: (tensor(286.1334, device='cuda:0'), tensor(181.1160, device='cuda:0')), (tensor(391.7007, device='cuda:0'), tensor(246.7040, device='cuda:0'))
+2024-03-31 13:21:02,352 - DEBUG - center point:338, 213
+2024-03-31 13:21:02,431 - INFO - depth_point_in_meters_camera_coords is:0.23289346434175967
+2024-03-31 13:21:02,554 - DEBUG - tensor([286.3773, 180.8499, 391.6445, 246.7349], device='cuda:0')
+2024-03-31 13:21:02,575 - DEBUG - BBOX: (tensor(286.3773, device='cuda:0'), tensor(180.8499, device='cuda:0')), (tensor(391.6445, device='cuda:0'), tensor(246.7349, device='cuda:0'))
+2024-03-31 13:21:02,576 - DEBUG - center point:339, 213
+2024-03-31 13:21:02,665 - INFO - depth_point_in_meters_camera_coords is:0.253755342780302
+2024-03-31 13:21:02,788 - DEBUG - tensor([286.5461, 176.3602, 391.7479, 246.7244], device='cuda:0')
+2024-03-31 13:21:02,809 - DEBUG - BBOX: (tensor(286.5461, device='cuda:0'), tensor(176.3602, device='cuda:0')), (tensor(391.7479, device='cuda:0'), tensor(246.7244, device='cuda:0'))
+2024-03-31 13:21:02,810 - DEBUG - center point:339, 211
+2024-03-31 13:21:02,890 - INFO - depth_point_in_meters_camera_coords is:0.27851110078394414
+2024-03-31 13:21:03,016 - DEBUG - tensor([286.8582, 181.1037, 391.2558, 246.1811], device='cuda:0')
+2024-03-31 13:21:03,039 - DEBUG - BBOX: (tensor(286.8582, device='cuda:0'), tensor(181.1037, device='cuda:0')), (tensor(391.2558, device='cuda:0'), tensor(246.1811, device='cuda:0'))
+2024-03-31 13:21:03,040 - DEBUG - center point:339, 213
+2024-03-31 13:21:03,121 - INFO - depth_point_in_meters_camera_coords is:0.16865630008901158
+2024-03-31 13:21:03,251 - DEBUG - tensor([289.6087, 192.7779, 385.5047, 240.8916], device='cuda:0')
+2024-03-31 13:21:03,272 - DEBUG - BBOX: (tensor(289.6087, device='cuda:0'), tensor(192.7779, device='cuda:0')), (tensor(385.5047, device='cuda:0'), tensor(240.8916, device='cuda:0'))
+2024-03-31 13:21:03,273 - DEBUG - center point:337, 216
+2024-03-31 13:21:03,357 - INFO - depth_point_in_meters_camera_coords is:0.3755054434761405
+2024-03-31 13:21:03,482 - DEBUG - tensor([288.5176, 183.4215, 372.0944, 233.0009], device='cuda:0')
+2024-03-31 13:21:03,504 - DEBUG - BBOX: (tensor(288.5176, device='cuda:0'), tensor(183.4215, device='cuda:0')), (tensor(372.0944, device='cuda:0'), tensor(233.0009, device='cuda:0'))
+2024-03-31 13:21:03,506 - DEBUG - center point:330, 208
+2024-03-31 13:21:03,584 - INFO - depth_point_in_meters_camera_coords is:0.4322362027588436
+2024-03-31 13:21:03,702 - DEBUG - None
+2024-03-31 13:21:03,703 - INFO - boxes is None! no detections
+2024-03-31 13:21:03,817 - DEBUG - None
+2024-03-31 13:21:03,818 - INFO - boxes is None! no detections
+2024-03-31 13:21:03,938 - DEBUG - None
+2024-03-31 13:21:03,939 - INFO - boxes is None! no detections
+2024-03-31 13:21:04,063 - DEBUG - None
+2024-03-31 13:21:04,063 - INFO - boxes is None! no detections
+2024-03-31 13:21:04,178 - DEBUG - None
+2024-03-31 13:21:04,179 - INFO - boxes is None! no detections
+2024-03-31 13:21:04,298 - DEBUG - None
+2024-03-31 13:21:04,299 - INFO - boxes is None! no detections
+2024-03-31 13:21:04,422 - DEBUG - tensor([292.4681, 174.4449, 356.3921, 220.9284], device='cuda:0')
+2024-03-31 13:21:04,443 - DEBUG - BBOX: (tensor(292.4681, device='cuda:0'), tensor(174.4449, device='cuda:0')), (tensor(356.3921, device='cuda:0'), tensor(220.9284, device='cuda:0'))
+2024-03-31 13:21:04,444 - DEBUG - center point:324, 197
+2024-03-31 13:21:04,522 - INFO - depth_point_in_meters_camera_coords is:0.4563940124142876
+2024-03-31 13:21:04,649 - DEBUG - tensor([296.4160, 175.4005, 357.3100, 220.4689], device='cuda:0')
+2024-03-31 13:21:04,671 - DEBUG - BBOX: (tensor(296.4160, device='cuda:0'), tensor(175.4005, device='cuda:0')), (tensor(357.3100, device='cuda:0'), tensor(220.4689, device='cuda:0'))
+2024-03-31 13:21:04,672 - DEBUG - center point:326, 197
+2024-03-31 13:21:04,760 - INFO - depth_point_in_meters_camera_coords is:0.5073133549328971
+2024-03-31 13:21:04,890 - DEBUG - tensor([302.6931, 184.9685, 358.1567, 218.5468], device='cuda:0')
+2024-03-31 13:21:04,914 - DEBUG - BBOX: (tensor(302.6931, device='cuda:0'), tensor(184.9685, device='cuda:0')), (tensor(358.1567, device='cuda:0'), tensor(218.5468, device='cuda:0'))
+2024-03-31 13:21:04,916 - DEBUG - center point:330, 201
+2024-03-31 13:21:05,006 - INFO - depth_point_in_meters_camera_coords is:0.6166239766812457
+2024-03-31 13:21:05,143 - DEBUG - tensor([302.0443, 176.1062, 358.7383, 218.0858], device='cuda:0')
+2024-03-31 13:21:05,166 - DEBUG - BBOX: (tensor(302.0443, device='cuda:0'), tensor(176.1062, device='cuda:0')), (tensor(358.7383, device='cuda:0'), tensor(218.0858, device='cuda:0'))
+2024-03-31 13:21:05,168 - DEBUG - center point:330, 197
+2024-03-31 13:21:05,254 - INFO - depth_point_in_meters_camera_coords is:0.6248466946965103
+2024-03-31 13:21:05,388 - DEBUG - tensor([302.7336, 180.9824, 358.6949, 218.0248], device='cuda:0')
+2024-03-31 13:21:05,411 - DEBUG - BBOX: (tensor(302.7336, device='cuda:0'), tensor(180.9824, device='cuda:0')), (tensor(358.6949, device='cuda:0'), tensor(218.0248, device='cuda:0'))
+2024-03-31 13:21:05,414 - DEBUG - center point:330, 199
+2024-03-31 13:21:05,505 - INFO - depth_point_in_meters_camera_coords is:0.6205019748622727
+2024-03-31 13:21:05,644 - DEBUG - tensor([301.5099, 174.8163, 358.7258, 218.2044], device='cuda:0')
+2024-03-31 13:21:05,669 - DEBUG - BBOX: (tensor(301.5099, device='cuda:0'), tensor(174.8163, device='cuda:0')), (tensor(358.7258, device='cuda:0'), tensor(218.2044, device='cuda:0'))
+2024-03-31 13:21:05,670 - DEBUG - center point:330, 196
+2024-03-31 13:21:05,755 - INFO - depth_point_in_meters_camera_coords is:0.634601965310867
+2024-03-31 13:21:05,877 - DEBUG - None
+2024-03-31 13:21:05,878 - INFO - boxes is None! no detections
+2024-03-31 13:21:05,999 - DEBUG - None
+2024-03-31 13:21:05,999 - INFO - boxes is None! no detections
+2024-03-31 13:21:06,109 - DEBUG - None
+2024-03-31 13:21:06,110 - INFO - boxes is None! no detections
+2024-03-31 13:21:06,226 - DEBUG - None
+2024-03-31 13:21:06,227 - INFO - boxes is None! no detections
+2024-03-31 13:21:06,340 - DEBUG - None
+2024-03-31 13:21:06,340 - INFO - boxes is None! no detections
+2024-03-31 13:21:06,455 - DEBUG - None
+2024-03-31 13:21:06,456 - INFO - boxes is None! no detections
+2024-03-31 13:21:06,566 - DEBUG - None
+2024-03-31 13:21:06,567 - INFO - boxes is None! no detections
+2024-03-31 13:21:06,676 - DEBUG - None
+2024-03-31 13:21:06,677 - INFO - boxes is None! no detections
+2024-03-31 13:21:06,802 - DEBUG - tensor([301.9020, 176.3553, 358.4758, 217.8307], device='cuda:0')
+2024-03-31 13:21:06,822 - DEBUG - BBOX: (tensor(301.9020, device='cuda:0'), tensor(176.3553, device='cuda:0')), (tensor(358.4758, device='cuda:0'), tensor(217.8307, device='cuda:0'))
+2024-03-31 13:21:06,823 - DEBUG - center point:330, 197
+2024-03-31 13:21:06,900 - INFO - depth_point_in_meters_camera_coords is:0.6345051759909741
+2024-03-31 13:21:07,016 - DEBUG - None
+2024-03-31 13:21:07,017 - INFO - boxes is None! no detections
+2024-03-31 13:21:07,133 - DEBUG - None
+2024-03-31 13:21:07,133 - INFO - boxes is None! no detections
+2024-03-31 13:21:07,242 - DEBUG - None
+2024-03-31 13:21:07,243 - INFO - boxes is None! no detections
+2024-03-31 13:21:07,356 - DEBUG - None
+2024-03-31 13:21:07,356 - INFO - boxes is None! no detections
+2024-03-31 13:21:07,471 - DEBUG - None
+2024-03-31 13:21:07,471 - INFO - boxes is None! no detections
+2024-03-31 13:21:07,583 - DEBUG - None
+2024-03-31 13:21:07,583 - INFO - boxes is None! no detections
+2024-03-31 13:21:07,700 - DEBUG - None
+2024-03-31 13:21:07,701 - INFO - boxes is None! no detections
+2024-03-31 13:21:07,809 - DEBUG - None
+2024-03-31 13:21:07,810 - INFO - boxes is None! no detections
+2024-03-31 13:21:07,919 - DEBUG - None
+2024-03-31 13:21:07,919 - INFO - boxes is None! no detections
+2024-03-31 13:21:08,040 - DEBUG - None
+2024-03-31 13:21:08,041 - INFO - boxes is None! no detections
+2024-03-31 13:21:08,154 - DEBUG - None
+2024-03-31 13:21:08,154 - INFO - boxes is None! no detections
+2024-03-31 13:21:08,268 - DEBUG - None
+2024-03-31 13:21:08,269 - INFO - boxes is None! no detections
+2024-03-31 13:21:08,377 - DEBUG - None
+2024-03-31 13:21:08,378 - INFO - boxes is None! no detections
+2024-03-31 13:21:08,492 - DEBUG - None
+2024-03-31 13:21:08,493 - INFO - boxes is None! no detections
+2024-03-31 13:21:08,607 - DEBUG - None
+2024-03-31 13:21:08,607 - INFO - boxes is None! no detections
+2024-03-31 13:21:08,728 - DEBUG - None
+2024-03-31 13:21:08,729 - INFO - boxes is None! no detections
+2024-03-31 13:21:08,845 - DEBUG - None
+2024-03-31 13:21:08,846 - INFO - boxes is None! no detections
+2024-03-31 13:21:08,970 - DEBUG - None
+2024-03-31 13:21:08,970 - INFO - boxes is None! no detections
+2024-03-31 13:21:09,090 - DEBUG - None
+2024-03-31 13:21:09,091 - INFO - boxes is None! no detections
+2024-03-31 13:21:09,212 - DEBUG - None
+2024-03-31 13:21:09,212 - INFO - boxes is None! no detections
+2024-03-31 13:21:09,333 - DEBUG - None
+2024-03-31 13:21:09,334 - INFO - boxes is None! no detections
+2024-03-31 13:21:09,447 - DEBUG - None
+2024-03-31 13:21:09,448 - INFO - boxes is None! no detections
+2024-03-31 13:21:09,565 - DEBUG - None
+2024-03-31 13:21:09,566 - INFO - boxes is None! no detections
+2024-03-31 13:21:09,679 - DEBUG - None
+2024-03-31 13:21:09,680 - INFO - boxes is None! no detections
+2024-03-31 13:21:09,797 - DEBUG - None
+2024-03-31 13:21:09,797 - INFO - boxes is None! no detections
+2024-03-31 13:21:09,906 - DEBUG - None
+2024-03-31 13:21:09,907 - INFO - boxes is None! no detections
+2024-03-31 13:21:10,020 - DEBUG - None
+2024-03-31 13:21:10,020 - INFO - boxes is None! no detections
+2024-03-31 13:21:10,139 - DEBUG - None
+2024-03-31 13:21:10,140 - INFO - boxes is None! no detections
+2024-03-31 13:21:10,265 - DEBUG - None
+2024-03-31 13:21:10,266 - INFO - boxes is None! no detections
+2024-03-31 13:21:10,384 - DEBUG - None
+2024-03-31 13:21:10,385 - INFO - boxes is None! no detections
+2024-03-31 13:21:10,504 - DEBUG - None
+2024-03-31 13:21:10,504 - INFO - boxes is None! no detections
+2024-03-31 13:21:10,618 - DEBUG - None
+2024-03-31 13:21:10,618 - INFO - boxes is None! no detections
+2024-03-31 13:21:10,733 - DEBUG - None
+2024-03-31 13:21:10,734 - INFO - boxes is None! no detections
+2024-03-31 13:21:10,841 - DEBUG - None
+2024-03-31 13:21:10,842 - INFO - boxes is None! no detections
+2024-03-31 13:21:10,959 - DEBUG - None
+2024-03-31 13:21:10,959 - INFO - boxes is None! no detections
+2024-03-31 13:21:11,079 - DEBUG - None
+2024-03-31 13:21:11,079 - INFO - boxes is None! no detections
+2024-03-31 13:21:11,186 - DEBUG - None
+2024-03-31 13:21:11,186 - INFO - boxes is None! no detections
+2024-03-31 13:21:11,301 - DEBUG - None
+2024-03-31 13:21:11,301 - INFO - boxes is None! no detections
+2024-03-31 13:21:11,410 - DEBUG - None
+2024-03-31 13:21:11,411 - INFO - boxes is None! no detections
+2024-03-31 13:21:11,526 - DEBUG - None
+2024-03-31 13:21:11,526 - INFO - boxes is None! no detections
+2024-03-31 13:21:11,642 - DEBUG - None
+2024-03-31 13:21:11,643 - INFO - boxes is None! no detections
+2024-03-31 13:21:11,753 - DEBUG - None
+2024-03-31 13:21:11,753 - INFO - boxes is None! no detections
+2024-03-31 13:21:11,869 - DEBUG - None
+2024-03-31 13:21:11,869 - INFO - boxes is None! no detections
+2024-03-31 13:21:11,994 - DEBUG - None
+2024-03-31 13:21:11,995 - INFO - boxes is None! no detections
+2024-03-31 13:21:12,115 - DEBUG - None
+2024-03-31 13:21:12,116 - INFO - boxes is None! no detections
+2024-03-31 13:21:12,243 - DEBUG - None
+2024-03-31 13:21:12,243 - INFO - boxes is None! no detections
+2024-03-31 13:21:12,367 - DEBUG - None
+2024-03-31 13:21:12,368 - INFO - boxes is None! no detections
+2024-03-31 13:21:12,486 - DEBUG - None
+2024-03-31 13:21:12,488 - INFO - boxes is None! no detections
+2024-03-31 13:21:12,611 - DEBUG - None
+2024-03-31 13:21:12,611 - INFO - boxes is None! no detections
+2024-03-31 13:21:12,740 - DEBUG - None
+2024-03-31 13:21:12,740 - INFO - boxes is None! no detections
+2024-03-31 13:21:12,867 - DEBUG - None
+2024-03-31 13:21:12,868 - INFO - boxes is None! no detections
+2024-03-31 13:21:12,988 - DEBUG - None
+2024-03-31 13:21:12,988 - INFO - boxes is None! no detections
+2024-03-31 13:21:13,115 - DEBUG - None
+2024-03-31 13:21:13,116 - INFO - boxes is None! no detections
+2024-03-31 13:21:13,235 - DEBUG - None
+2024-03-31 13:21:13,236 - INFO - boxes is None! no detections
+2024-03-31 13:21:13,348 - DEBUG - None
+2024-03-31 13:21:13,348 - INFO - boxes is None! no detections
+2024-03-31 13:21:13,471 - DEBUG - None
+2024-03-31 13:21:13,472 - INFO - boxes is None! no detections
+2024-03-31 13:21:13,585 - DEBUG - None
+2024-03-31 13:21:13,586 - INFO - boxes is None! no detections
+2024-03-31 13:21:13,699 - DEBUG - None
+2024-03-31 13:21:13,700 - INFO - boxes is None! no detections
+2024-03-31 13:21:13,809 - DEBUG - None
+2024-03-31 13:21:13,810 - INFO - boxes is None! no detections
+2024-03-31 13:21:13,922 - DEBUG - None
+2024-03-31 13:21:13,923 - INFO - boxes is None! no detections
+2024-03-31 13:21:14,035 - DEBUG - None
+2024-03-31 13:21:14,036 - INFO - boxes is None! no detections
+2024-03-31 13:21:14,144 - DEBUG - None
+2024-03-31 13:21:14,145 - INFO - boxes is None! no detections
+2024-03-31 13:21:14,255 - DEBUG - None
+2024-03-31 13:21:14,256 - INFO - boxes is None! no detections
+2024-03-31 13:21:14,371 - DEBUG - None
+2024-03-31 13:21:14,372 - INFO - boxes is None! no detections
+2024-03-31 13:21:14,490 - DEBUG - None
+2024-03-31 13:21:14,490 - INFO - boxes is None! no detections
+2024-03-31 13:21:14,609 - DEBUG - None
+2024-03-31 13:21:14,610 - INFO - boxes is None! no detections
+2024-03-31 13:21:14,732 - DEBUG - None
+2024-03-31 13:21:14,733 - INFO - boxes is None! no detections
+2024-03-31 13:21:14,851 - DEBUG - None
+2024-03-31 13:21:14,852 - INFO - boxes is None! no detections
+2024-03-31 13:21:14,969 - DEBUG - None
+2024-03-31 13:21:14,970 - INFO - boxes is None! no detections
+2024-03-31 13:21:15,080 - DEBUG - None
+2024-03-31 13:21:15,081 - INFO - boxes is None! no detections
+2024-03-31 13:21:15,191 - DEBUG - None
+2024-03-31 13:21:15,192 - INFO - boxes is None! no detections
+2024-03-31 13:21:15,308 - DEBUG - None
+2024-03-31 13:21:15,308 - INFO - boxes is None! no detections
+2024-03-31 13:21:15,423 - DEBUG - None
+2024-03-31 13:21:15,424 - INFO - boxes is None! no detections
+2024-03-31 13:21:15,540 - DEBUG - None
+2024-03-31 13:21:15,540 - INFO - boxes is None! no detections
+2024-03-31 13:21:15,655 - DEBUG - None
+2024-03-31 13:21:15,655 - INFO - boxes is None! no detections
+2024-03-31 13:21:15,768 - DEBUG - None
+2024-03-31 13:21:15,769 - INFO - boxes is None! no detections
+2024-03-31 13:21:15,882 - DEBUG - None
+2024-03-31 13:21:15,882 - INFO - boxes is None! no detections
+2024-03-31 13:21:15,988 - DEBUG - None
+2024-03-31 13:21:15,989 - INFO - boxes is None! no detections
+2024-03-31 13:21:16,103 - DEBUG - None
+2024-03-31 13:21:16,104 - INFO - boxes is None! no detections
+2024-03-31 13:21:16,212 - DEBUG - None
+2024-03-31 13:21:16,213 - INFO - boxes is None! no detections
+2024-03-31 13:21:16,321 - DEBUG - None
+2024-03-31 13:21:16,321 - INFO - boxes is None! no detections
+2024-03-31 13:21:16,434 - DEBUG - None
+2024-03-31 13:21:16,434 - INFO - boxes is None! no detections
+2024-03-31 13:21:16,545 - DEBUG - None
+2024-03-31 13:21:16,545 - INFO - boxes is None! no detections
+2024-03-31 13:21:16,658 - DEBUG - None
+2024-03-31 13:21:16,658 - INFO - boxes is None! no detections
+2024-03-31 13:21:16,790 - DEBUG - None
+2024-03-31 13:21:16,791 - INFO - boxes is None! no detections
+2024-03-31 13:21:16,912 - DEBUG - None
+2024-03-31 13:21:16,912 - INFO - boxes is None! no detections
+2024-03-31 13:21:17,030 - DEBUG - None
+2024-03-31 13:21:17,030 - INFO - boxes is None! no detections
+2024-03-31 13:21:17,146 - DEBUG - None
+2024-03-31 13:21:17,146 - INFO - boxes is None! no detections
+2024-03-31 13:21:17,269 - DEBUG - None
+2024-03-31 13:21:17,269 - INFO - boxes is None! no detections
+2024-03-31 13:21:17,384 - DEBUG - None
+2024-03-31 13:21:17,384 - INFO - boxes is None! no detections
+2024-03-31 13:21:17,503 - DEBUG - None
+2024-03-31 13:21:17,504 - INFO - boxes is None! no detections
+2024-03-31 13:21:17,617 - DEBUG - None
+2024-03-31 13:21:17,618 - INFO - boxes is None! no detections
+2024-03-31 13:21:17,738 - DEBUG - None
+2024-03-31 13:21:17,739 - INFO - boxes is None! no detections
+2024-03-31 13:21:17,859 - DEBUG - None
+2024-03-31 13:21:17,859 - INFO - boxes is None! no detections
+2024-03-31 13:21:17,972 - DEBUG - None
+2024-03-31 13:21:17,972 - INFO - boxes is None! no detections
+2024-03-31 13:21:18,087 - DEBUG - None
+2024-03-31 13:21:18,088 - INFO - boxes is None! no detections
+2024-03-31 13:21:18,208 - DEBUG - tensor([301.4582, 174.3608, 358.2595, 217.6858], device='cuda:0')
+2024-03-31 13:21:18,228 - DEBUG - BBOX: (tensor(301.4582, device='cuda:0'), tensor(174.3608, device='cuda:0')), (tensor(358.2595, device='cuda:0'), tensor(217.6858, device='cuda:0'))
+2024-03-31 13:21:18,229 - DEBUG - center point:329, 196
+2024-03-31 13:21:18,310 - INFO - depth_point_in_meters_camera_coords is:0.6228275250170554
+2024-03-31 13:21:18,429 - DEBUG - tensor([301.5015, 173.8960, 358.0721, 217.6217], device='cuda:0')
+2024-03-31 13:21:18,447 - DEBUG - BBOX: (tensor(301.5015, device='cuda:0'), tensor(173.8960, device='cuda:0')), (tensor(358.0721, device='cuda:0'), tensor(217.6217, device='cuda:0'))
+2024-03-31 13:21:18,448 - DEBUG - center point:329, 195
+2024-03-31 13:21:18,529 - INFO - depth_point_in_meters_camera_coords is:0.6215626826239653
+2024-03-31 13:21:18,645 - DEBUG - None
+2024-03-31 13:21:18,646 - INFO - boxes is None! no detections
+2024-03-31 13:21:18,755 - DEBUG - None
+2024-03-31 13:21:18,755 - INFO - boxes is None! no detections
+2024-03-31 13:21:18,871 - DEBUG - None
+2024-03-31 13:21:18,872 - INFO - boxes is None! no detections
+2024-03-31 13:21:18,980 - DEBUG - None
+2024-03-31 13:21:18,980 - INFO - boxes is None! no detections
+2024-03-31 13:21:19,105 - DEBUG - tensor([301.5020, 174.1052, 358.2081, 217.6552], device='cuda:0')
+2024-03-31 13:21:19,127 - DEBUG - BBOX: (tensor(301.5020, device='cuda:0'), tensor(174.1052, device='cuda:0')), (tensor(358.2081, device='cuda:0'), tensor(217.6552, device='cuda:0'))
+2024-03-31 13:21:19,128 - DEBUG - center point:329, 195
+2024-03-31 13:21:19,207 - INFO - depth_point_in_meters_camera_coords is:0.6253088032733164
+2024-03-31 13:21:19,318 - DEBUG - None
+2024-03-31 13:21:19,319 - INFO - boxes is None! no detections
+2024-03-31 13:21:19,431 - DEBUG - None
+2024-03-31 13:21:19,431 - INFO - boxes is None! no detections
+2024-03-31 13:21:19,541 - DEBUG - None
+2024-03-31 13:21:19,542 - INFO - boxes is None! no detections
+2024-03-31 13:21:19,658 - DEBUG - tensor([301.5379, 174.1575, 358.0279, 217.6158], device='cuda:0')
+2024-03-31 13:21:19,680 - DEBUG - BBOX: (tensor(301.5379, device='cuda:0'), tensor(174.1575, device='cuda:0')), (tensor(358.0279, device='cuda:0'), tensor(217.6158, device='cuda:0'))
+2024-03-31 13:21:19,681 - DEBUG - center point:329, 195
+2024-03-31 13:21:19,758 - INFO - depth_point_in_meters_camera_coords is:0.6251161755597665
+2024-03-31 13:21:19,877 - DEBUG - None
+2024-03-31 13:21:19,878 - INFO - boxes is None! no detections
+2024-03-31 13:21:19,985 - DEBUG - None
+2024-03-31 13:21:19,985 - INFO - boxes is None! no detections
+2024-03-31 13:21:20,097 - DEBUG - None
+2024-03-31 13:21:20,098 - INFO - boxes is None! no detections
+2024-03-31 13:21:20,208 - DEBUG - None
+2024-03-31 13:21:20,208 - INFO - boxes is None! no detections
+2024-03-31 13:21:20,320 - DEBUG - None
+2024-03-31 13:21:20,320 - INFO - boxes is None! no detections
+2024-03-31 13:21:20,437 - DEBUG - None
+2024-03-31 13:21:20,438 - INFO - boxes is None! no detections
+2024-03-31 13:21:20,560 - DEBUG - tensor([301.8621, 175.5460, 358.3915, 217.8113], device='cuda:0')
+2024-03-31 13:21:20,587 - DEBUG - BBOX: (tensor(301.8621, device='cuda:0'), tensor(175.5460, device='cuda:0')), (tensor(358.3915, device='cuda:0'), tensor(217.8113, device='cuda:0'))
+2024-03-31 13:21:20,588 - DEBUG - center point:330, 196
+2024-03-31 13:21:20,677 - INFO - depth_point_in_meters_camera_coords is:0.6302793104067678
+2024-03-31 13:21:20,802 - DEBUG - None
+2024-03-31 13:21:20,803 - INFO - boxes is None! no detections
+2024-03-31 13:21:20,916 - DEBUG - None
+2024-03-31 13:21:20,916 - INFO - boxes is None! no detections
+2024-03-31 13:21:21,048 - DEBUG - tensor([302.2607, 178.9772, 358.3652, 217.7545], device='cuda:0')
+2024-03-31 13:21:21,072 - DEBUG - BBOX: (tensor(302.2607, device='cuda:0'), tensor(178.9772, device='cuda:0')), (tensor(358.3652, device='cuda:0'), tensor(217.7545, device='cuda:0'))
+2024-03-31 13:21:21,074 - DEBUG - center point:330, 198
+2024-03-31 13:21:21,161 - INFO - depth_point_in_meters_camera_coords is:0.6426548400665343
+2024-03-31 13:21:21,283 - DEBUG - None
+2024-03-31 13:21:21,284 - INFO - boxes is None! no detections
+2024-03-31 13:21:21,409 - DEBUG - tensor([301.4300, 174.1950, 358.0988, 217.6665], device='cuda:0')
+2024-03-31 13:21:21,430 - DEBUG - BBOX: (tensor(301.4300, device='cuda:0'), tensor(174.1950, device='cuda:0')), (tensor(358.0988, device='cuda:0'), tensor(217.6665, device='cuda:0'))
+2024-03-31 13:21:21,431 - DEBUG - center point:329, 195
+2024-03-31 13:21:21,509 - INFO - depth_point_in_meters_camera_coords is:0.6060020272581702
+2024-03-31 13:21:21,621 - DEBUG - None
+2024-03-31 13:21:21,621 - INFO - boxes is None! no detections
+2024-03-31 13:21:21,747 - DEBUG - tensor([301.4350, 174.9882, 358.0772, 217.7132], device='cuda:0')
+2024-03-31 13:21:21,764 - DEBUG - BBOX: (tensor(301.4350, device='cuda:0'), tensor(174.9882, device='cuda:0')), (tensor(358.0772, device='cuda:0'), tensor(217.7132, device='cuda:0'))
+2024-03-31 13:21:21,766 - DEBUG - center point:329, 196
+2024-03-31 13:21:21,855 - INFO - depth_point_in_meters_camera_coords is:0.6103143062492018
+2024-03-31 13:21:21,975 - DEBUG - None
+2024-03-31 13:21:21,976 - INFO - boxes is None! no detections
+2024-03-31 13:21:22,090 - DEBUG - None
+2024-03-31 13:21:22,090 - INFO - boxes is None! no detections
+2024-03-31 13:21:22,219 - DEBUG - tensor([301.4635, 173.9251, 358.1254, 217.6328], device='cuda:0')
+2024-03-31 13:21:22,241 - DEBUG - BBOX: (tensor(301.4635, device='cuda:0'), tensor(173.9251, device='cuda:0')), (tensor(358.1254, device='cuda:0'), tensor(217.6328, device='cuda:0'))
+2024-03-31 13:21:22,242 - DEBUG - center point:329, 195
+2024-03-31 13:21:22,319 - INFO - depth_point_in_meters_camera_coords is:0.6147010543021315
+2024-03-31 13:21:22,435 - DEBUG - None
+2024-03-31 13:21:22,435 - INFO - boxes is None! no detections
+2024-03-31 13:21:22,550 - DEBUG - tensor([301.2642, 174.1431, 358.0905, 217.6795], device='cuda:0')
+2024-03-31 13:21:22,572 - DEBUG - BBOX: (tensor(301.2642, device='cuda:0'), tensor(174.1431, device='cuda:0')), (tensor(358.0905, device='cuda:0'), tensor(217.6795, device='cuda:0'))
+2024-03-31 13:21:22,573 - DEBUG - center point:329, 195
+2024-03-31 13:21:22,652 - INFO - depth_point_in_meters_camera_coords is:0.6013436889439375
+2024-03-31 13:21:22,765 - DEBUG - None
+2024-03-31 13:21:22,766 - INFO - boxes is None! no detections
+2024-03-31 13:21:22,876 - DEBUG - None
+2024-03-31 13:21:22,876 - INFO - boxes is None! no detections
+2024-03-31 13:21:22,983 - DEBUG - None
+2024-03-31 13:21:22,984 - INFO - boxes is None! no detections
+2024-03-31 13:21:23,100 - DEBUG - None
+2024-03-31 13:21:23,100 - INFO - boxes is None! no detections
+2024-03-31 13:21:23,210 - DEBUG - None
+2024-03-31 13:21:23,210 - INFO - boxes is None! no detections
+2024-03-31 13:21:23,329 - DEBUG - None
+2024-03-31 13:21:23,329 - INFO - boxes is None! no detections
+2024-03-31 13:21:23,444 - DEBUG - None
+2024-03-31 13:21:23,444 - INFO - boxes is None! no detections
+2024-03-31 13:21:23,561 - DEBUG - None
+2024-03-31 13:21:23,561 - INFO - boxes is None! no detections
+2024-03-31 13:21:23,678 - DEBUG - None
+2024-03-31 13:21:23,679 - INFO - boxes is None! no detections
+2024-03-31 13:21:23,797 - DEBUG - None
+2024-03-31 13:21:23,798 - INFO - boxes is None! no detections
+2024-03-31 13:21:23,920 - DEBUG - None
+2024-03-31 13:21:23,920 - INFO - boxes is None! no detections
+2024-03-31 13:21:24,042 - DEBUG - None
+2024-03-31 13:21:24,042 - INFO - boxes is None! no detections
+2024-03-31 13:21:24,164 - DEBUG - None
+2024-03-31 13:21:24,165 - INFO - boxes is None! no detections
+2024-03-31 13:21:24,290 - DEBUG - None
+2024-03-31 13:21:24,290 - INFO - boxes is None! no detections
+2024-03-31 13:21:24,413 - DEBUG - None
+2024-03-31 13:21:24,413 - INFO - boxes is None! no detections
+2024-03-31 13:21:24,536 - DEBUG - None
+2024-03-31 13:21:24,537 - INFO - boxes is None! no detections
+2024-03-31 13:21:24,657 - DEBUG - None
+2024-03-31 13:21:24,658 - INFO - boxes is None! no detections
+2024-03-31 13:21:24,778 - DEBUG - None
+2024-03-31 13:21:24,778 - INFO - boxes is None! no detections
+2024-03-31 13:21:24,898 - DEBUG - None
+2024-03-31 13:21:24,899 - INFO - boxes is None! no detections
+2024-03-31 13:21:25,036 - DEBUG - tensor([302.8309, 173.7068, 364.2512, 212.3824], device='cuda:0')
+2024-03-31 13:21:25,061 - DEBUG - BBOX: (tensor(302.8309, device='cuda:0'), tensor(173.7068, device='cuda:0')), (tensor(364.2512, device='cuda:0'), tensor(212.3824, device='cuda:0'))
+2024-03-31 13:21:25,062 - DEBUG - center point:333, 193
+2024-03-31 13:21:25,155 - INFO - depth_point_in_meters_camera_coords is:0.6514535840666212
+2024-03-31 13:21:25,294 - DEBUG - tensor([296.6735, 146.2083, 368.5822, 200.1027], device='cuda:0')
+2024-03-31 13:21:25,318 - DEBUG - BBOX: (tensor(296.6735, device='cuda:0'), tensor(146.2083, device='cuda:0')), (tensor(368.5822, device='cuda:0'), tensor(200.1027, device='cuda:0'))
+2024-03-31 13:21:25,320 - DEBUG - center point:332, 173
+2024-03-31 13:21:25,417 - INFO - depth_point_in_meters_camera_coords is:0.6590718024101807
+2024-03-31 13:21:25,544 - DEBUG - None
+2024-03-31 13:21:25,545 - INFO - boxes is None! no detections
+2024-03-31 13:21:25,666 - DEBUG - None
+2024-03-31 13:21:25,666 - INFO - boxes is None! no detections
+2024-03-31 13:21:25,783 - DEBUG - None
+2024-03-31 13:21:25,784 - INFO - boxes is None! no detections
+2024-03-31 13:21:25,901 - DEBUG - None
+2024-03-31 13:21:25,901 - INFO - boxes is None! no detections
+2024-03-31 13:21:26,015 - DEBUG - None
+2024-03-31 13:21:26,016 - INFO - boxes is None! no detections
+2024-03-31 13:21:26,131 - DEBUG - None
+2024-03-31 13:21:26,132 - INFO - boxes is None! no detections
+2024-03-31 13:21:26,243 - DEBUG - None
+2024-03-31 13:21:26,243 - INFO - boxes is None! no detections
+2024-03-31 13:21:26,367 - DEBUG - None
+2024-03-31 13:21:26,368 - INFO - boxes is None! no detections
+2024-03-31 13:21:26,486 - DEBUG - None
+2024-03-31 13:21:26,486 - INFO - boxes is None! no detections
+2024-03-31 13:21:26,607 - DEBUG - None
+2024-03-31 13:21:26,608 - INFO - boxes is None! no detections
+2024-03-31 13:21:26,724 - DEBUG - None
+2024-03-31 13:21:26,724 - INFO - boxes is None! no detections
+2024-03-31 13:21:26,840 - DEBUG - None
+2024-03-31 13:21:26,841 - INFO - boxes is None! no detections
+2024-03-31 13:21:26,951 - DEBUG - None
+2024-03-31 13:21:26,952 - INFO - boxes is None! no detections
+2024-03-31 13:21:27,064 - DEBUG - None
+2024-03-31 13:21:27,064 - INFO - boxes is None! no detections
+2024-03-31 13:21:27,178 - DEBUG - None
+2024-03-31 13:21:27,178 - INFO - boxes is None! no detections
+2024-03-31 13:21:27,306 - DEBUG - None
+2024-03-31 13:21:27,306 - INFO - boxes is None! no detections
+2024-03-31 13:21:27,421 - DEBUG - None
+2024-03-31 13:21:27,421 - INFO - boxes is None! no detections
+2024-03-31 13:21:27,539 - DEBUG - None
+2024-03-31 13:21:27,539 - INFO - boxes is None! no detections
+2024-03-31 13:21:27,649 - DEBUG - None
+2024-03-31 13:21:27,649 - INFO - boxes is None! no detections
+2024-03-31 13:21:27,763 - DEBUG - None
+2024-03-31 13:21:27,763 - INFO - boxes is None! no detections
+2024-03-31 13:21:27,879 - DEBUG - None
+2024-03-31 13:21:27,879 - INFO - boxes is None! no detections
+2024-03-31 13:21:27,993 - DEBUG - None
+2024-03-31 13:21:27,994 - INFO - boxes is None! no detections
+2024-03-31 13:21:28,107 - DEBUG - None
+2024-03-31 13:21:28,107 - INFO - boxes is None! no detections
+2024-03-31 13:21:28,217 - DEBUG - None
+2024-03-31 13:21:28,217 - INFO - boxes is None! no detections
+2024-03-31 13:21:28,326 - DEBUG - None
+2024-03-31 13:21:28,327 - INFO - boxes is None! no detections
+2024-03-31 13:21:28,440 - DEBUG - None
+2024-03-31 13:21:28,440 - INFO - boxes is None! no detections
+2024-03-31 13:21:28,548 - DEBUG - None
+2024-03-31 13:21:28,548 - INFO - boxes is None! no detections
+2024-03-31 13:21:28,657 - DEBUG - None
+2024-03-31 13:21:28,658 - INFO - boxes is None! no detections
+2024-03-31 13:21:28,770 - DEBUG - None
+2024-03-31 13:21:28,771 - INFO - boxes is None! no detections
+2024-03-31 13:21:28,881 - DEBUG - None
+2024-03-31 13:21:28,882 - INFO - boxes is None! no detections
+2024-03-31 13:21:28,991 - DEBUG - None
+2024-03-31 13:21:28,992 - INFO - boxes is None! no detections
+2024-03-31 13:21:29,106 - DEBUG - None
+2024-03-31 13:21:29,107 - INFO - boxes is None! no detections
+2024-03-31 13:21:29,218 - DEBUG - None
+2024-03-31 13:21:29,219 - INFO - boxes is None! no detections
+2024-03-31 13:21:29,332 - DEBUG - None
+2024-03-31 13:21:29,332 - INFO - boxes is None! no detections
+2024-03-31 13:21:29,453 - DEBUG - None
+2024-03-31 13:21:29,454 - INFO - boxes is None! no detections
+2024-03-31 13:21:29,568 - DEBUG - None
+2024-03-31 13:21:29,568 - INFO - boxes is None! no detections
+2024-03-31 13:21:29,681 - DEBUG - None
+2024-03-31 13:21:29,681 - INFO - boxes is None! no detections
+2024-03-31 13:21:29,793 - DEBUG - None
+2024-03-31 13:21:29,794 - INFO - boxes is None! no detections
+2024-03-31 13:21:29,904 - DEBUG - None
+2024-03-31 13:21:29,904 - INFO - boxes is None! no detections
+2024-03-31 13:21:30,012 - DEBUG - None
+2024-03-31 13:21:30,013 - INFO - boxes is None! no detections
+2024-03-31 13:21:30,135 - DEBUG - None
+2024-03-31 13:21:30,135 - INFO - boxes is None! no detections
+2024-03-31 13:21:30,248 - DEBUG - None
+2024-03-31 13:21:30,249 - INFO - boxes is None! no detections
+2024-03-31 13:21:30,357 - DEBUG - None
+2024-03-31 13:21:30,358 - INFO - boxes is None! no detections
+2024-03-31 13:21:30,466 - DEBUG - None
+2024-03-31 13:21:30,467 - INFO - boxes is None! no detections
+2024-03-31 13:21:30,581 - DEBUG - None
+2024-03-31 13:21:30,582 - INFO - boxes is None! no detections
+2024-03-31 13:21:30,692 - DEBUG - None
+2024-03-31 13:21:30,692 - INFO - boxes is None! no detections
+2024-03-31 13:21:30,804 - DEBUG - None
+2024-03-31 13:21:30,805 - INFO - boxes is None! no detections
+2024-03-31 13:21:30,919 - DEBUG - None
+2024-03-31 13:21:30,920 - INFO - boxes is None! no detections
+2024-03-31 13:21:31,024 - DEBUG - None
+2024-03-31 13:21:31,025 - INFO - boxes is None! no detections
+2024-03-31 13:21:31,136 - DEBUG - None
+2024-03-31 13:21:31,136 - INFO - boxes is None! no detections
+2024-03-31 13:21:31,245 - DEBUG - None
+2024-03-31 13:21:31,245 - INFO - boxes is None! no detections
+2024-03-31 13:21:31,359 - DEBUG - None
+2024-03-31 13:21:31,359 - INFO - boxes is None! no detections
+2024-03-31 13:21:31,473 - DEBUG - None
+2024-03-31 13:21:31,473 - INFO - boxes is None! no detections
+2024-03-31 13:21:31,582 - DEBUG - None
+2024-03-31 13:21:31,582 - INFO - boxes is None! no detections
+2024-03-31 13:21:31,691 - DEBUG - None
+2024-03-31 13:21:31,691 - INFO - boxes is None! no detections
+2024-03-31 13:21:31,802 - DEBUG - None
+2024-03-31 13:21:31,803 - INFO - boxes is None! no detections
+2024-03-31 13:21:31,917 - DEBUG - None
+2024-03-31 13:21:31,917 - INFO - boxes is None! no detections
+2024-03-31 13:21:32,034 - DEBUG - None
+2024-03-31 13:21:32,034 - INFO - boxes is None! no detections
+2024-03-31 13:21:32,151 - DEBUG - None
+2024-03-31 13:21:32,151 - INFO - boxes is None! no detections
+2024-03-31 13:21:32,271 - DEBUG - None
+2024-03-31 13:21:32,271 - INFO - boxes is None! no detections
+2024-03-31 13:21:32,391 - DEBUG - None
+2024-03-31 13:21:32,391 - INFO - boxes is None! no detections
+2024-03-31 13:21:32,504 - DEBUG - None
+2024-03-31 13:21:32,505 - INFO - boxes is None! no detections
+2024-03-31 13:21:32,613 - DEBUG - None
+2024-03-31 13:21:32,614 - INFO - boxes is None! no detections
+2024-03-31 13:21:32,721 - DEBUG - None
+2024-03-31 13:21:32,721 - INFO - boxes is None! no detections
+2024-03-31 13:21:32,825 - DEBUG - None
+2024-03-31 13:21:32,826 - INFO - boxes is None! no detections
+2024-03-31 13:21:32,937 - DEBUG - None
+2024-03-31 13:21:32,938 - INFO - boxes is None! no detections
+2024-03-31 13:21:33,050 - DEBUG - None
+2024-03-31 13:21:33,051 - INFO - boxes is None! no detections
+2024-03-31 13:21:33,159 - DEBUG - None
+2024-03-31 13:21:33,159 - INFO - boxes is None! no detections
+2024-03-31 13:21:33,274 - DEBUG - None
+2024-03-31 13:21:33,274 - INFO - boxes is None! no detections
+2024-03-31 13:21:33,388 - DEBUG - None
+2024-03-31 13:21:33,388 - INFO - boxes is None! no detections
+2024-03-31 13:21:33,492 - DEBUG - None
+2024-03-31 13:21:33,493 - INFO - boxes is None! no detections
+2024-03-31 13:21:33,607 - DEBUG - None
+2024-03-31 13:21:33,608 - INFO - boxes is None! no detections
+2024-03-31 13:21:33,717 - DEBUG - None
+2024-03-31 13:21:33,718 - INFO - boxes is None! no detections
+2024-03-31 13:21:33,826 - DEBUG - None
+2024-03-31 13:21:33,827 - INFO - boxes is None! no detections
+2024-03-31 13:21:33,941 - DEBUG - None
+2024-03-31 13:21:33,941 - INFO - boxes is None! no detections
+2024-03-31 13:21:34,051 - DEBUG - None
+2024-03-31 13:21:34,052 - INFO - boxes is None! no detections
+2024-03-31 13:21:34,163 - DEBUG - None
+2024-03-31 13:21:34,164 - INFO - boxes is None! no detections
+2024-03-31 13:21:34,277 - DEBUG - None
+2024-03-31 13:21:34,277 - INFO - boxes is None! no detections
+2024-03-31 13:21:34,389 - DEBUG - None
+2024-03-31 13:21:34,389 - INFO - boxes is None! no detections
+2024-03-31 13:21:34,500 - DEBUG - None
+2024-03-31 13:21:34,501 - INFO - boxes is None! no detections
+2024-03-31 13:21:34,622 - DEBUG - None
+2024-03-31 13:21:34,623 - INFO - boxes is None! no detections
+2024-03-31 13:21:34,745 - DEBUG - None
+2024-03-31 13:21:34,745 - INFO - boxes is None! no detections
+2024-03-31 13:21:34,854 - DEBUG - None
+2024-03-31 13:21:34,855 - INFO - boxes is None! no detections
+2024-03-31 13:21:34,967 - DEBUG - None
+2024-03-31 13:21:34,967 - INFO - boxes is None! no detections
+2024-03-31 13:21:35,079 - DEBUG - None
+2024-03-31 13:21:35,079 - INFO - boxes is None! no detections
+2024-03-31 13:21:35,186 - DEBUG - None
+2024-03-31 13:21:35,187 - INFO - boxes is None! no detections
+2024-03-31 13:21:35,304 - DEBUG - None
+2024-03-31 13:21:35,305 - INFO - boxes is None! no detections
+2024-03-31 13:21:35,415 - DEBUG - None
+2024-03-31 13:21:35,416 - INFO - boxes is None! no detections
+2024-03-31 13:21:35,529 - DEBUG - None
+2024-03-31 13:21:35,530 - INFO - boxes is None! no detections
+2024-03-31 13:21:35,650 - DEBUG - None
+2024-03-31 13:21:35,650 - INFO - boxes is None! no detections
+2024-03-31 13:21:35,768 - DEBUG - None
+2024-03-31 13:21:35,769 - INFO - boxes is None! no detections
+2024-03-31 13:21:35,874 - DEBUG - None
+2024-03-31 13:21:35,875 - INFO - boxes is None! no detections
+2024-03-31 13:21:35,993 - DEBUG - None
+2024-03-31 13:21:35,993 - INFO - boxes is None! no detections
+2024-03-31 13:21:36,111 - DEBUG - None
+2024-03-31 13:21:36,112 - INFO - boxes is None! no detections
+2024-03-31 13:21:36,220 - DEBUG - None
+2024-03-31 13:21:36,220 - INFO - boxes is None! no detections
+2024-03-31 13:21:36,344 - DEBUG - None
+2024-03-31 13:21:36,345 - INFO - boxes is None! no detections
+2024-03-31 13:21:36,468 - DEBUG - None
+2024-03-31 13:21:36,468 - INFO - boxes is None! no detections
+2024-03-31 13:21:36,590 - DEBUG - None
+2024-03-31 13:21:36,591 - INFO - boxes is None! no detections
+2024-03-31 13:21:36,712 - DEBUG - None
+2024-03-31 13:21:36,713 - INFO - boxes is None! no detections
+2024-03-31 13:21:36,829 - DEBUG - None
+2024-03-31 13:21:36,830 - INFO - boxes is None! no detections
+2024-03-31 13:21:36,946 - DEBUG - None
+2024-03-31 13:21:36,946 - INFO - boxes is None! no detections
+2024-03-31 13:21:37,054 - DEBUG - None
+2024-03-31 13:21:37,054 - INFO - boxes is None! no detections
+2024-03-31 13:21:37,163 - DEBUG - None
+2024-03-31 13:21:37,163 - INFO - boxes is None! no detections
+2024-03-31 13:21:37,280 - DEBUG - None
+2024-03-31 13:21:37,281 - INFO - boxes is None! no detections
+2024-03-31 13:21:37,390 - DEBUG - None
+2024-03-31 13:21:37,390 - INFO - boxes is None! no detections
+2024-03-31 13:21:37,506 - DEBUG - None
+2024-03-31 13:21:37,506 - INFO - boxes is None! no detections
+2024-03-31 13:21:37,623 - DEBUG - None
+2024-03-31 13:21:37,623 - INFO - boxes is None! no detections
+2024-03-31 13:21:37,737 - DEBUG - None
+2024-03-31 13:21:37,737 - INFO - boxes is None! no detections
+2024-03-31 13:21:37,850 - DEBUG - None
+2024-03-31 13:21:37,851 - INFO - boxes is None! no detections
+2024-03-31 13:21:37,972 - DEBUG - None
+2024-03-31 13:21:37,972 - INFO - boxes is None! no detections
+2024-03-31 13:21:38,086 - DEBUG - None
+2024-03-31 13:21:38,086 - INFO - boxes is None! no detections
+2024-03-31 13:21:38,209 - DEBUG - None
+2024-03-31 13:21:38,209 - INFO - boxes is None! no detections
+2024-03-31 13:21:38,325 - DEBUG - None
+2024-03-31 13:21:38,325 - INFO - boxes is None! no detections
+2024-03-31 13:21:38,447 - DEBUG - None
+2024-03-31 13:21:38,448 - INFO - boxes is None! no detections
+2024-03-31 13:21:38,568 - DEBUG - None
+2024-03-31 13:21:38,568 - INFO - boxes is None! no detections
+2024-03-31 13:21:38,686 - DEBUG - None
+2024-03-31 13:21:38,686 - INFO - boxes is None! no detections
+2024-03-31 13:21:38,801 - DEBUG - None
+2024-03-31 13:21:38,801 - INFO - boxes is None! no detections
+2024-03-31 13:21:38,920 - DEBUG - None
+2024-03-31 13:21:38,920 - INFO - boxes is None! no detections
+2024-03-31 13:21:39,028 - DEBUG - None
+2024-03-31 13:21:39,028 - INFO - boxes is None! no detections
+2024-03-31 13:21:39,138 - DEBUG - None
+2024-03-31 13:21:39,138 - INFO - boxes is None! no detections
+2024-03-31 13:21:39,249 - DEBUG - None
+2024-03-31 13:21:39,250 - INFO - boxes is None! no detections
+2024-03-31 13:21:39,367 - DEBUG - None
+2024-03-31 13:21:39,368 - INFO - boxes is None! no detections
+2024-03-31 13:21:39,492 - DEBUG - None
+2024-03-31 13:21:39,492 - INFO - boxes is None! no detections
+2024-03-31 13:21:39,601 - DEBUG - None
+2024-03-31 13:21:39,601 - INFO - boxes is None! no detections
+2024-03-31 13:21:39,725 - DEBUG - None
+2024-03-31 13:21:39,726 - INFO - boxes is None! no detections
+2024-03-31 13:21:39,850 - DEBUG - None
+2024-03-31 13:21:39,850 - INFO - boxes is None! no detections
+2024-03-31 13:21:39,964 - DEBUG - None
+2024-03-31 13:21:39,965 - INFO - boxes is None! no detections
+2024-03-31 13:21:40,078 - DEBUG - None
+2024-03-31 13:21:40,078 - INFO - boxes is None! no detections
+2024-03-31 13:21:40,201 - DEBUG - None
+2024-03-31 13:21:40,202 - INFO - boxes is None! no detections
+2024-03-31 13:21:40,324 - DEBUG - None
+2024-03-31 13:21:40,325 - INFO - boxes is None! no detections
+2024-03-31 13:21:40,450 - DEBUG - None
+2024-03-31 13:21:40,450 - INFO - boxes is None! no detections
+2024-03-31 13:21:40,569 - DEBUG - None
+2024-03-31 13:21:40,570 - INFO - boxes is None! no detections
+2024-03-31 13:21:40,686 - DEBUG - None
+2024-03-31 13:21:40,686 - INFO - boxes is None! no detections
+2024-03-31 13:21:40,802 - DEBUG - None
+2024-03-31 13:21:40,802 - INFO - boxes is None! no detections
+2024-03-31 13:21:40,927 - DEBUG - tensor([298.9960, 174.3300, 354.1154, 207.4050], device='cuda:0')
+2024-03-31 13:21:40,950 - DEBUG - BBOX: (tensor(298.9960, device='cuda:0'), tensor(174.3300, device='cuda:0')), (tensor(354.1154, device='cuda:0'), tensor(207.4050, device='cuda:0'))
+2024-03-31 13:21:40,951 - DEBUG - center point:326, 190
+2024-03-31 13:21:41,037 - INFO - depth_point_in_meters_camera_coords is:0.9289217273273
+2024-03-31 13:21:41,164 - DEBUG - tensor([299.0026, 174.3264, 355.1700, 207.4439], device='cuda:0')
+2024-03-31 13:21:41,186 - DEBUG - BBOX: (tensor(299.0026, device='cuda:0'), tensor(174.3264, device='cuda:0')), (tensor(355.1700, device='cuda:0'), tensor(207.4439, device='cuda:0'))
+2024-03-31 13:21:41,187 - DEBUG - center point:327, 190
+2024-03-31 13:21:41,263 - INFO - depth_point_in_meters_camera_coords is:0.935656443197707
+2024-03-31 13:21:41,389 - DEBUG - tensor([299.3962, 179.7247, 354.6119, 207.4373], device='cuda:0')
+2024-03-31 13:21:41,408 - DEBUG - BBOX: (tensor(299.3962, device='cuda:0'), tensor(179.7247, device='cuda:0')), (tensor(354.6119, device='cuda:0'), tensor(207.4373, device='cuda:0'))
+2024-03-31 13:21:41,409 - DEBUG - center point:327, 193
+2024-03-31 13:21:41,498 - INFO - depth_point_in_meters_camera_coords is:0.9212786204059376
+2024-03-31 13:21:41,628 - DEBUG - tensor([298.8432, 174.5894, 354.2042, 207.4053], device='cuda:0')
+2024-03-31 13:21:41,651 - DEBUG - BBOX: (tensor(298.8432, device='cuda:0'), tensor(174.5894, device='cuda:0')), (tensor(354.2042, device='cuda:0'), tensor(207.4053, device='cuda:0'))
+2024-03-31 13:21:41,653 - DEBUG - center point:326, 190
+2024-03-31 13:21:41,740 - INFO - depth_point_in_meters_camera_coords is:0.9192700502530594
+2024-03-31 13:21:41,857 - DEBUG - None
+2024-03-31 13:21:41,857 - INFO - boxes is None! no detections
+2024-03-31 13:21:41,992 - DEBUG - tensor([298.9093, 174.2006, 355.7515, 207.4686], device='cuda:0')
+2024-03-31 13:21:42,016 - DEBUG - BBOX: (tensor(298.9093, device='cuda:0'), tensor(174.2006, device='cuda:0')), (tensor(355.7515, device='cuda:0'), tensor(207.4686, device='cuda:0'))
+2024-03-31 13:21:42,017 - DEBUG - center point:327, 190
+2024-03-31 13:21:42,104 - INFO - depth_point_in_meters_camera_coords is:0.9340921625706445
+2024-03-31 13:21:42,237 - DEBUG - tensor([299.0388, 176.2401, 356.0100, 207.7061], device='cuda:0')
+2024-03-31 13:21:42,258 - DEBUG - BBOX: (tensor(299.0388, device='cuda:0'), tensor(176.2401, device='cuda:0')), (tensor(356.0100, device='cuda:0'), tensor(207.7061, device='cuda:0'))
+2024-03-31 13:21:42,259 - DEBUG - center point:327, 191
+2024-03-31 13:21:42,335 - INFO - depth_point_in_meters_camera_coords is:0.930669896019972
+2024-03-31 13:21:42,461 - DEBUG - tensor([299.1229, 174.2444, 355.9955, 207.4681], device='cuda:0')
+2024-03-31 13:21:42,481 - DEBUG - BBOX: (tensor(299.1229, device='cuda:0'), tensor(174.2444, device='cuda:0')), (tensor(355.9955, device='cuda:0'), tensor(207.4681, device='cuda:0'))
+2024-03-31 13:21:42,483 - DEBUG - center point:327, 190
+2024-03-31 13:21:42,560 - INFO - depth_point_in_meters_camera_coords is:0.9350976679714708
+2024-03-31 13:21:42,686 - DEBUG - tensor([298.4302, 174.1719, 355.9141, 207.3578], device='cuda:0')
+2024-03-31 13:21:42,707 - DEBUG - BBOX: (tensor(298.4302, device='cuda:0'), tensor(174.1719, device='cuda:0')), (tensor(355.9141, device='cuda:0'), tensor(207.3578, device='cuda:0'))
+2024-03-31 13:21:42,708 - DEBUG - center point:327, 190
+2024-03-31 13:21:42,795 - INFO - depth_point_in_meters_camera_coords is:0.9357604215169947
+2024-03-31 13:21:42,919 - DEBUG - tensor([298.4653, 174.5139, 357.4579, 207.7416], device='cuda:0')
+2024-03-31 13:21:42,942 - DEBUG - BBOX: (tensor(298.4653, device='cuda:0'), tensor(174.5139, device='cuda:0')), (tensor(357.4579, device='cuda:0'), tensor(207.7416, device='cuda:0'))
+2024-03-31 13:21:42,943 - DEBUG - center point:327, 191
+2024-03-31 13:21:43,024 - INFO - depth_point_in_meters_camera_coords is:0.9182658930734032
+2024-03-31 13:21:43,145 - DEBUG - tensor([301.0187, 174.5243, 365.5471, 209.0374], device='cuda:0')
+2024-03-31 13:21:43,165 - DEBUG - BBOX: (tensor(301.0187, device='cuda:0'), tensor(174.5243, device='cuda:0')), (tensor(365.5471, device='cuda:0'), tensor(209.0374, device='cuda:0'))
+2024-03-31 13:21:43,166 - DEBUG - center point:333, 191
+2024-03-31 13:21:43,244 - INFO - depth_point_in_meters_camera_coords is:0.9639064843152301
+2024-03-31 13:21:43,365 - DEBUG - tensor([302.1293, 174.4793, 373.2248, 207.6291], device='cuda:0')
+2024-03-31 13:21:43,389 - DEBUG - BBOX: (tensor(302.1293, device='cuda:0'), tensor(174.4793, device='cuda:0')), (tensor(373.2248, device='cuda:0'), tensor(207.6291, device='cuda:0'))
+2024-03-31 13:21:43,390 - DEBUG - center point:337, 191
+2024-03-31 13:21:43,468 - INFO - depth_point_in_meters_camera_coords is:0.9809331021333734
+2024-03-31 13:21:43,583 - DEBUG - None
+2024-03-31 13:21:43,584 - INFO - boxes is None! no detections
+2024-03-31 13:21:43,693 - DEBUG - None
+2024-03-31 13:21:43,694 - INFO - boxes is None! no detections
+2024-03-31 13:21:43,810 - DEBUG - tensor([320.1577, 179.1250, 390.6386, 208.1310], device='cuda:0')
+2024-03-31 13:21:43,832 - DEBUG - BBOX: (tensor(320.1577, device='cuda:0'), tensor(179.1250, device='cuda:0')), (tensor(390.6386, device='cuda:0'), tensor(208.1310, device='cuda:0'))
+2024-03-31 13:21:43,835 - DEBUG - center point:355, 193
+2024-03-31 13:21:43,922 - INFO - depth_point_in_meters_camera_coords is:1.0053328764935334
+2024-03-31 13:21:44,048 - DEBUG - tensor([320.7319, 181.3896, 392.8222, 208.6805], device='cuda:0')
+2024-03-31 13:21:44,069 - DEBUG - BBOX: (tensor(320.7319, device='cuda:0'), tensor(181.3896, device='cuda:0')), (tensor(392.8222, device='cuda:0'), tensor(208.6805, device='cuda:0'))
+2024-03-31 13:21:44,071 - DEBUG - center point:356, 195
+2024-03-31 13:21:44,155 - INFO - depth_point_in_meters_camera_coords is:1.0157360356549423
+2024-03-31 13:21:44,275 - DEBUG - None
+2024-03-31 13:21:44,276 - INFO - boxes is None! no detections
+2024-03-31 13:21:44,396 - DEBUG - tensor([320.8828, 181.1929, 391.2419, 208.6700], device='cuda:0')
+2024-03-31 13:21:44,417 - DEBUG - BBOX: (tensor(320.8828, device='cuda:0'), tensor(181.1929, device='cuda:0')), (tensor(391.2419, device='cuda:0'), tensor(208.6700, device='cuda:0'))
+2024-03-31 13:21:44,418 - DEBUG - center point:356, 194
+2024-03-31 13:21:44,509 - INFO - depth_point_in_meters_camera_coords is:1.0108131669958433
+2024-03-31 13:21:44,633 - DEBUG - tensor([320.6791, 181.9660, 391.9551, 208.4968], device='cuda:0')
+2024-03-31 13:21:44,657 - DEBUG - BBOX: (tensor(320.6791, device='cuda:0'), tensor(181.9660, device='cuda:0')), (tensor(391.9551, device='cuda:0'), tensor(208.4968, device='cuda:0'))
+2024-03-31 13:21:44,657 - DEBUG - center point:356, 195
+2024-03-31 13:21:44,733 - INFO - depth_point_in_meters_camera_coords is:1.0131262818475564
+2024-03-31 13:21:44,858 - DEBUG - tensor([321.0945, 179.9090, 391.6039, 207.9529], device='cuda:0')
+2024-03-31 13:21:44,879 - DEBUG - BBOX: (tensor(321.0945, device='cuda:0'), tensor(179.9090, device='cuda:0')), (tensor(391.6039, device='cuda:0'), tensor(207.9529, device='cuda:0'))
+2024-03-31 13:21:44,880 - DEBUG - center point:356, 193
+2024-03-31 13:21:44,954 - INFO - depth_point_in_meters_camera_coords is:1.003397072404623
+2024-03-31 13:21:45,073 - DEBUG - tensor([320.8141, 181.8535, 391.5760, 208.6825], device='cuda:0')
+2024-03-31 13:21:45,095 - DEBUG - BBOX: (tensor(320.8141, device='cuda:0'), tensor(181.8535, device='cuda:0')), (tensor(391.5760, device='cuda:0'), tensor(208.6825, device='cuda:0'))
+2024-03-31 13:21:45,096 - DEBUG - center point:356, 195
+2024-03-31 13:21:45,173 - INFO - depth_point_in_meters_camera_coords is:1.00882855301102
+2024-03-31 13:21:45,300 - DEBUG - tensor([321.1782, 179.5528, 391.4714, 208.2098], device='cuda:0')
+2024-03-31 13:21:45,326 - DEBUG - BBOX: (tensor(321.1782, device='cuda:0'), tensor(179.5528, device='cuda:0')), (tensor(391.4714, device='cuda:0'), tensor(208.2098, device='cuda:0'))
+2024-03-31 13:21:45,327 - DEBUG - center point:356, 193
+2024-03-31 13:21:45,415 - INFO - depth_point_in_meters_camera_coords is:1.002506881803274
+2024-03-31 13:21:45,542 - DEBUG - tensor([320.6937, 182.0377, 391.5294, 208.6864], device='cuda:0')
+2024-03-31 13:21:45,562 - DEBUG - BBOX: (tensor(320.6937, device='cuda:0'), tensor(182.0377, device='cuda:0')), (tensor(391.5294, device='cuda:0'), tensor(208.6864, device='cuda:0'))
+2024-03-31 13:21:45,563 - DEBUG - center point:356, 195
+2024-03-31 13:21:45,643 - INFO - depth_point_in_meters_camera_coords is:1.0160517596205076
+2024-03-31 13:21:45,769 - DEBUG - tensor([320.9362, 181.8078, 391.6203, 208.5786], device='cuda:0')
+2024-03-31 13:21:45,794 - DEBUG - BBOX: (tensor(320.9362, device='cuda:0'), tensor(181.8078, device='cuda:0')), (tensor(391.6203, device='cuda:0'), tensor(208.5786, device='cuda:0'))
+2024-03-31 13:21:45,795 - DEBUG - center point:356, 195
+2024-03-31 13:21:45,879 - INFO - depth_point_in_meters_camera_coords is:1.0120695503552755
+2024-03-31 13:21:46,009 - DEBUG - tensor([320.7282, 181.9268, 391.3066, 208.4973], device='cuda:0')
+2024-03-31 13:21:46,030 - DEBUG - BBOX: (tensor(320.7282, device='cuda:0'), tensor(181.9268, device='cuda:0')), (tensor(391.3066, device='cuda:0'), tensor(208.4973, device='cuda:0'))
+2024-03-31 13:21:46,031 - DEBUG - center point:356, 195
+2024-03-31 13:21:46,105 - INFO - depth_point_in_meters_camera_coords is:1.0125164489944776
+2024-03-31 13:21:46,225 - DEBUG - tensor([320.8876, 182.0124, 391.2678, 208.5559], device='cuda:0')
+2024-03-31 13:21:46,244 - DEBUG - BBOX: (tensor(320.8876, device='cuda:0'), tensor(182.0124, device='cuda:0')), (tensor(391.2678, device='cuda:0'), tensor(208.5559, device='cuda:0'))
+2024-03-31 13:21:46,245 - DEBUG - center point:356, 195
+2024-03-31 13:21:46,332 - INFO - depth_point_in_meters_camera_coords is:1.0116107233365377
+2024-03-31 13:21:46,455 - DEBUG - tensor([321.3358, 179.9292, 391.3161, 207.9418], device='cuda:0')
+2024-03-31 13:21:46,475 - DEBUG - BBOX: (tensor(321.3358, device='cuda:0'), tensor(179.9292, device='cuda:0')), (tensor(391.3161, device='cuda:0'), tensor(207.9418, device='cuda:0'))
+2024-03-31 13:21:46,476 - DEBUG - center point:356, 193
+2024-03-31 13:21:46,559 - INFO - depth_point_in_meters_camera_coords is:1.003477290123701
+2024-03-31 13:21:46,690 - DEBUG - tensor([320.9737, 182.3232, 391.8027, 208.4750], device='cuda:0')
+2024-03-31 13:21:46,712 - DEBUG - BBOX: (tensor(320.9737, device='cuda:0'), tensor(182.3232, device='cuda:0')), (tensor(391.8027, device='cuda:0'), tensor(208.4750, device='cuda:0'))
+2024-03-31 13:21:46,714 - DEBUG - center point:356, 195
+2024-03-31 13:21:46,790 - INFO - depth_point_in_meters_camera_coords is:1.0119200464586418
+2024-03-31 13:21:46,904 - DEBUG - tensor([320.9499, 181.9630, 391.4882, 208.4698], device='cuda:0')
+2024-03-31 13:21:46,926 - DEBUG - BBOX: (tensor(320.9499, device='cuda:0'), tensor(181.9630, device='cuda:0')), (tensor(391.4882, device='cuda:0'), tensor(208.4698, device='cuda:0'))
+2024-03-31 13:21:46,927 - DEBUG - center point:356, 195
+2024-03-31 13:21:47,001 - INFO - depth_point_in_meters_camera_coords is:1.0113000155985354
+2024-03-31 13:21:47,122 - DEBUG - tensor([320.9607, 181.6360, 391.5819, 208.4383], device='cuda:0')
+2024-03-31 13:21:47,142 - DEBUG - BBOX: (tensor(320.9607, device='cuda:0'), tensor(181.6360, device='cuda:0')), (tensor(391.5819, device='cuda:0'), tensor(208.4383, device='cuda:0'))
+2024-03-31 13:21:47,143 - DEBUG - center point:356, 195
+2024-03-31 13:21:47,224 - INFO - depth_point_in_meters_camera_coords is:1.0103468804061413
+2024-03-31 13:21:47,340 - DEBUG - tensor([320.9880, 181.2827, 391.2963, 208.6455], device='cuda:0')
+2024-03-31 13:21:47,361 - DEBUG - BBOX: (tensor(320.9880, device='cuda:0'), tensor(181.2827, device='cuda:0')), (tensor(391.2963, device='cuda:0'), tensor(208.6455, device='cuda:0'))
+2024-03-31 13:21:47,362 - DEBUG - center point:356, 194
+2024-03-31 13:21:47,437 - INFO - depth_point_in_meters_camera_coords is:1.0071122673153878
+2024-03-31 13:21:47,569 - DEBUG - tensor([320.8439, 180.6904, 391.0610, 208.5072], device='cuda:0')
+2024-03-31 13:21:47,589 - DEBUG - BBOX: (tensor(320.8439, device='cuda:0'), tensor(180.6904, device='cuda:0')), (tensor(391.0610, device='cuda:0'), tensor(208.5072, device='cuda:0'))
+2024-03-31 13:21:47,590 - DEBUG - center point:355, 194
+2024-03-31 13:21:47,666 - INFO - depth_point_in_meters_camera_coords is:1.007237474968036
+2024-03-31 13:21:47,794 - DEBUG - tensor([321.7120, 178.2823, 390.9507, 207.7276], device='cuda:0')
+2024-03-31 13:21:47,819 - DEBUG - BBOX: (tensor(321.7120, device='cuda:0'), tensor(178.2823, device='cuda:0')), (tensor(390.9507, device='cuda:0'), tensor(207.7276, device='cuda:0'))
+2024-03-31 13:21:47,820 - DEBUG - center point:356, 193
+2024-03-31 13:21:47,894 - INFO - depth_point_in_meters_camera_coords is:1.011689286629359
+2024-03-31 13:21:48,019 - DEBUG - tensor([322.2040, 176.9191, 389.8522, 208.1332], device='cuda:0')
+2024-03-31 13:21:48,040 - DEBUG - BBOX: (tensor(322.2040, device='cuda:0'), tensor(176.9191, device='cuda:0')), (tensor(389.8522, device='cuda:0'), tensor(208.1332, device='cuda:0'))
+2024-03-31 13:21:48,041 - DEBUG - center point:356, 192
+2024-03-31 13:21:48,127 - INFO - depth_point_in_meters_camera_coords is:1.0063238688806693
+2024-03-31 13:21:48,251 - DEBUG - None
+2024-03-31 13:21:48,251 - INFO - boxes is None! no detections
+2024-03-31 13:21:48,363 - DEBUG - None
+2024-03-31 13:21:48,364 - INFO - boxes is None! no detections
+2024-03-31 13:21:48,487 - DEBUG - tensor([322.2436, 180.7642, 390.2968, 208.3891], device='cuda:0')
+2024-03-31 13:21:48,511 - DEBUG - BBOX: (tensor(322.2436, device='cuda:0'), tensor(180.7642, device='cuda:0')), (tensor(390.2968, device='cuda:0'), tensor(208.3891, device='cuda:0'))
+2024-03-31 13:21:48,512 - DEBUG - center point:356, 194
+2024-03-31 13:21:48,589 - INFO - depth_point_in_meters_camera_coords is:0.9989219756424427
+2024-03-31 13:21:48,706 - DEBUG - tensor([327.3475, 178.4301, 393.3659, 207.0719], device='cuda:0')
+2024-03-31 13:21:48,728 - DEBUG - BBOX: (tensor(327.3475, device='cuda:0'), tensor(178.4301, device='cuda:0')), (tensor(393.3659, device='cuda:0'), tensor(207.0719, device='cuda:0'))
+2024-03-31 13:21:48,729 - DEBUG - center point:360, 192
+2024-03-31 13:21:48,804 - INFO - depth_point_in_meters_camera_coords is:1.0005114273230236
+2024-03-31 13:21:48,918 - DEBUG - None
+2024-03-31 13:21:48,919 - INFO - boxes is None! no detections
+2024-03-31 13:21:49,027 - DEBUG - None
+2024-03-31 13:21:49,028 - INFO - boxes is None! no detections
+2024-03-31 13:21:49,132 - DEBUG - None
+2024-03-31 13:21:49,133 - INFO - boxes is None! no detections
+2024-03-31 13:21:49,258 - DEBUG - tensor([347.5732, 184.1775, 383.8808, 207.2190], device='cuda:0')
+2024-03-31 13:21:49,281 - DEBUG - BBOX: (tensor(347.5732, device='cuda:0'), tensor(184.1775, device='cuda:0')), (tensor(383.8808, device='cuda:0'), tensor(207.2190, device='cuda:0'))
+2024-03-31 13:21:49,283 - DEBUG - center point:365, 195
+2024-03-31 13:21:49,366 - INFO - depth_point_in_meters_camera_coords is:1.038810893793901
+2024-03-31 13:21:49,491 - DEBUG - None
+2024-03-31 13:21:49,491 - INFO - boxes is None! no detections
+2024-03-31 13:21:49,618 - DEBUG - None
+2024-03-31 13:21:49,618 - INFO - boxes is None! no detections
+2024-03-31 13:21:49,742 - DEBUG - None
+2024-03-31 13:21:49,743 - INFO - boxes is None! no detections
+2024-03-31 13:21:49,861 - DEBUG - None
+2024-03-31 13:21:49,861 - INFO - boxes is None! no detections
+2024-03-31 13:21:49,976 - DEBUG - None
+2024-03-31 13:21:49,976 - INFO - boxes is None! no detections
+2024-03-31 13:21:50,087 - DEBUG - None
+2024-03-31 13:21:50,088 - INFO - boxes is None! no detections
+2024-03-31 13:21:50,200 - DEBUG - None
+2024-03-31 13:21:50,201 - INFO - boxes is None! no detections
+2024-03-31 13:21:50,314 - DEBUG - None
+2024-03-31 13:21:50,315 - INFO - boxes is None! no detections
+2024-03-31 13:21:50,432 - DEBUG - None
+2024-03-31 13:21:50,432 - INFO - boxes is None! no detections
+2024-03-31 13:21:50,550 - DEBUG - None
+2024-03-31 13:21:50,551 - INFO - boxes is None! no detections
+2024-03-31 13:21:50,662 - DEBUG - None
+2024-03-31 13:21:50,663 - INFO - boxes is None! no detections
+2024-03-31 13:21:50,775 - DEBUG - None
+2024-03-31 13:21:50,776 - INFO - boxes is None! no detections
+2024-03-31 13:21:50,888 - DEBUG - None
+2024-03-31 13:21:50,888 - INFO - boxes is None! no detections
+2024-03-31 13:21:51,002 - DEBUG - None
+2024-03-31 13:21:51,002 - INFO - boxes is None! no detections
+2024-03-31 13:21:51,118 - DEBUG - None
+2024-03-31 13:21:51,119 - INFO - boxes is None! no detections
+2024-03-31 13:21:51,230 - DEBUG - None
+2024-03-31 13:21:51,230 - INFO - boxes is None! no detections
+2024-03-31 13:21:51,347 - DEBUG - None
+2024-03-31 13:21:51,347 - INFO - boxes is None! no detections
+2024-03-31 13:21:51,463 - DEBUG - None
+2024-03-31 13:21:51,464 - INFO - boxes is None! no detections
+2024-03-31 13:21:51,583 - DEBUG - None
+2024-03-31 13:21:51,584 - INFO - boxes is None! no detections
+2024-03-31 13:21:51,699 - DEBUG - None
+2024-03-31 13:21:51,699 - INFO - boxes is None! no detections
+2024-03-31 13:21:51,820 - DEBUG - None
+2024-03-31 13:21:51,821 - INFO - boxes is None! no detections
+2024-03-31 13:21:51,935 - DEBUG - None
+2024-03-31 13:21:51,936 - INFO - boxes is None! no detections
+2024-03-31 13:21:52,049 - DEBUG - None
+2024-03-31 13:21:52,050 - INFO - boxes is None! no detections
+2024-03-31 13:21:52,163 - DEBUG - None
+2024-03-31 13:21:52,164 - INFO - boxes is None! no detections
+2024-03-31 13:21:52,287 - DEBUG - tensor([349.7959, 185.7883, 390.6417, 207.1221], device='cuda:0')
+2024-03-31 13:21:52,306 - DEBUG - BBOX: (tensor(349.7959, device='cuda:0'), tensor(185.7883, device='cuda:0')), (tensor(390.6417, device='cuda:0'), tensor(207.1221, device='cuda:0'))
+2024-03-31 13:21:52,307 - DEBUG - center point:370, 196
+2024-03-31 13:21:52,387 - INFO - depth_point_in_meters_camera_coords is:1.058707507054011
+2024-03-31 13:21:52,516 - DEBUG - None
+2024-03-31 13:21:52,516 - INFO - boxes is None! no detections
+2024-03-31 13:21:52,637 - DEBUG - None
+2024-03-31 13:21:52,638 - INFO - boxes is None! no detections
+2024-03-31 13:21:52,755 - DEBUG - None
+2024-03-31 13:21:52,756 - INFO - boxes is None! no detections
+2024-03-31 13:21:52,863 - DEBUG - None
+2024-03-31 13:21:52,863 - INFO - boxes is None! no detections
+2024-03-31 13:21:52,977 - DEBUG - None
+2024-03-31 13:21:52,978 - INFO - boxes is None! no detections
+2024-03-31 13:21:53,098 - DEBUG - None
+2024-03-31 13:21:53,098 - INFO - boxes is None! no detections
+2024-03-31 13:21:53,206 - DEBUG - None
+2024-03-31 13:21:53,207 - INFO - boxes is None! no detections
+2024-03-31 13:21:53,320 - DEBUG - None
+2024-03-31 13:21:53,321 - INFO - boxes is None! no detections
+2024-03-31 13:21:53,431 - DEBUG - None
+2024-03-31 13:21:53,431 - INFO - boxes is None! no detections
+2024-03-31 13:21:53,548 - DEBUG - None
+2024-03-31 13:21:53,549 - INFO - boxes is None! no detections
+2024-03-31 13:21:53,665 - DEBUG - None
+2024-03-31 13:21:53,666 - INFO - boxes is None! no detections
+2024-03-31 13:21:53,797 - DEBUG - tensor([349.9074, 185.1313, 390.5215, 207.0833], device='cuda:0')
+2024-03-31 13:21:53,819 - DEBUG - BBOX: (tensor(349.9074, device='cuda:0'), tensor(185.1313, device='cuda:0')), (tensor(390.5215, device='cuda:0'), tensor(207.0833, device='cuda:0'))
+2024-03-31 13:21:53,821 - DEBUG - center point:370, 196
+2024-03-31 13:21:53,908 - INFO - depth_point_in_meters_camera_coords is:1.0596332230170569
+2024-03-31 13:21:54,030 - DEBUG - None
+2024-03-31 13:21:54,030 - INFO - boxes is None! no detections
+2024-03-31 13:21:54,155 - DEBUG - None
+2024-03-31 13:21:54,156 - INFO - boxes is None! no detections
+2024-03-31 13:21:54,279 - DEBUG - None
+2024-03-31 13:21:54,280 - INFO - boxes is None! no detections
+2024-03-31 13:21:54,396 - DEBUG - None
+2024-03-31 13:21:54,397 - INFO - boxes is None! no detections
+2024-03-31 13:21:54,536 - DEBUG - tensor([349.7150, 184.9880, 390.6331, 207.1033], device='cuda:0')
+2024-03-31 13:21:54,558 - DEBUG - BBOX: (tensor(349.7150, device='cuda:0'), tensor(184.9880, device='cuda:0')), (tensor(390.6331, device='cuda:0'), tensor(207.1033, device='cuda:0'))
+2024-03-31 13:21:54,559 - DEBUG - center point:370, 196
+2024-03-31 13:21:54,648 - INFO - depth_point_in_meters_camera_coords is:1.0652029559016227
+2024-03-31 13:21:54,767 - DEBUG - None
+2024-03-31 13:21:54,768 - INFO - boxes is None! no detections
+2024-03-31 13:21:54,887 - DEBUG - None
+2024-03-31 13:21:54,887 - INFO - boxes is None! no detections
+2024-03-31 13:21:55,005 - DEBUG - None
+2024-03-31 13:21:55,005 - INFO - boxes is None! no detections
+2024-03-31 13:21:55,123 - DEBUG - None
+2024-03-31 13:21:55,123 - INFO - boxes is None! no detections
+2024-03-31 13:21:55,256 - DEBUG - None
+2024-03-31 13:21:55,257 - INFO - boxes is None! no detections
+2024-03-31 13:21:55,388 - DEBUG - None
+2024-03-31 13:21:55,388 - INFO - boxes is None! no detections
+2024-03-31 13:21:55,513 - DEBUG - None
+2024-03-31 13:21:55,513 - INFO - boxes is None! no detections
+2024-03-31 13:21:55,636 - DEBUG - None
+2024-03-31 13:21:55,637 - INFO - boxes is None! no detections
+2024-03-31 13:21:55,758 - DEBUG - None
+2024-03-31 13:21:55,759 - INFO - boxes is None! no detections
+2024-03-31 13:21:55,872 - DEBUG - None
+2024-03-31 13:21:55,873 - INFO - boxes is None! no detections
+2024-03-31 13:21:55,992 - DEBUG - None
+2024-03-31 13:21:55,992 - INFO - boxes is None! no detections
+2024-03-31 13:21:56,107 - DEBUG - None
+2024-03-31 13:21:56,108 - INFO - boxes is None! no detections
+2024-03-31 13:21:56,230 - DEBUG - tensor([349.8079, 184.9058, 391.1942, 207.0066], device='cuda:0')
+2024-03-31 13:21:56,253 - DEBUG - BBOX: (tensor(349.8079, device='cuda:0'), tensor(184.9058, device='cuda:0')), (tensor(391.1942, device='cuda:0'), tensor(207.0066, device='cuda:0'))
+2024-03-31 13:21:56,254 - DEBUG - center point:370, 195
+2024-03-31 13:21:56,333 - INFO - depth_point_in_meters_camera_coords is:1.0698062615593273
+2024-03-31 13:21:56,448 - DEBUG - None
+2024-03-31 13:21:56,448 - INFO - boxes is None! no detections
+2024-03-31 13:21:56,568 - DEBUG - None
+2024-03-31 13:21:56,569 - INFO - boxes is None! no detections
+2024-03-31 13:21:56,687 - DEBUG - None
+2024-03-31 13:21:56,688 - INFO - boxes is None! no detections
+2024-03-31 13:21:56,801 - DEBUG - None
+2024-03-31 13:21:56,801 - INFO - boxes is None! no detections
+2024-03-31 13:21:56,919 - DEBUG - None
+2024-03-31 13:21:56,920 - INFO - boxes is None! no detections
+2024-03-31 13:21:57,037 - DEBUG - None
+2024-03-31 13:21:57,038 - INFO - boxes is None! no detections
+2024-03-31 13:21:57,161 - DEBUG - None
+2024-03-31 13:21:57,162 - INFO - boxes is None! no detections
+2024-03-31 13:21:57,288 - DEBUG - None
+2024-03-31 13:21:57,289 - INFO - boxes is None! no detections
+2024-03-31 13:21:57,401 - DEBUG - None
+2024-03-31 13:21:57,402 - INFO - boxes is None! no detections
+2024-03-31 13:21:57,517 - DEBUG - None
+2024-03-31 13:21:57,518 - INFO - boxes is None! no detections
+2024-03-31 13:21:57,630 - DEBUG - None
+2024-03-31 13:21:57,630 - INFO - boxes is None! no detections
+2024-03-31 13:21:57,741 - DEBUG - None
+2024-03-31 13:21:57,742 - INFO - boxes is None! no detections
+2024-03-31 13:21:57,858 - DEBUG - None
+2024-03-31 13:21:57,859 - INFO - boxes is None! no detections
+2024-03-31 13:21:57,973 - DEBUG - None
+2024-03-31 13:21:57,973 - INFO - boxes is None! no detections
+2024-03-31 13:21:58,095 - DEBUG - None
+2024-03-31 13:21:58,096 - INFO - boxes is None! no detections
+2024-03-31 13:21:58,207 - DEBUG - None
+2024-03-31 13:21:58,207 - INFO - boxes is None! no detections
+2024-03-31 13:21:58,323 - DEBUG - None
+2024-03-31 13:21:58,324 - INFO - boxes is None! no detections
+2024-03-31 13:21:58,435 - DEBUG - None
+2024-03-31 13:21:58,436 - INFO - boxes is None! no detections
+2024-03-31 13:21:58,557 - DEBUG - None
+2024-03-31 13:21:58,557 - INFO - boxes is None! no detections
+2024-03-31 13:21:58,677 - DEBUG - None
+2024-03-31 13:21:58,677 - INFO - boxes is None! no detections
+2024-03-31 13:21:58,797 - DEBUG - None
+2024-03-31 13:21:58,798 - INFO - boxes is None! no detections
+2024-03-31 13:21:58,922 - DEBUG - None
+2024-03-31 13:21:58,923 - INFO - boxes is None! no detections
+2024-03-31 13:21:59,038 - DEBUG - None
+2024-03-31 13:21:59,039 - INFO - boxes is None! no detections
+2024-03-31 13:21:59,160 - DEBUG - None
+2024-03-31 13:21:59,160 - INFO - boxes is None! no detections
+2024-03-31 13:21:59,276 - DEBUG - None
+2024-03-31 13:21:59,277 - INFO - boxes is None! no detections
+2024-03-31 13:21:59,389 - DEBUG - None
+2024-03-31 13:21:59,390 - INFO - boxes is None! no detections
+2024-03-31 13:21:59,496 - DEBUG - None
+2024-03-31 13:21:59,496 - INFO - boxes is None! no detections
+2024-03-31 13:21:59,601 - DEBUG - None
+2024-03-31 13:21:59,602 - INFO - boxes is None! no detections
+2024-03-31 13:21:59,714 - DEBUG - None
+2024-03-31 13:21:59,715 - INFO - boxes is None! no detections
+2024-03-31 13:21:59,833 - DEBUG - None
+2024-03-31 13:21:59,834 - INFO - boxes is None! no detections
+2024-03-31 13:21:59,955 - DEBUG - None
+2024-03-31 13:21:59,956 - INFO - boxes is None! no detections
+2024-03-31 13:22:00,068 - DEBUG - None
+2024-03-31 13:22:00,069 - INFO - boxes is None! no detections
+2024-03-31 13:22:00,188 - DEBUG - None
+2024-03-31 13:22:00,188 - INFO - boxes is None! no detections
+2024-03-31 13:22:00,302 - DEBUG - None
+2024-03-31 13:22:00,303 - INFO - boxes is None! no detections
+2024-03-31 13:22:00,421 - DEBUG - None
+2024-03-31 13:22:00,421 - INFO - boxes is None! no detections
+2024-03-31 13:22:00,538 - DEBUG - None
+2024-03-31 13:22:00,539 - INFO - boxes is None! no detections
+2024-03-31 13:22:00,656 - DEBUG - None
+2024-03-31 13:22:00,657 - INFO - boxes is None! no detections
+2024-03-31 13:22:00,772 - DEBUG - None
+2024-03-31 13:22:00,773 - INFO - boxes is None! no detections
+2024-03-31 13:22:00,889 - DEBUG - None
+2024-03-31 13:22:00,889 - INFO - boxes is None! no detections
+2024-03-31 13:22:00,999 - DEBUG - None
+2024-03-31 13:22:01,000 - INFO - boxes is None! no detections
+2024-03-31 13:22:01,120 - DEBUG - None
+2024-03-31 13:22:01,120 - INFO - boxes is None! no detections
+2024-03-31 13:22:01,232 - DEBUG - None
+2024-03-31 13:22:01,233 - INFO - boxes is None! no detections
+2024-03-31 13:22:01,352 - DEBUG - None
+2024-03-31 13:22:01,353 - INFO - boxes is None! no detections
+2024-03-31 13:22:01,466 - DEBUG - None
+2024-03-31 13:22:01,466 - INFO - boxes is None! no detections
+2024-03-31 13:22:01,580 - DEBUG - None
+2024-03-31 13:22:01,580 - INFO - boxes is None! no detections
+2024-03-31 13:22:01,696 - DEBUG - None
+2024-03-31 13:22:01,696 - INFO - boxes is None! no detections
+2024-03-31 13:22:01,802 - DEBUG - None
+2024-03-31 13:22:01,802 - INFO - boxes is None! no detections
+2024-03-31 13:22:01,919 - DEBUG - tensor([346.7464, 183.7475, 377.0502, 201.5418], device='cuda:0')
+2024-03-31 13:22:01,938 - DEBUG - BBOX: (tensor(346.7464, device='cuda:0'), tensor(183.7475, device='cuda:0')), (tensor(377.0502, device='cuda:0'), tensor(201.5418, device='cuda:0'))
+2024-03-31 13:22:01,939 - DEBUG - center point:361, 192
+2024-03-31 13:22:02,027 - INFO - depth_point_in_meters_camera_coords is:1.3923782786726953
+2024-03-31 13:22:02,150 - DEBUG - None
+2024-03-31 13:22:02,151 - INFO - boxes is None! no detections
+2024-03-31 13:22:02,272 - DEBUG - tensor([347.1690, 183.7898, 377.0408, 201.0856], device='cuda:0')
+2024-03-31 13:22:02,289 - DEBUG - BBOX: (tensor(347.1690, device='cuda:0'), tensor(183.7898, device='cuda:0')), (tensor(377.0408, device='cuda:0'), tensor(201.0856, device='cuda:0'))
+2024-03-31 13:22:02,291 - DEBUG - center point:362, 192
+2024-03-31 13:22:02,370 - INFO - depth_point_in_meters_camera_coords is:1.3982252195477485
+2024-03-31 13:22:02,487 - DEBUG - None
+2024-03-31 13:22:02,488 - INFO - boxes is None! no detections
+2024-03-31 13:22:02,606 - DEBUG - None
+2024-03-31 13:22:02,607 - INFO - boxes is None! no detections
+2024-03-31 13:22:02,729 - DEBUG - None
+2024-03-31 13:22:02,730 - INFO - boxes is None! no detections
+2024-03-31 13:22:02,848 - DEBUG - None
+2024-03-31 13:22:02,850 - INFO - boxes is None! no detections
+2024-03-31 13:22:02,968 - DEBUG - None
+2024-03-31 13:22:02,969 - INFO - boxes is None! no detections
+2024-03-31 13:22:03,082 - DEBUG - None
+2024-03-31 13:22:03,083 - INFO - boxes is None! no detections
+2024-03-31 13:22:03,194 - DEBUG - None
+2024-03-31 13:22:03,195 - INFO - boxes is None! no detections
+2024-03-31 13:22:03,302 - DEBUG - None
+2024-03-31 13:22:03,302 - INFO - boxes is None! no detections
+2024-03-31 13:22:03,425 - DEBUG - None
+2024-03-31 13:22:03,426 - INFO - boxes is None! no detections
+2024-03-31 13:22:03,544 - DEBUG - None
+2024-03-31 13:22:03,545 - INFO - boxes is None! no detections
+2024-03-31 13:22:03,661 - DEBUG - None
+2024-03-31 13:22:03,662 - INFO - boxes is None! no detections
+2024-03-31 13:22:03,787 - DEBUG - tensor([340.3387, 183.5588, 378.4348, 201.4512], device='cuda:0')
+2024-03-31 13:22:03,810 - DEBUG - BBOX: (tensor(340.3387, device='cuda:0'), tensor(183.5588, device='cuda:0')), (tensor(378.4348, device='cuda:0'), tensor(201.4512, device='cuda:0'))
+2024-03-31 13:22:03,811 - DEBUG - center point:359, 192
+2024-03-31 13:22:03,894 - INFO - depth_point_in_meters_camera_coords is:1.3662341687083244
+2024-03-31 13:22:04,013 - DEBUG - None
+2024-03-31 13:22:04,013 - INFO - boxes is None! no detections
+2024-03-31 13:22:04,137 - DEBUG - None
+2024-03-31 13:22:04,138 - INFO - boxes is None! no detections
+2024-03-31 13:22:04,258 - DEBUG - None
+2024-03-31 13:22:04,259 - INFO - boxes is None! no detections
+2024-03-31 13:22:04,377 - DEBUG - None
+2024-03-31 13:22:04,378 - INFO - boxes is None! no detections
+2024-03-31 13:22:04,504 - DEBUG - None
+2024-03-31 13:22:04,505 - INFO - boxes is None! no detections
+2024-03-31 13:22:04,624 - DEBUG - None
+2024-03-31 13:22:04,625 - INFO - boxes is None! no detections
+2024-03-31 13:22:04,745 - DEBUG - None
+2024-03-31 13:22:04,746 - INFO - boxes is None! no detections
+2024-03-31 13:22:04,860 - DEBUG - None
+2024-03-31 13:22:04,861 - INFO - boxes is None! no detections
+2024-03-31 13:22:04,969 - DEBUG - None
+2024-03-31 13:22:04,969 - INFO - boxes is None! no detections
+2024-03-31 13:22:05,093 - DEBUG - tensor([334.7202, 183.3285, 377.1644, 201.6453], device='cuda:0')
+2024-03-31 13:22:05,110 - DEBUG - BBOX: (tensor(334.7202, device='cuda:0'), tensor(183.3285, device='cuda:0')), (tensor(377.1644, device='cuda:0'), tensor(201.6453, device='cuda:0'))
+2024-03-31 13:22:05,113 - DEBUG - center point:355, 192
+2024-03-31 13:22:05,195 - INFO - depth_point_in_meters_camera_coords is:1.3632973939180375
+2024-03-31 13:22:05,323 - DEBUG - tensor([336.0191, 183.4457, 377.4302, 202.2590], device='cuda:0')
+2024-03-31 13:22:05,338 - DEBUG - BBOX: (tensor(336.0191, device='cuda:0'), tensor(183.4457, device='cuda:0')), (tensor(377.4302, device='cuda:0'), tensor(202.2590, device='cuda:0'))
+2024-03-31 13:22:05,339 - DEBUG - center point:356, 192
+2024-03-31 13:22:05,418 - INFO - depth_point_in_meters_camera_coords is:1.3599275194605192
+2024-03-31 13:22:05,545 - DEBUG - tensor([334.6809, 183.6213, 377.1886, 201.8262], device='cuda:0')
+2024-03-31 13:22:05,569 - DEBUG - BBOX: (tensor(334.6809, device='cuda:0'), tensor(183.6213, device='cuda:0')), (tensor(377.1886, device='cuda:0'), tensor(201.8262, device='cuda:0'))
+2024-03-31 13:22:05,570 - DEBUG - center point:355, 192
+2024-03-31 13:22:05,649 - INFO - depth_point_in_meters_camera_coords is:1.358911854426066
+2024-03-31 13:22:05,768 - DEBUG - tensor([334.8169, 183.1924, 377.2686, 202.1744], device='cuda:0')
+2024-03-31 13:22:05,788 - DEBUG - BBOX: (tensor(334.8169, device='cuda:0'), tensor(183.1924, device='cuda:0')), (tensor(377.2686, device='cuda:0'), tensor(202.1744, device='cuda:0'))
+2024-03-31 13:22:05,789 - DEBUG - center point:356, 192
+2024-03-31 13:22:05,864 - INFO - depth_point_in_meters_camera_coords is:1.3690210694074632
+2024-03-31 13:22:05,978 - DEBUG - tensor([334.9580, 183.2791, 377.3894, 201.6120], device='cuda:0')
+2024-03-31 13:22:05,999 - DEBUG - BBOX: (tensor(334.9580, device='cuda:0'), tensor(183.2791, device='cuda:0')), (tensor(377.3894, device='cuda:0'), tensor(201.6120, device='cuda:0'))
+2024-03-31 13:22:06,001 - DEBUG - center point:356, 192
+2024-03-31 13:22:06,075 - INFO - depth_point_in_meters_camera_coords is:1.3721676987409592
+2024-03-31 13:22:06,194 - DEBUG - tensor([334.8095, 183.2384, 377.2771, 201.7339], device='cuda:0')
+2024-03-31 13:22:06,214 - DEBUG - BBOX: (tensor(334.8095, device='cuda:0'), tensor(183.2384, device='cuda:0')), (tensor(377.2771, device='cuda:0'), tensor(201.7339, device='cuda:0'))
+2024-03-31 13:22:06,215 - DEBUG - center point:356, 192
+2024-03-31 13:22:06,298 - INFO - depth_point_in_meters_camera_coords is:1.3703879770636558
+2024-03-31 13:22:06,409 - DEBUG - None
+2024-03-31 13:22:06,410 - INFO - boxes is None! no detections
+2024-03-31 13:22:06,533 - DEBUG - tensor([334.6955, 183.3348, 377.2572, 201.6218], device='cuda:0')
+2024-03-31 13:22:06,551 - DEBUG - BBOX: (tensor(334.6955, device='cuda:0'), tensor(183.3348, device='cuda:0')), (tensor(377.2572, device='cuda:0'), tensor(201.6218, device='cuda:0'))
+2024-03-31 13:22:06,552 - DEBUG - center point:355, 192
+2024-03-31 13:22:06,629 - INFO - depth_point_in_meters_camera_coords is:1.3682280217111111
+2024-03-31 13:22:06,740 - DEBUG - None
+2024-03-31 13:22:06,741 - INFO - boxes is None! no detections
+2024-03-31 13:22:06,861 - DEBUG - tensor([334.7204, 183.2339, 377.2414, 201.6720], device='cuda:0')
+2024-03-31 13:22:06,881 - DEBUG - BBOX: (tensor(334.7204, device='cuda:0'), tensor(183.2339, device='cuda:0')), (tensor(377.2414, device='cuda:0'), tensor(201.6720, device='cuda:0'))
+2024-03-31 13:22:06,882 - DEBUG - center point:355, 192
+2024-03-31 13:22:06,961 - INFO - depth_point_in_meters_camera_coords is:1.3613189657529194
+2024-03-31 13:22:07,072 - DEBUG - None
+2024-03-31 13:22:07,073 - INFO - boxes is None! no detections
+2024-03-31 13:22:07,192 - DEBUG - tensor([334.8445, 183.4954, 377.2215, 201.4704], device='cuda:0')
+2024-03-31 13:22:07,209 - DEBUG - BBOX: (tensor(334.8445, device='cuda:0'), tensor(183.4954, device='cuda:0')), (tensor(377.2215, device='cuda:0'), tensor(201.4704, device='cuda:0'))
+2024-03-31 13:22:07,210 - DEBUG - center point:356, 192
+2024-03-31 13:22:07,302 - INFO - depth_point_in_meters_camera_coords is:1.364834562242031
+2024-03-31 13:22:07,414 - DEBUG - None
+2024-03-31 13:22:07,415 - INFO - boxes is None! no detections
+2024-03-31 13:22:07,526 - DEBUG - None
+2024-03-31 13:22:07,527 - INFO - boxes is None! no detections
+2024-03-31 13:22:07,642 - DEBUG - None
+2024-03-31 13:22:07,643 - INFO - boxes is None! no detections
+2024-03-31 13:22:07,766 - DEBUG - None
+2024-03-31 13:22:07,766 - INFO - boxes is None! no detections
+2024-03-31 13:22:07,882 - DEBUG - None
+2024-03-31 13:22:07,882 - INFO - boxes is None! no detections
+2024-03-31 13:22:07,995 - DEBUG - None
+2024-03-31 13:22:07,995 - INFO - boxes is None! no detections
+2024-03-31 13:22:08,106 - DEBUG - None
+2024-03-31 13:22:08,107 - INFO - boxes is None! no detections
+2024-03-31 13:22:08,218 - DEBUG - None
+2024-03-31 13:22:08,218 - INFO - boxes is None! no detections
+2024-03-31 13:22:08,335 - DEBUG - None
+2024-03-31 13:22:08,336 - INFO - boxes is None! no detections
+2024-03-31 13:22:08,447 - DEBUG - None
+2024-03-31 13:22:08,448 - INFO - boxes is None! no detections
+2024-03-31 13:22:08,562 - DEBUG - None
+2024-03-31 13:22:08,563 - INFO - boxes is None! no detections
+2024-03-31 13:22:08,678 - DEBUG - None
+2024-03-31 13:22:08,679 - INFO - boxes is None! no detections
+2024-03-31 13:22:08,798 - DEBUG - None
+2024-03-31 13:22:08,798 - INFO - boxes is None! no detections
+2024-03-31 13:22:08,918 - DEBUG - None
+2024-03-31 13:22:08,919 - INFO - boxes is None! no detections
+2024-03-31 13:22:09,032 - DEBUG - None
+2024-03-31 13:22:09,032 - INFO - boxes is None! no detections
+2024-03-31 13:22:09,152 - DEBUG - None
+2024-03-31 13:22:09,153 - INFO - boxes is None! no detections
+2024-03-31 13:22:09,266 - DEBUG - None
+2024-03-31 13:22:09,266 - INFO - boxes is None! no detections
+2024-03-31 13:22:09,371 - DEBUG - None
+2024-03-31 13:22:09,372 - INFO - boxes is None! no detections
+2024-03-31 13:22:09,483 - DEBUG - None
+2024-03-31 13:22:09,484 - INFO - boxes is None! no detections
+2024-03-31 13:22:09,596 - DEBUG - None
+2024-03-31 13:22:09,597 - INFO - boxes is None! no detections
+2024-03-31 13:22:09,706 - DEBUG - None
+2024-03-31 13:22:09,707 - INFO - boxes is None! no detections
+2024-03-31 13:22:09,819 - DEBUG - None
+2024-03-31 13:22:09,820 - INFO - boxes is None! no detections
+2024-03-31 13:22:09,938 - DEBUG - None
+2024-03-31 13:22:09,938 - INFO - boxes is None! no detections
+2024-03-31 13:22:10,058 - DEBUG - None
+2024-03-31 13:22:10,059 - INFO - boxes is None! no detections
+2024-03-31 13:22:10,177 - DEBUG - None
+2024-03-31 13:22:10,178 - INFO - boxes is None! no detections
+2024-03-31 13:22:10,289 - DEBUG - None
+2024-03-31 13:22:10,289 - INFO - boxes is None! no detections
+2024-03-31 13:22:10,400 - DEBUG - None
+2024-03-31 13:22:10,401 - INFO - boxes is None! no detections
+2024-03-31 13:22:10,507 - DEBUG - None
+2024-03-31 13:22:10,508 - INFO - boxes is None! no detections
+2024-03-31 13:22:10,617 - DEBUG - None
+2024-03-31 13:22:10,617 - INFO - boxes is None! no detections
+2024-03-31 13:22:10,732 - DEBUG - None
+2024-03-31 13:22:10,733 - INFO - boxes is None! no detections
+2024-03-31 13:22:10,844 - DEBUG - None
+2024-03-31 13:22:10,845 - INFO - boxes is None! no detections
+2024-03-31 13:22:10,970 - DEBUG - None
+2024-03-31 13:22:10,971 - INFO - boxes is None! no detections
+2024-03-31 13:22:11,095 - DEBUG - None
+2024-03-31 13:22:11,096 - INFO - boxes is None! no detections
+2024-03-31 13:22:11,213 - DEBUG - None
+2024-03-31 13:22:11,213 - INFO - boxes is None! no detections
+2024-03-31 13:22:11,337 - DEBUG - None
+2024-03-31 13:22:11,338 - INFO - boxes is None! no detections
+2024-03-31 13:22:11,464 - DEBUG - tensor([339.8818, 184.3401, 365.0423, 198.1946], device='cuda:0')
+2024-03-31 13:22:11,486 - DEBUG - BBOX: (tensor(339.8818, device='cuda:0'), tensor(184.3401, device='cuda:0')), (tensor(365.0423, device='cuda:0'), tensor(198.1946, device='cuda:0'))
+2024-03-31 13:22:11,488 - DEBUG - center point:352, 191
+2024-03-31 13:22:11,577 - INFO - depth_point_in_meters_camera_coords is:1.6804515011111896
+2024-03-31 13:22:11,697 - DEBUG - None
+2024-03-31 13:22:11,698 - INFO - boxes is None! no detections
+2024-03-31 13:22:11,817 - DEBUG - tensor([339.8354, 184.2632, 365.3453, 197.9748], device='cuda:0')
+2024-03-31 13:22:11,840 - DEBUG - BBOX: (tensor(339.8354, device='cuda:0'), tensor(184.2632, device='cuda:0')), (tensor(365.3453, device='cuda:0'), tensor(197.9748, device='cuda:0'))
+2024-03-31 13:22:11,842 - DEBUG - center point:352, 191
+2024-03-31 13:22:11,921 - INFO - depth_point_in_meters_camera_coords is:1.6680130885044733
+2024-03-31 13:22:12,036 - DEBUG - None
+2024-03-31 13:22:12,037 - INFO - boxes is None! no detections
+2024-03-31 13:22:12,165 - DEBUG - tensor([340.0405, 184.3830, 365.1884, 198.0472], device='cuda:0')
+2024-03-31 13:22:12,185 - DEBUG - BBOX: (tensor(340.0405, device='cuda:0'), tensor(184.3830, device='cuda:0')), (tensor(365.1884, device='cuda:0'), tensor(198.0472, device='cuda:0'))
+2024-03-31 13:22:12,186 - DEBUG - center point:352, 191
+2024-03-31 13:22:12,273 - INFO - depth_point_in_meters_camera_coords is:1.6810614211360613
+2024-03-31 13:22:12,395 - DEBUG - None
+2024-03-31 13:22:12,396 - INFO - boxes is None! no detections
+2024-03-31 13:22:12,515 - DEBUG - None
+2024-03-31 13:22:12,516 - INFO - boxes is None! no detections
+2024-03-31 13:22:12,632 - DEBUG - None
+2024-03-31 13:22:12,632 - INFO - boxes is None! no detections
+2024-03-31 13:22:12,747 - DEBUG - None
+2024-03-31 13:22:12,748 - INFO - boxes is None! no detections
+2024-03-31 13:22:12,862 - DEBUG - None
+2024-03-31 13:22:12,863 - INFO - boxes is None! no detections
+2024-03-31 13:22:12,982 - DEBUG - tensor([339.9909, 184.4149, 365.3083, 198.0624], device='cuda:0')
+2024-03-31 13:22:13,003 - DEBUG - BBOX: (tensor(339.9909, device='cuda:0'), tensor(184.4149, device='cuda:0')), (tensor(365.3083, device='cuda:0'), tensor(198.0624, device='cuda:0'))
+2024-03-31 13:22:13,006 - DEBUG - center point:352, 191
+2024-03-31 13:22:13,092 - INFO - depth_point_in_meters_camera_coords is:1.6660635750492414
+2024-03-31 13:22:13,210 - DEBUG - None
+2024-03-31 13:22:13,211 - INFO - boxes is None! no detections
+2024-03-31 13:22:13,334 - DEBUG - tensor([339.9908, 184.4082, 365.1658, 198.1225], device='cuda:0')
+2024-03-31 13:22:13,358 - DEBUG - BBOX: (tensor(339.9908, device='cuda:0'), tensor(184.4082, device='cuda:0')), (tensor(365.1658, device='cuda:0'), tensor(198.1225, device='cuda:0'))
+2024-03-31 13:22:13,359 - DEBUG - center point:352, 191
+2024-03-31 13:22:13,437 - INFO - depth_point_in_meters_camera_coords is:1.675230309665203
+2024-03-31 13:22:13,551 - DEBUG - tensor([339.8848, 184.5090, 365.0215, 198.1994], device='cuda:0')
+2024-03-31 13:22:13,575 - DEBUG - BBOX: (tensor(339.8848, device='cuda:0'), tensor(184.5090, device='cuda:0')), (tensor(365.0215, device='cuda:0'), tensor(198.1994, device='cuda:0'))
+2024-03-31 13:22:13,576 - DEBUG - center point:352, 191
+2024-03-31 13:22:13,650 - INFO - depth_point_in_meters_camera_coords is:1.674884686867396
+2024-03-31 13:22:13,774 - DEBUG - tensor([339.7882, 184.3567, 365.3059, 198.2244], device='cuda:0')
+2024-03-31 13:22:13,790 - DEBUG - BBOX: (tensor(339.7882, device='cuda:0'), tensor(184.3567, device='cuda:0')), (tensor(365.3059, device='cuda:0'), tensor(198.2244, device='cuda:0'))
+2024-03-31 13:22:13,792 - DEBUG - center point:352, 191
+2024-03-31 13:22:13,871 - INFO - depth_point_in_meters_camera_coords is:1.6729171761870385
+2024-03-31 13:22:13,979 - DEBUG - None
+2024-03-31 13:22:13,980 - INFO - boxes is None! no detections
+2024-03-31 13:22:14,092 - DEBUG - None
+2024-03-31 13:22:14,093 - INFO - boxes is None! no detections
+2024-03-31 13:22:14,208 - DEBUG - tensor([339.9646, 184.2334, 365.0157, 198.0544], device='cuda:0')
+2024-03-31 13:22:14,229 - DEBUG - BBOX: (tensor(339.9646, device='cuda:0'), tensor(184.2334, device='cuda:0')), (tensor(365.0157, device='cuda:0'), tensor(198.0544, device='cuda:0'))
+2024-03-31 13:22:14,231 - DEBUG - center point:352, 191
+2024-03-31 13:22:14,311 - INFO - depth_point_in_meters_camera_coords is:1.6783010875185331
+2024-03-31 13:22:14,433 - DEBUG - tensor([339.9089, 184.4105, 365.0610, 198.3943], device='cuda:0')
+2024-03-31 13:22:14,453 - DEBUG - BBOX: (tensor(339.9089, device='cuda:0'), tensor(184.4105, device='cuda:0')), (tensor(365.0610, device='cuda:0'), tensor(198.3943, device='cuda:0'))
+2024-03-31 13:22:14,454 - DEBUG - center point:352, 191
+2024-03-31 13:22:14,531 - INFO - depth_point_in_meters_camera_coords is:1.6774047006169954
+2024-03-31 13:22:14,654 - DEBUG - None
+2024-03-31 13:22:14,654 - INFO - boxes is None! no detections
+2024-03-31 13:22:14,775 - DEBUG - None
+2024-03-31 13:22:14,776 - INFO - boxes is None! no detections
+2024-03-31 13:22:14,897 - DEBUG - None
+2024-03-31 13:22:14,897 - INFO - boxes is None! no detections
+2024-03-31 13:22:15,029 - DEBUG - tensor([339.8533, 184.3433, 365.1362, 198.1032], device='cuda:0')
+2024-03-31 13:22:15,051 - DEBUG - BBOX: (tensor(339.8533, device='cuda:0'), tensor(184.3433, device='cuda:0')), (tensor(365.1362, device='cuda:0'), tensor(198.1032, device='cuda:0'))
+2024-03-31 13:22:15,052 - DEBUG - center point:352, 191
+2024-03-31 13:22:15,136 - INFO - depth_point_in_meters_camera_coords is:1.6658221460382143
+2024-03-31 13:22:15,265 - DEBUG - tensor([339.8179, 184.3195, 365.2889, 198.1740], device='cuda:0')
+2024-03-31 13:22:15,287 - DEBUG - BBOX: (tensor(339.8179, device='cuda:0'), tensor(184.3195, device='cuda:0')), (tensor(365.2889, device='cuda:0'), tensor(198.1740, device='cuda:0'))
+2024-03-31 13:22:15,289 - DEBUG - center point:352, 191
+2024-03-31 13:22:15,376 - INFO - depth_point_in_meters_camera_coords is:1.6725215618809064
+2024-03-31 13:22:15,494 - DEBUG - None
+2024-03-31 13:22:15,494 - INFO - boxes is None! no detections
+2024-03-31 13:22:15,609 - DEBUG - None
+2024-03-31 13:22:15,609 - INFO - boxes is None! no detections
+2024-03-31 13:22:15,720 - DEBUG - None
+2024-03-31 13:22:15,720 - INFO - boxes is None! no detections
+2024-03-31 13:22:15,839 - DEBUG - tensor([339.9352, 184.4910, 365.1834, 197.8322], device='cuda:0')
+2024-03-31 13:22:15,860 - DEBUG - BBOX: (tensor(339.9352, device='cuda:0'), tensor(184.4910, device='cuda:0')), (tensor(365.1834, device='cuda:0'), tensor(197.8322, device='cuda:0'))
+2024-03-31 13:22:15,861 - DEBUG - center point:352, 191
+2024-03-31 13:22:15,936 - INFO - depth_point_in_meters_camera_coords is:1.6668125062187513
+2024-03-31 13:22:16,052 - DEBUG - tensor([339.9146, 184.4135, 365.0901, 198.1407], device='cuda:0')
+2024-03-31 13:22:16,071 - DEBUG - BBOX: (tensor(339.9146, device='cuda:0'), tensor(184.4135, device='cuda:0')), (tensor(365.0901, device='cuda:0'), tensor(198.1407, device='cuda:0'))
+2024-03-31 13:22:16,072 - DEBUG - center point:352, 191
+2024-03-31 13:22:16,149 - INFO - depth_point_in_meters_camera_coords is:1.6765753892064095
+2024-03-31 13:22:16,261 - DEBUG - None
+2024-03-31 13:22:16,262 - INFO - boxes is None! no detections
+2024-03-31 13:22:16,377 - DEBUG - tensor([339.9140, 184.3938, 364.9153, 198.0547], device='cuda:0')
+2024-03-31 13:22:16,394 - DEBUG - BBOX: (tensor(339.9140, device='cuda:0'), tensor(184.3938, device='cuda:0')), (tensor(364.9153, device='cuda:0'), tensor(198.0547, device='cuda:0'))
+2024-03-31 13:22:16,395 - DEBUG - center point:352, 191
+2024-03-31 13:22:16,482 - INFO - depth_point_in_meters_camera_coords is:1.6702594809730849
+2024-03-31 13:22:16,601 - DEBUG - None
+2024-03-31 13:22:16,601 - INFO - boxes is None! no detections
+2024-03-31 13:22:16,712 - DEBUG - None
+2024-03-31 13:22:16,713 - INFO - boxes is None! no detections
+2024-03-31 13:22:16,834 - DEBUG - tensor([339.9653, 184.3711, 364.7780, 197.8290], device='cuda:0')
+2024-03-31 13:22:16,853 - DEBUG - BBOX: (tensor(339.9653, device='cuda:0'), tensor(184.3711, device='cuda:0')), (tensor(364.7780, device='cuda:0'), tensor(197.8290, device='cuda:0'))
+2024-03-31 13:22:16,854 - DEBUG - center point:352, 191
+2024-03-31 13:22:16,933 - INFO - depth_point_in_meters_camera_coords is:1.6719405989845593
+2024-03-31 13:22:17,050 - DEBUG - tensor([339.8979, 184.2474, 365.0612, 197.9984], device='cuda:0')
+2024-03-31 13:22:17,069 - DEBUG - BBOX: (tensor(339.8979, device='cuda:0'), tensor(184.2474, device='cuda:0')), (tensor(365.0612, device='cuda:0'), tensor(197.9984, device='cuda:0'))
+2024-03-31 13:22:17,071 - DEBUG - center point:352, 191
+2024-03-31 13:22:17,148 - INFO - depth_point_in_meters_camera_coords is:1.6772510274251302
+2024-03-31 13:22:17,261 - DEBUG - None
+2024-03-31 13:22:17,261 - INFO - boxes is None! no detections
+2024-03-31 13:22:17,396 - DEBUG - None
+2024-03-31 13:22:17,397 - INFO - boxes is None! no detections
+2024-03-31 13:22:17,520 - DEBUG - None
+2024-03-31 13:22:17,520 - INFO - boxes is None! no detections
+2024-03-31 13:22:17,640 - DEBUG - tensor([339.9614, 184.2376, 364.9361, 198.0161], device='cuda:0')
+2024-03-31 13:22:17,660 - DEBUG - BBOX: (tensor(339.9614, device='cuda:0'), tensor(184.2376, device='cuda:0')), (tensor(364.9361, device='cuda:0'), tensor(198.0161, device='cuda:0'))
+2024-03-31 13:22:17,662 - DEBUG - center point:352, 191
+2024-03-31 13:22:17,738 - INFO - depth_point_in_meters_camera_coords is:1.6755896919965745
+2024-03-31 13:22:17,854 - DEBUG - tensor([339.9022, 184.1086, 364.9966, 197.8946], device='cuda:0')
+2024-03-31 13:22:17,878 - DEBUG - BBOX: (tensor(339.9022, device='cuda:0'), tensor(184.1086, device='cuda:0')), (tensor(364.9966, device='cuda:0'), tensor(197.8946, device='cuda:0'))
+2024-03-31 13:22:17,879 - DEBUG - center point:352, 191
+2024-03-31 13:22:17,966 - INFO - depth_point_in_meters_camera_coords is:1.6746889414389927
+2024-03-31 13:22:18,094 - DEBUG - tensor([339.8520, 184.2980, 365.3293, 198.0811], device='cuda:0')
+2024-03-31 13:22:18,114 - DEBUG - BBOX: (tensor(339.8520, device='cuda:0'), tensor(184.2980, device='cuda:0')), (tensor(365.3293, device='cuda:0'), tensor(198.0811, device='cuda:0'))
+2024-03-31 13:22:18,115 - DEBUG - center point:352, 191
+2024-03-31 13:22:18,189 - INFO - depth_point_in_meters_camera_coords is:1.6666216497619948
+2024-03-31 13:22:18,313 - DEBUG - tensor([339.9208, 184.2610, 365.1928, 197.8675], device='cuda:0')
+2024-03-31 13:22:18,336 - DEBUG - BBOX: (tensor(339.9208, device='cuda:0'), tensor(184.2610, device='cuda:0')), (tensor(365.1928, device='cuda:0'), tensor(197.8675, device='cuda:0'))
+2024-03-31 13:22:18,337 - DEBUG - center point:352, 191
+2024-03-31 13:22:18,429 - INFO - depth_point_in_meters_camera_coords is:1.6581805299719174
+2024-03-31 13:22:18,551 - DEBUG - None
+2024-03-31 13:22:18,552 - INFO - boxes is None! no detections
+2024-03-31 13:22:18,676 - DEBUG - None
+2024-03-31 13:22:18,677 - INFO - boxes is None! no detections
+2024-03-31 13:22:18,797 - DEBUG - None
+2024-03-31 13:22:18,797 - INFO - boxes is None! no detections
+2024-03-31 13:22:18,910 - DEBUG - None
+2024-03-31 13:22:18,911 - INFO - boxes is None! no detections
+2024-03-31 13:22:19,023 - DEBUG - None
+2024-03-31 13:22:19,024 - INFO - boxes is None! no detections
+2024-03-31 13:22:19,133 - DEBUG - None
+2024-03-31 13:22:19,133 - INFO - boxes is None! no detections
+2024-03-31 13:22:19,246 - DEBUG - None
+2024-03-31 13:22:19,247 - INFO - boxes is None! no detections
+2024-03-31 13:22:19,360 - DEBUG - None
+2024-03-31 13:22:19,361 - INFO - boxes is None! no detections
+2024-03-31 13:22:19,469 - DEBUG - None
+2024-03-31 13:22:19,469 - INFO - boxes is None! no detections
+2024-03-31 13:22:19,579 - DEBUG - None
+2024-03-31 13:22:19,579 - INFO - boxes is None! no detections
+2024-03-31 13:22:19,693 - DEBUG - None
+2024-03-31 13:22:19,694 - INFO - boxes is None! no detections
+2024-03-31 13:22:19,802 - DEBUG - None
+2024-03-31 13:22:19,803 - INFO - boxes is None! no detections
+2024-03-31 13:22:19,911 - DEBUG - None
+2024-03-31 13:22:19,912 - INFO - boxes is None! no detections
+2024-03-31 13:22:20,024 - DEBUG - None
+2024-03-31 13:22:20,025 - INFO - boxes is None! no detections
+2024-03-31 13:22:20,139 - DEBUG - None
+2024-03-31 13:22:20,139 - INFO - boxes is None! no detections
+2024-03-31 13:22:20,259 - DEBUG - None
+2024-03-31 13:22:20,259 - INFO - boxes is None! no detections
+2024-03-31 13:22:20,374 - DEBUG - None
+2024-03-31 13:22:20,375 - INFO - boxes is None! no detections
+2024-03-31 13:22:20,493 - DEBUG - None
+2024-03-31 13:22:20,494 - INFO - boxes is None! no detections
+2024-03-31 13:22:20,606 - DEBUG - None
+2024-03-31 13:22:20,606 - INFO - boxes is None! no detections
+2024-03-31 13:22:20,727 - DEBUG - None
+2024-03-31 13:22:20,729 - INFO - boxes is None! no detections
+2024-03-31 13:22:20,847 - DEBUG - None
+2024-03-31 13:22:20,847 - INFO - boxes is None! no detections
+2024-03-31 13:22:20,957 - DEBUG - None
+2024-03-31 13:22:20,958 - INFO - boxes is None! no detections
+2024-03-31 13:22:21,066 - DEBUG - None
+2024-03-31 13:22:21,066 - INFO - boxes is None! no detections
+2024-03-31 13:22:21,177 - DEBUG - None
+2024-03-31 13:22:21,177 - INFO - boxes is None! no detections
+2024-03-31 13:22:21,296 - DEBUG - None
+2024-03-31 13:22:21,296 - INFO - boxes is None! no detections
+2024-03-31 13:22:21,416 - DEBUG - None
+2024-03-31 13:22:21,417 - INFO - boxes is None! no detections
+2024-03-31 13:22:21,535 - DEBUG - None
+2024-03-31 13:22:21,536 - INFO - boxes is None! no detections
+2024-03-31 13:22:21,647 - DEBUG - None
+2024-03-31 13:22:21,647 - INFO - boxes is None! no detections
+2024-03-31 13:22:21,764 - DEBUG - None
+2024-03-31 13:22:21,765 - INFO - boxes is None! no detections
+2024-03-31 13:22:21,881 - DEBUG - None
+2024-03-31 13:22:21,881 - INFO - boxes is None! no detections
+2024-03-31 13:22:21,998 - DEBUG - None
+2024-03-31 13:22:21,999 - INFO - boxes is None! no detections
+2024-03-31 13:22:22,111 - DEBUG - None
+2024-03-31 13:22:22,112 - INFO - boxes is None! no detections
+2024-03-31 13:22:22,220 - DEBUG - None
+2024-03-31 13:22:22,220 - INFO - boxes is None! no detections
+2024-03-31 13:22:22,328 - DEBUG - None
+2024-03-31 13:22:22,329 - INFO - boxes is None! no detections
+2024-03-31 13:22:22,446 - DEBUG - None
+2024-03-31 13:22:22,446 - INFO - boxes is None! no detections
+2024-03-31 13:22:22,564 - DEBUG - None
+2024-03-31 13:22:22,564 - INFO - boxes is None! no detections
+2024-03-31 13:22:22,682 - DEBUG - None
+2024-03-31 13:22:22,682 - INFO - boxes is None! no detections
+2024-03-31 13:22:22,801 - DEBUG - None
+2024-03-31 13:22:22,801 - INFO - boxes is None! no detections
+2024-03-31 13:22:22,908 - DEBUG - None
+2024-03-31 13:22:22,909 - INFO - boxes is None! no detections
+2024-03-31 13:22:23,019 - DEBUG - None
+2024-03-31 13:22:23,019 - INFO - boxes is None! no detections
+2024-03-31 13:22:23,136 - DEBUG - None
+2024-03-31 13:22:23,137 - INFO - boxes is None! no detections
+2024-03-31 13:22:23,244 - DEBUG - None
+2024-03-31 13:22:23,244 - INFO - boxes is None! no detections
+2024-03-31 13:22:23,356 - DEBUG - None
+2024-03-31 13:22:23,356 - INFO - boxes is None! no detections
+2024-03-31 13:22:23,471 - DEBUG - None
+2024-03-31 13:22:23,471 - INFO - boxes is None! no detections
+2024-03-31 13:22:23,583 - DEBUG - None
+2024-03-31 13:22:23,584 - INFO - boxes is None! no detections
+2024-03-31 13:22:23,697 - DEBUG - None
+2024-03-31 13:22:23,697 - INFO - boxes is None! no detections
+2024-03-31 13:22:23,809 - DEBUG - None
+2024-03-31 13:22:23,809 - INFO - boxes is None! no detections
+2024-03-31 13:22:23,918 - DEBUG - None
+2024-03-31 13:22:23,918 - INFO - boxes is None! no detections
+2024-03-31 13:22:24,032 - DEBUG - None
+2024-03-31 13:22:24,032 - INFO - boxes is None! no detections
+2024-03-31 13:22:24,146 - DEBUG - None
+2024-03-31 13:22:24,146 - INFO - boxes is None! no detections
+2024-03-31 13:22:24,258 - DEBUG - None
+2024-03-31 13:22:24,259 - INFO - boxes is None! no detections
+2024-03-31 13:22:24,371 - DEBUG - None
+2024-03-31 13:22:24,371 - INFO - boxes is None! no detections
+2024-03-31 13:22:24,481 - DEBUG - None
+2024-03-31 13:22:24,481 - INFO - boxes is None! no detections
+2024-03-31 13:22:24,605 - DEBUG - None
+2024-03-31 13:22:24,606 - INFO - boxes is None! no detections
+2024-03-31 13:22:24,722 - DEBUG - None
+2024-03-31 13:22:24,723 - INFO - boxes is None! no detections
+2024-03-31 13:22:24,851 - DEBUG - None
+2024-03-31 13:22:24,852 - INFO - boxes is None! no detections
+2024-03-31 13:22:24,969 - DEBUG - None
+2024-03-31 13:22:24,969 - INFO - boxes is None! no detections
+2024-03-31 13:22:25,077 - DEBUG - None
+2024-03-31 13:22:25,078 - INFO - boxes is None! no detections
+2024-03-31 13:22:25,189 - DEBUG - None
+2024-03-31 13:22:25,190 - INFO - boxes is None! no detections
+2024-03-31 13:22:25,297 - DEBUG - None
+2024-03-31 13:22:25,297 - INFO - boxes is None! no detections
+2024-03-31 13:22:25,409 - DEBUG - None
+2024-03-31 13:22:25,409 - INFO - boxes is None! no detections
+2024-03-31 13:22:25,521 - DEBUG - None
+2024-03-31 13:22:25,522 - INFO - boxes is None! no detections
+2024-03-31 13:22:25,633 - DEBUG - None
+2024-03-31 13:22:25,634 - INFO - boxes is None! no detections
+2024-03-31 13:22:25,769 - DEBUG - None
+2024-03-31 13:22:25,770 - INFO - boxes is None! no detections
+2024-03-31 13:22:25,881 - DEBUG - None
+2024-03-31 13:22:25,882 - INFO - boxes is None! no detections
+2024-03-31 13:22:25,995 - DEBUG - None
+2024-03-31 13:22:25,996 - INFO - boxes is None! no detections
+2024-03-31 13:22:26,106 - DEBUG - None
+2024-03-31 13:22:26,107 - INFO - boxes is None! no detections
+2024-03-31 13:22:26,215 - DEBUG - None
+2024-03-31 13:22:26,216 - INFO - boxes is None! no detections
+2024-03-31 13:22:26,329 - DEBUG - None
+2024-03-31 13:22:26,329 - INFO - boxes is None! no detections
+2024-03-31 13:22:26,439 - DEBUG - None
+2024-03-31 13:22:26,439 - INFO - boxes is None! no detections
+2024-03-31 13:22:26,549 - DEBUG - None
+2024-03-31 13:22:26,550 - INFO - boxes is None! no detections
+2024-03-31 13:22:26,669 - DEBUG - tensor([330.1530, 183.7739, 370.3547, 199.1984], device='cuda:0')
+2024-03-31 13:22:26,685 - DEBUG - BBOX: (tensor(330.1530, device='cuda:0'), tensor(183.7739, device='cuda:0')), (tensor(370.3547, device='cuda:0'), tensor(199.1984, device='cuda:0'))
+2024-03-31 13:22:26,686 - DEBUG - center point:350, 191
+2024-03-31 13:22:26,767 - INFO - depth_point_in_meters_camera_coords is:1.6076657019058864
+2024-03-31 13:22:26,877 - DEBUG - None
+2024-03-31 13:22:26,878 - INFO - boxes is None! no detections
+2024-03-31 13:22:26,987 - DEBUG - None
+2024-03-31 13:22:26,988 - INFO - boxes is None! no detections
+2024-03-31 13:22:27,104 - DEBUG - None
+2024-03-31 13:22:27,105 - INFO - boxes is None! no detections
+2024-03-31 13:22:27,215 - DEBUG - None
+2024-03-31 13:22:27,216 - INFO - boxes is None! no detections
+2024-03-31 13:22:27,325 - DEBUG - None
+2024-03-31 13:22:27,325 - INFO - boxes is None! no detections
+2024-03-31 13:22:27,435 - DEBUG - None
+2024-03-31 13:22:27,436 - INFO - boxes is None! no detections
+2024-03-31 13:22:27,544 - DEBUG - None
+2024-03-31 13:22:27,545 - INFO - boxes is None! no detections
+2024-03-31 13:22:27,653 - DEBUG - None
+2024-03-31 13:22:27,654 - INFO - boxes is None! no detections
+2024-03-31 13:22:27,759 - DEBUG - None
+2024-03-31 13:22:27,760 - INFO - boxes is None! no detections
+2024-03-31 13:22:27,872 - DEBUG - None
+2024-03-31 13:22:27,872 - INFO - boxes is None! no detections
+2024-03-31 13:22:27,981 - DEBUG - None
+2024-03-31 13:22:27,982 - INFO - boxes is None! no detections
+2024-03-31 13:22:28,090 - DEBUG - None
+2024-03-31 13:22:28,091 - INFO - boxes is None! no detections
+2024-03-31 13:22:28,199 - DEBUG - None
+2024-03-31 13:22:28,199 - INFO - boxes is None! no detections
+2024-03-31 13:22:28,310 - DEBUG - None
+2024-03-31 13:22:28,310 - INFO - boxes is None! no detections
+2024-03-31 13:22:28,423 - DEBUG - None
+2024-03-31 13:22:28,424 - INFO - boxes is None! no detections
+2024-03-31 13:22:28,546 - DEBUG - None
+2024-03-31 13:22:28,547 - INFO - boxes is None! no detections
+2024-03-31 13:22:28,669 - DEBUG - None
+2024-03-31 13:22:28,670 - INFO - boxes is None! no detections
+2024-03-31 13:22:28,785 - DEBUG - None
+2024-03-31 13:22:28,785 - INFO - boxes is None! no detections
+2024-03-31 13:22:28,898 - DEBUG - None
+2024-03-31 13:22:28,898 - INFO - boxes is None! no detections
+2024-03-31 13:22:29,012 - DEBUG - None
+2024-03-31 13:22:29,012 - INFO - boxes is None! no detections
+2024-03-31 13:22:29,118 - DEBUG - None
+2024-03-31 13:22:29,119 - INFO - boxes is None! no detections
+2024-03-31 13:22:29,241 - DEBUG - None
+2024-03-31 13:22:29,241 - INFO - boxes is None! no detections
+2024-03-31 13:22:29,360 - DEBUG - None
+2024-03-31 13:22:29,361 - INFO - boxes is None! no detections
+2024-03-31 13:22:29,477 - DEBUG - None
+2024-03-31 13:22:29,477 - INFO - boxes is None! no detections
+2024-03-31 13:22:29,596 - DEBUG - None
+2024-03-31 13:22:29,597 - INFO - boxes is None! no detections
+2024-03-31 13:22:29,714 - DEBUG - None
+2024-03-31 13:22:29,716 - INFO - boxes is None! no detections
+2024-03-31 13:22:29,840 - DEBUG - None
+2024-03-31 13:22:29,841 - INFO - boxes is None! no detections
+2024-03-31 13:22:29,971 - DEBUG - None
+2024-03-31 13:22:29,971 - INFO - boxes is None! no detections
+2024-03-31 13:22:30,087 - DEBUG - None
+2024-03-31 13:22:30,088 - INFO - boxes is None! no detections
+2024-03-31 13:22:30,207 - DEBUG - None
+2024-03-31 13:22:30,208 - INFO - boxes is None! no detections
+2024-03-31 13:22:30,325 - DEBUG - None
+2024-03-31 13:22:30,325 - INFO - boxes is None! no detections
+2024-03-31 13:22:30,445 - DEBUG - None
+2024-03-31 13:22:30,446 - INFO - boxes is None! no detections
+2024-03-31 13:22:30,564 - DEBUG - None
+2024-03-31 13:22:30,564 - INFO - boxes is None! no detections
+2024-03-31 13:22:30,678 - DEBUG - None
+2024-03-31 13:22:30,678 - INFO - boxes is None! no detections
+2024-03-31 13:22:30,802 - DEBUG - None
+2024-03-31 13:22:30,803 - INFO - boxes is None! no detections
+2024-03-31 13:22:30,917 - DEBUG - None
+2024-03-31 13:22:30,918 - INFO - boxes is None! no detections
+2024-03-31 13:22:31,033 - DEBUG - None
+2024-03-31 13:22:31,033 - INFO - boxes is None! no detections
+2024-03-31 13:22:31,149 - DEBUG - None
+2024-03-31 13:22:31,149 - INFO - boxes is None! no detections
+2024-03-31 13:22:31,270 - DEBUG - None
+2024-03-31 13:22:31,271 - INFO - boxes is None! no detections
+2024-03-31 13:22:31,382 - DEBUG - None
+2024-03-31 13:22:31,382 - INFO - boxes is None! no detections
+2024-03-31 13:22:31,493 - DEBUG - None
+2024-03-31 13:22:31,493 - INFO - boxes is None! no detections
+2024-03-31 13:22:31,605 - DEBUG - None
+2024-03-31 13:22:31,606 - INFO - boxes is None! no detections
+2024-03-31 13:22:31,718 - DEBUG - None
+2024-03-31 13:22:31,719 - INFO - boxes is None! no detections
+2024-03-31 13:22:31,833 - DEBUG - None
+2024-03-31 13:22:31,834 - INFO - boxes is None! no detections
+2024-03-31 13:22:31,942 - DEBUG - None
+2024-03-31 13:22:31,943 - INFO - boxes is None! no detections
+2024-03-31 13:22:32,053 - DEBUG - None
+2024-03-31 13:22:32,054 - INFO - boxes is None! no detections
+2024-03-31 13:22:32,168 - DEBUG - None
+2024-03-31 13:22:32,169 - INFO - boxes is None! no detections
+2024-03-31 13:22:32,277 - DEBUG - None
+2024-03-31 13:22:32,278 - INFO - boxes is None! no detections
+2024-03-31 13:22:32,386 - DEBUG - None
+2024-03-31 13:22:32,387 - INFO - boxes is None! no detections
+2024-03-31 13:22:32,508 - DEBUG - None
+2024-03-31 13:22:32,508 - INFO - boxes is None! no detections
+2024-03-31 13:22:32,628 - DEBUG - None
+2024-03-31 13:22:32,629 - INFO - boxes is None! no detections
+2024-03-31 13:22:32,746 - DEBUG - None
+2024-03-31 13:22:32,747 - INFO - boxes is None! no detections
+2024-03-31 13:22:32,857 - DEBUG - None
+2024-03-31 13:22:32,858 - INFO - boxes is None! no detections
+2024-03-31 13:22:32,971 - DEBUG - None
+2024-03-31 13:22:32,971 - INFO - boxes is None! no detections
+2024-03-31 13:22:33,081 - DEBUG - None
+2024-03-31 13:22:33,082 - INFO - boxes is None! no detections
+2024-03-31 13:22:33,187 - DEBUG - None
+2024-03-31 13:22:33,188 - INFO - boxes is None! no detections
+2024-03-31 13:22:33,302 - DEBUG - None
+2024-03-31 13:22:33,303 - INFO - boxes is None! no detections
+2024-03-31 13:22:33,423 - DEBUG - None
+2024-03-31 13:22:33,424 - INFO - boxes is None! no detections
+2024-03-31 13:22:33,539 - DEBUG - None
+2024-03-31 13:22:33,540 - INFO - boxes is None! no detections
