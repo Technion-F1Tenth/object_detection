@@ -1,0 +1,4 @@
+vision_node:
+  ros__parameters:
+    vision_topic: '/vision'
+

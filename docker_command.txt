@@ -1,0 +1,25 @@
+# run first:
+xhost +
+
+# then:
+sudo docker run --name object_detection --runtime nvidia -it --rm -v ~/f1tenth_ws:/home/doof-wagon/f1tenth_ws -v ~/Vision_2024:/Vision_2024 --network=f1tenth -e DISPLAY=$DISPLAY --privileged --device=/dev f1tenth_object_detection
+
+
+# If you want to install something in the docker edit docker/Dockerfile and run:
+sudo docker build -t f1tenth_object_detection .
+
+
+
+____
+
+#inside docker run node:
+
+export ROS_DOMAIN_ID=2
+cd /home/doof-wagon/f1tenth_ws/
+source install/setup.bash
+ros2 run object_detection object_detection_node 
+
+# for the first export command, make sure that 'echo $ROS_DOMAIN_ID' is similar on the host. If not change accordingly
+# if host can't see topics published by the container, do the following stupid thing: from the host, publish to a topic:
+ros2 topic pub /test_topic std_msgs/msg/String "data: 'Hello from host'"
+# and stop it, then you should be able to see containers topics.
