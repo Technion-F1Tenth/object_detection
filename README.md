@@ -3,6 +3,7 @@
 ![Project Logo](logos/Vision_Team.jpeg)
 
 ## Demo
+
 ![Watch the Demo](best_result_videos_29_03_2024/readmeGif.gif)
 
 ## Project Overview
