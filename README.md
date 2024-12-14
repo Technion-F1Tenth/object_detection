@@ -1,10 +1,10 @@
 # Vision-Based Rival Vehicle Detection for F1Tenth
 
-![Project Logo](logos/Vision_Team.jpeg)
+![Project Logo](source_for_README/visionTeamLogo.jpeg)
 
 ## Demo
 
-![Watch the Demo](best_result_videos_29_03_2024/readmeGif.gif)
+![Watch the Demo](source_for_README/readmeGif.gif)
 
 ## Project Overview
 This project focuses on developing a vision-based solution for detecting rival vehicles in the F1Tenth competition environment. The primary challenge was to accurately identify dynamic objects in real time while considering the vehicle's computational and mechanical constraints.
