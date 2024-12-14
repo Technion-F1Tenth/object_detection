@@ -2,6 +2,9 @@
 
 ![Project Logo](logos/Vision_Team.jpeg)
 
+## Demo
+[![Watch the Demo](best_result_videos_29_03_2024/readmeGif.gif)
+
 ## Project Overview
 This project focuses on developing a vision-based solution for detecting rival vehicles in the F1Tenth competition environment. The primary challenge was to accurately identify dynamic objects in real time while considering the vehicle's computational and mechanical constraints.
 
@@ -18,9 +21,6 @@ The proposed solution integrates advanced image processing techniques with camer
 - **Intel RealSense**: Cameras providing high-resolution RGB and depth images.
 - **ROS2**: Middleware framework ensuring modularity and real-time performance.
 - **Docker**: Containerization for an isolated and stable environment.
-
-## Demo
-[![Watch the Demo](best_result_videos_29_03_2024/final_for_README.mp4)
 
 ## Credits
 - **Team Members**:
