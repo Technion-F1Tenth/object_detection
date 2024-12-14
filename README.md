@@ -24,9 +24,9 @@ The proposed solution integrates advanced image processing techniques with camer
 
 ## Credits
 - **Team Members**:
-- Toam Elharar
-- Golan Gershonowitz
-- Yuval Goshen
+    - Toam Elharar
+    - Golan Gershonowitz
+    - Yuval Goshen
     
 - **Acknowledgments**:
   - MRS Lab at Technion
