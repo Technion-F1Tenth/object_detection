@@ -1,8 +1,14 @@
 # Vision-Based Rival Vehicle Detection for F1Tenth
 <div align="center">
+  <img src="ource_for_README/visionTeamLogoV1.jpeg" alt="Project Logo" width="200">
+</div>
+
+<!--
+<div align="center">
   <img src="source_for_README/visionTeamLogoV1.jpeg" alt="Project Logo" />
 </div>
-<!-- ![Project Logo](source_for_README/visionTeamLogo.jpeg) -->
+![Project Logo](source_for_README/visionTeamLogo.jpeg) 
+ -->
 
 ## Demo
 <div align="center">
