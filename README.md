@@ -1,6 +1,6 @@
-# Vision-Based Rival Vehicle Detection for F1Tenth
+# Vision Team - F1Tenth 2024
 <div align="center">
-  <img src="ource_for_README/visionTeamLogoV1.jpeg" alt="Project Logo" width="200">
+  <img src="source_for_README/visionTeamLogoV3.png" alt="Project Logo" width="400">
 </div>
 
 <!--
