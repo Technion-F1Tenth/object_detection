@@ -11,13 +11,12 @@
 ## Project Overview
 This project focuses on developing a vision-based solution for detecting rival vehicles in the F1Tenth competition environment. The primary challenge was to accurately identify dynamic objects in real time while considering the vehicle's computational and mechanical constraints.
 
-The proposed solution integrates advanced image processing techniques with camera-generated RGB and depth images. After evaluating several algorithms such as SSD, Mask R-CNN, and Reinforcement Learning, the YOLO-World model was selected for its optimal balance between accuracy and speed. The vision module was implemented using the ROS2 platform, with Docker providing stability and isolation for the system.
+<!--The proposed solution integrates advanced image processing techniques with camera-generated RGB and depth images. After evaluating several algorithms such as SSD, Mask R-CNN, and Reinforcement Learning, the YOLO-World model was selected for its optimal balance between accuracy and speed. The vision module was implemented using the ROS2 platform, with Docker providing stability and isolation for the system.-->
 
 ## Features
 - **Real-Time Object Detection**: Detects and tracks rival vehicles in a dynamic environment.
 - **Algorithm Selection**: YOLO-World chosen for its superior speed-accuracy trade-off.
 - **Platform Integration**: Leveraged ROS2 and Docker for modularity and robustness.
-- **Support for RGB and Depth Data**: Utilizes Intel RealSense cameras for enhanced detection capabilities.
 
 ## Key Technologies
 - **YOLO-World**: A state-of-the-art object detection model optimized for open-vocabulary tasks.
@@ -41,5 +40,3 @@ The proposed solution integrates advanced image processing techniques with camer
 - [Joseph Redmon et al., YOLO](https://arxiv.org/abs/1506.02640)
 
 ---
-
-Feel free to adapt this template further! Let me know if you need help refining or modifying specific sections.
