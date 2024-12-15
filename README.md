@@ -12,7 +12,7 @@
 
 ## Demo
 <div align="center">
-  <img src="source_for_README/readmeGif.gif" alt="Watch the Demo" />
+  <img src="source_for_README/CropForGif_1.gif" alt="Watch the Demo" />
 </div>
 <!-- ![Watch the Demo](source_for_README/readmeGif.gif) -->
 
