@@ -1,2 +1,0 @@
-2024-12-15 19:19:17,766 - INFO - !!!!!!!START!!!!!!!
-2024-12-15 19:19:17,766 - INFO - args: Namespace(debug=False, dr=None, ox=None, oy=None, srcVideo='/Users/toamelharar/Downloads/test_videos_29_03_2024/ObjectDetection_21-11-2023_21-38-02_clean.mp4', depthVideo=None, logDir='source_for_README')
